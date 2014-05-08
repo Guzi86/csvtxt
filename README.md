@@ -1,2 +1,2 @@
-Die ist nur ein Test-Repository fuer unseren CSV-Bereich.
+Dies ist ein Test-Repository fuer unseren CSV-Bereich.
 

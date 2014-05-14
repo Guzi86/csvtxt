@@ -1,7 +1,16 @@
 <h3>[ Allgemeines ]</h3>
 <ul>
-	<li><h4>Verfügbarkeit</h4>Hier wird angezeigt, ob Ihr Datenpool öffentlich verfügbar ist. Standard-Einstellung ist generell <strong>'nein'</strong>, d.h. Ihre Daten sind NICHT öffentlich verfügbar, also nur für Sie persönlich sichtbar (<strong>privat data</strong>). Bitte setzen Sie sich mit uns in Verbindung, wenn Sie Ihre Produktdaten auch anderen <strong>registrierten Nutzern</strong> von csv4you.com zur Verfügung stellen möchten (<strong>public data</strong>).</li>
-	<li><h4>Freifelder/Variationen</h4>Definieren Sie hier beliebige Freifelder/Variationen. Diese lassen sich beim Importieren von Daten einzelnen Spalten zuordnen. Auch für den Export von CSV-Daten (eigene Schnittstellen) können Sie die Freifelder später in Ihre Datendefinition bzw. den Spaltenkopf übernehmen.</li>
+	<li>
+		<h4>Verfügbarkeit</h4>Hier wird angezeigt, ob Ihr Datenpool öffentlich verfügbar ist. Standard-Einstellung ist generell
+		<strong>'nein'</strong>, d.h. Ihre Daten sind NICHT öffentlich verfügbar, also nur für Sie persönlich sichtbar (
+		<strong>privat data</strong>). Bitte setzen Sie sich mit uns in Verbindung, wenn Sie Ihre Produktdaten auch anderen
+		<strong>registrierten Nutzern</strong> von csv4you.com zur Verfügung stellen möchten (<strong>public data</strong>).
+	</li>
+	<li>
+		<h4>Freifelder/Variationen</h4>Definieren Sie hier beliebige Freifelder/Variationen. Diese lassen sich beim Importieren von Daten 
+		einzelnen Spalten zuordnen. Auch für den Export von CSV-Daten (eigene Schnittstellen) können Sie die Freifelder später in Ihre 
+		Datendefinition bzw. den Spaltenkopf übernehmen.
+	</li>
 </ul>
 
 <h3>[ Datenquellen ]</h3>
@@ -9,22 +18,43 @@
 	<i>Autoteile</i><br />
 	<i>Schmuck</i><br />
 	<i>Büromöbel</i><br />
-	Damit können verschiedene 'Datenquellen' verwaltet, importiert, exportiert oder über die Cronjob-Funktionen angesprochen werden, z.B. wenn Sie 3 separate Shops mit unterschiedlichen Angeboten betreiben.<br />
+	Damit können verschiedene 'Datenquellen' verwaltet, importiert, exportiert oder über die Cronjob-Funktionen angesprochen werden,
+	z.B. wenn Sie 3 separate Shops mit unterschiedlichen Angeboten betreiben.<br />
 </p>
 
 <h3>[ Anbieterdaten ]</h3>
-<p>Wir nennen diesen Bereich 'Anbieterdaten', weil Sie Ihren Datenpool auf Anfrage auch anderen Nutzern von csv4you.com zur Verfügung stellen können (<strong>public data</strong>). Das kann z.B. der Fall sein, wenn Sie als Hersteller oder Großhändler über die öffentliche Freigabe Ihres Datenpools (bzw. Ihrer Produktdaten) neue Kunden finden möchten. Auch der Versand per Dropshipping wird dadurch denkbar.</p>
+<p>Wir nennen diesen Bereich 'Anbieterdaten', weil Sie Ihren Datenpool auf Anfrage auch anderen Nutzern von csv4you.com
+	zur Verfügung stellen können (<strong>public data</strong>). Das kann z.B. der Fall sein, wenn Sie als Hersteller oder Großhändler
+	über die öffentliche Freigabe Ihres Datenpools (bzw. Ihrer Produktdaten) neue Kunden finden möchten. Auch der Versand per Dropshipping 
+	wird dadurch denkbar.
+</p>
 
 <ul>
-	<li><h4>Firma, Name und Ansprechpartner</h4>Tragen Sie Ihre Firmenbezeichnung, Ihren Name sowie den Ansprechpartner ein. Diese Angaben sind für jedermann sichtbar, wenn Sie Ihre CSV-Daten öffentlich zur Verfügung stellen - siehe oben, Abschnitt Allgemeine Einstellungen ->Daten (<strong>public data</strong>).</li>
-	<li><h4>Firmen-Anschrift</h4>Anschrift Ihrer Firma</li>
-	<li><h4>Kontaktdaten</h4>Telefon, Fax, Mailadresse, Web-Adresse</li>
-	<li><h4>Angaben zu Firma und Produkten</h4>Hier können Sie noch weitere Angaben zu Ihrer Firma und den angebotenen Daten/Produkten machen. Diese Informationen werden dann im Bereich <i>Schnittstellen</i> sowie auf der Seite <i>Händler</i> für andere Nutzer sichtbar (<strong>public data</strong>).</li>
+	<li>
+		<h4>Firma, Name und Ansprechpartner</h4>Tragen Sie Ihre Firmenbezeichnung, Ihren Name sowie den Ansprechpartner ein.
+		Diese Angaben sind für jedermann sichtbar, wenn Sie Ihre CSV-Daten öffentlich zur Verfügung stellen - siehe oben, 
+		Abschnitt Allgemeine Einstellungen ->Daten (<strong>public data</strong>).
+	</li>
+	<li>
+		<h4>Firmen-Anschrift</h4>Anschrift Ihrer Firma
+	</li>
+	<li>
+		<h4>Kontaktdaten</h4>Telefon, Fax, Mailadresse, Web-Adresse
+	</li>
+	<li>
+		<h4>Angaben zu Firma und Produkten</h4>Hier können Sie noch weitere Angaben zu Ihrer Firma und den angebotenen 
+		Daten/Produkten machen. Diese Informationen werden dann im Bereich <i>Schnittstellen</i> sowie auf der Seite 
+		<i>Händler</i> für andere Nutzer sichtbar (<strong>public data</strong>).
+	</li>
 </ul>
 
 <a name="ftpData" id="ftpData"></a><h3>[ FTP-Daten ]</h3>
-<p>Tragen Sie hier (falls vorhanden und notwendig) die FTP-Zugangsdaten Ihres Webservers ein. Sämtliche Daten können dann automatisch zu bestimmten Zeiten über Cronjobs von Ihrem Server in unser CSV-Tool importiert bzw. aktualisiert werden.<br />
-	<span class="txtRed"><strong>Achtung!</strong> Legen Sie aus Sicherheitsgründen bitte einen separaten FTP-Benutzer mit eingeschränkten Rechten für csv4you.com auf Ihrem Server an.</span> Dieser FTP-Benutzer sollte lediglich Zugriff auf einen ganz bestimmten Unterordner Ihres Servers haben, in den Sie Ihre CSV-Daten von hier übertragen möchten. Geben Sie diesem Benutzer keine administrativen Rechte für außerhalb bzw. oberhalb liegende Verzeichnisse auf Ihrem Webserver!<br />
+<p>Tragen Sie hier (falls vorhanden und notwendig) die FTP-Zugangsdaten Ihres Webservers ein. Sämtliche Daten können dann automatisch 
+	zu bestimmten Zeiten über Cronjobs von Ihrem Server in unser CSV-Tool importiert bzw. aktualisiert werden.<br />
+	<span class="txtRed"><strong>Achtung!</strong> Legen Sie aus Sicherheitsgründen bitte einen separaten FTP-Benutzer mit 
+	eingeschränkten Rechten für csv4you.com auf Ihrem Server an.</span> Dieser FTP-Benutzer sollte lediglich Zugriff auf einen 
+	ganz bestimmten Unterordner Ihres Servers haben, in den Sie Ihre CSV-Daten von hier übertragen möchten. Geben Sie diesem Benutzer 
+	keine administrativen Rechte für außerhalb bzw. oberhalb liegende Verzeichnisse auf Ihrem Webserver!<br />
 	Ein Beispiel:<br />
 	<strong>Name</strong> - MyFTPServer<br />
 	<strong>FTP-Server</strong> - ftp.myftpserver.com<br />

@@ -62,4 +62,3 @@
 	<strong>FTP-Benutzername</strong> - UsernameCsv4you<br />
 	<strong>FTP-Passwort</strong> - passwordCsv4you
 </p>
-

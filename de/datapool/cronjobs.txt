@@ -18,8 +18,8 @@
 		<strong>Spaltennamen stehen in Zeile</strong> - Angabe, in welcher Zeile die Spaltenbezeichner notiert sind (meistens ist das die 1. Zeile)<br />
 		<strong>Titel/Beschreibungen nicht ändern</strong> - Diese Option bitte unbedingt aktivieren, wenn in csv4you bereits geänderte
 		Titel/Beschreibungen erhalten bleiben sollen. Diese werden dann beim Import nicht überschrieben.<br />
-		<strong>ALLE bereits vorhandenen Datensätze dieser Datenquelle vorher löschen?</strong> - Wenn markiert, werden ALLE bereits vorhandenen Datensätze
-		der Datenquelle (in die importiert wird) mit Ausführung des Cronjobs gelöscht!<br />
+		<strong><span class="txtRed">ALLE bereits vorhandenen Datensätze dieser Datenquelle vorher löschen?</span></strong> - Wenn markiert,
+		werden <span class="txtRed">ALLE</span> bereits vorhandenen Datensätze	der Datenquelle (in die importiert wird) mit Ausführung des Cronjobs gelöscht!<br />
 	    <strong>Formatierungen aus den Texten entfernen</strong> - Sämtliche Formatierungen wie z.B. HTML-Tags werden beim Import aus den Daten entfernt.<br />
 		<strong>Leere Spalten nicht ins UPDATE einbeziehen!</strong> - ... <br />
 		<strong>Externe Kategorien mit den internen Kategorien abgleichen?</strong> - Haben sich Kategorien in der Importdatei geändert,

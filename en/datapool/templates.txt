@@ -1,0 +1,28 @@
+<p>Die Seite Vorlagen speichert zur besseren Übersicht Ihre bereits angelegten Vorlagen (Einstellungen) aus dem Bereich Import und Konverter.
+	Neue Vorlagen können Sie nach einem erfolgreichen Import oder dem Konvertieren von Dateien anlegen.
+	Bereits vorhandene Vorlagen können Sie <strong>hier nur ändern</strong>.<br />Bitte 'Speichern' nicht vergessen...
+</p>
+<ul>
+	<li><h4>Allgemeines</h4>
+		<strong>Name der Vorlage:</strong> Geben Sie einen Namen für die Vorlage ein (frei wählbar).<br />
+		<strong>Trennzeichen Datenfeld:</strong> Spaltentrenner festlegen<br />
+		<strong>Texterkennungszeichen:</strong> Texterkennungszeichen eingeben (falls verwendet)<br />
+		<strong>Spaltennamen stehen in Zeile:</strong> Hier die Zeile angeben, in der die Spaltennamen stehen (nicht immer ist es die 1. Zeile)<br />
+		<strong>XML-Element der Produktdaten:</strong> Sollte es sich um eine XML-Datei handeln, steht dort das ausgewählte XML-Tag
+		welches die Produktdaten enthält
+	</li>
+	<li><h4>Spaltenzuordnung</h4>
+		Hier sehen die Spaltenzuordnung Ihrer Import-Vorlage(n).<br />
+		<br />
+		<strong>Spaltenname in Schnittstelle:</strong> Hier werden alle verfügbaren Spaltennamen der jeweiligen Schnittstelle aufgelistet
+		(z.B. aus Yatego, XT-Commerce usw.).<br />
+		<strong>Spaltenname in Importdatei:</strong> Den Spaltennamen Ihrer Datei können Sie hier anpassen (falls notwendig), wenn sich z.B.
+		Spaltenbezeichner Ihrer Importdatei ändern. Ihr Spaltenname muss natürlich mit dem Namen in Ihrer Datei übereinstimmen.
+		Die Inhalte der jeweiligen Spalten Ihrer Importdatei werden dann später beim Import oder Konvertieren automatisch den Spaltennamen
+		der Schnittstelle (links) zugeordnet.<br />
+		Wichtig: In Spaltennamen, wenn möglich, bitte keine Leerzeichen, Sonderzeichen oder Umlaute verwenden.<br />
+		<strong>erweiterte Optionen:</strong> Sollen alle Datensätze bestimmter Spalten einen festen Wert bekommen
+		(z.B. Zustand = 'NEU' oder Menge = '1'), so tragen Sie diesen Wert bitte hier ein (NEU oder 1).
+		Die Zuordnung 'Spaltenname in Importdatei' in solchen Fällen bitte leer lassen.
+	</li>
+</ul>

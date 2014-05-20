@@ -1,0 +1,66 @@
+<a name="importData" id="importData"></a>
+<p>Unsere Import-Schnittstelle bietet Ihnen die Möglichkeit, beliebig viele CSV-Datensätze als Stammdaten in den Datenpool
+	zu importieren oder bereits importierte Datensätze zu aktualisieren. Ihre CSV-Dateien können von Ihrem lokalen Rechner,
+	von einer HTTP-Adresse oder von einem FTP-Server eingelesen werden. Zum Einlesen per FTP müssen Sie die notwendigen Angaben
+	machen unter <i>Datenpool ->Grundeinstellungen ->FTP-Daten</i>. Um den Import zu erleichtern, lassen sich individuelle
+	Importvorlagen speichern.</p>
+<ul>
+	<li><h4>Datendatei importieren</h4>
+		Wählen Sie eine Datei und wenn vorhanden eine passende Importvorlage aus. Sollten es sich um XML-Daten handeln,
+		muss ein Häckchen in das Feld 'XML-Daten'. XML-Dateien werden während der weiteren Verarbeitung in eine durch Tabulator
+		getrennte CSV-Datei umgewandelt.<br />Nachdem die Datei hochgeladen wurde, erscheint ein neues Fenster...
+	</li>
+	<li><h4>Ihre Datei wurden geladen.</h4>
+		Weisen Sie im oberen Bereich die Eigenschaften für die zu importierenden Datei zu. Es wird Ihnen dort auch der Dateiname
+		und die Anzahl der temporär eingelesenen Datensätze angezeigt.<br />
+		<br />
+		<strong>Datei-Type (Inhalt):</strong> Wählen Sie hier den Typ der Datei, die Sie importieren möchten:<br />
+		<i>Bestand:</i> Aktualisieren/Update von Bestandsdaten<br />
+		<i>Produkte:</i> Import von kompletten Datensätzen (Produkte)<br />
+		<i>Kategorien</i> Import von Kategorien<br />
+		<strong>Trennzeichen Datenfeld:</strong> Spaltentrenner festlegen<br />
+		<strong>Texterkennungszeichen:</strong> Texterkennungszeichen eingeben (falls verwendet)<br />
+		<strong>Spaltennamen stehen in Zeile:</strong> Hier die Zeile angeben, in der die Spaltennamen stehen (nicht immer ist es die 1. Zeile)<br />
+		<strong>Vorlage:</strong> Bitte beachten Sie, dass eine gewählte Vorlage für die Spaltenzuordnung zum Dateiformat passen sollte.<br />
+		<br />
+		Drücken Sie dann auf den Button [ Spalten aktualisieren ] für eine aktuelle Ansicht im Bereich 'Spalten zuweisen'.
+	</li>
+</ul>
+
+<h3>[ Stammdaten-Zuweisung ]</h3>
+<ul>
+	<li><h4>Ihre Spalten den Stammdaten im Datenpool zuweisen</h4>
+		<strong>Spaltenname in Datenbank:</strong> Es werden alle verfügbaren Feldinhalte für jeden Datensatz aufgelistet.<br />
+		<strong>Spalten der Datei:</strong> Hier sehen Sie die Spaltennamen Ihrer soeben importierten Datei. Ordnen Sie Ihre einzelnen Spaltennamen
+		dem entsprechenden Stammdatenwert im Datenpool zu.<br />
+		<strong>erweiterte Optionen:</strong> Hier können Sie einem Feld einen festen Wert als Inhalt zuweisen, z.B. 'NEU'.<br />
+		Außerdem lassen sich <strong>mehrere Spalteninhalte</strong> aus Ihrer Importdatei <strong>einem Wert</strong> im Datenpool zuordnen.
+		Setzen Sie Ihre Feldnamen dazu in eckige Klammern.<br />
+		Beispiel: <strong>[title] - [EAN]</strong><br />
+		<br />
+		Falls Sie Freifelder angelegt haben, sollten diese jetzt hier als Spaltennamen erscheinen.
+	</li>
+</ul>
+
+<h3>[ Sprache 2 ] [ Sprache 3 ] [ Sprache 4 ]</h3>
+<ul>
+	<li><h4>Spalten zuweisen für 2./3./4. Sprache</h4>
+		Falls in Ihrer Importdatei vorhanden, können Sie hier Werte für zusätzliche Sprachen belegen. Weitere Felder auf Anfrage...
+	</li>
+</ul>
+
+<h3>[ Import-Optionen ]</h3>
+<ul>
+	<li><h4>Import-Optionen wählen</h4>
+		<strong>ALLE bereits vorhandenen Datensätze dieser Datenquelle vorher löschen?</strong> Vor dem Import Ihrer Datendatei,
+		werden <span class="txtRed">alle</span> bereits existierenden Datensätze der oben ausgewählten Datenquelle gelöscht.<br />
+		<strong>Formatierungen aus den Texten entfernen!</strong> Sämtlicher HTML-Code wird aus den importierten Daten entfernt.<br />
+		<strong>Leere Spalten nicht ins UPDATE einbeziehen!</strong> Wenn Sie bei 'Spalten der Datei' Felder frei lassen,
+		werden bereits vorhandene Datensätze an diesen Positionen nicht überschrieben.<br />
+		<strong>Externe Kategorien mit den internen Kategorien abgleichen?</strong> Kategorien, die bereits importierten Produkten zugewiesen sind,
+		werden automatisch aktualisiert bzw. als Datenpoolkategorien neu angelegt.<br />
+		<strong>Spaltenzuordnung als Vorlage speichern unter</strong> Speichern Sie Ihre erstmalige Zuordnung als Vorlage. So muss die Zuordnung
+		der Spalten bei wiederholten Importen nicht neu eingerichtet werden. Bitte wählen Sie dazu einen aussagekräftigen Namen - z.B.
+		'IMPORT-Vorlage XTCommerce'. Auch die Aktualisierung einer bereits bestehenden Spaltenzuordnung lässt sich hier vornehmen.
+	</li>
+</ul>

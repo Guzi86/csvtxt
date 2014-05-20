@@ -1,0 +1,52 @@
+<p>Auf der Seite 'Produkte' werden Ihnen die einzelnen Datensätze Ihrer Produkte, Artikel etc. angezeigt.
+	Jeder Datensatz kann hier einzeln bearbeitet oder gelöscht werden. Klicken Sie dazu auf die entsprechende Bezeichnung.
+	Zusätzlich lassen sich weitere Inhalte wie z.B. 'Preis' und 'Bestand' ändern. Auch das Löschen von Datensätzen ist hier möglich.
+</p>
+
+<ul>
+	<li><h4>Filter</h4>
+		Über den Filter lässt sich eine bestimmte Vorauswahl auf dieser Seite treffen. So kann z.B. nach bestimmten Datensätzen gesucht werden,
+		um diese dann zu bearbeiten.<br />
+		Wählen Sie unter 'Produkte aus folgenden Kategorien' den Punkt 'Produkte ohne Kategoriezuordnung aus, dann erscheinen alle Produkte,
+		welche keiner internen Kategorie zugeordnet sind. Sie können diese dann leicht einzelnen Kategorien zuordnen.<br /><br />
+		<strong>Suchbegriffe mit Funktionen:</strong><br />neu = alle Neuzugänge<br />unbenannt = Artikel ohne eigenen Titel<br />
+		Text in eckigen Klammern []: sucht den genauen Text
+	</li>
+	<li><h4>Eigene Daten...</h4>
+		Um einen einzelnen Datensatz zu bearbeiten, klicken Sie auf den Namen bzw. den Titel des Datensatzes oder tragen Sie Ihre
+		Änderungen direkt in die dafür vorgesehenen Felder ein (z.B. <i>Preis</i>, <i>Bestand</i>, <i>EAN</i>, <i>Titel</i>,
+		<i>Beschreibung</i>, <i>Größe</i> usw.). <br />
+		Ihre Änderungen speichern Sie über den Button <strong>Liste Speichern</strong> am unteren Seitenrand. Dort sehen Sie außerdem
+		die Buttons <strong>Neuen Datensatz anlegen</strong> und <strong>Exportieren</strong> (alle Datensätze in CSV-Datei exportieren).
+	</li>
+	<li><h4>Weitere Aktionen</h4>
+		Wählen Sie hier optionelle Bearbeitungsmöglichkeiten für Ihre Produkte aus, wie z.B.
+		<span class="txtRed">"ALLE Datensätze zum Löschen markieren..."</span>. Im 2. Schritt dann können Sie ALLE Datensätze im Bereich
+		Produkte aus der Datenbank löschen.<br /><span class="txtRed">Wichtig:</span><br />Bitte beachten Sie, dass das Markieren/Demarkieren
+		von Datensätzen bei großen Datenbeständen aktuell noch einen kurzen Moment Wartezeit in Anspruch nimmt.
+	</li>
+	<a name="datapoolProd" id="datapoolProd"></a>
+	<li><h4>Datensatz, Artikel-Eigenschaften</h4>
+		<i>Bitte auf einen Datensatz klicken...</i><br />
+		Aufgeteilt in unterschiedliche Bereiche, sehen alle verfügbaren Datenfelder eines Datensatzes bzw. Produkts,
+		deren Werte Sie ändern können, z.B.:<br />
+		<br />
+		<strong>ID, EAN / GTIN, ISBN, Verpackungseinheit, Kategorien, Preis, Alter Preis, Grundpreis, UVP, Mehrwertsteuer, Größe, Gewicht,
+		Hersteller, URL, Datum, Cross-Daten, Bild-URL, Material, Farbe, Verpackungseinheit</strong> u.a.<br />
+		Falls Ihnen bestimmte Felder fehlen, so können Sie diese über die Funktion Freifelder in <i>DATENPOOL ->Grundeinstellungen ->Allgemeines</i>
+		nachträglich hinzufügen. Alle Inhalte hier lassen sich über die Import-Funktion auch automatisch für viele tausend Datensätze einlesen.<br />
+		<br />
+		<strong>Produkt in interner Kategorie</strong> - Falls Sie über <i>DATENPOOL ->Import</i> interne <u>Kategorien</u> importiert haben
+		(also Kategorien, die Sie damit direkt im Datenpool anlegen), können Sie hier eine dieser internen Kategorien Ihrem Produkt zuordnen.
+		Im Bereich <i>SCHNITTSTELLEN ->Kategoriezuordnung</i> tragen Sie dann Ihre Shop-Kategorien für die CSV-Datei ein und weisen diese Ihren
+		internen Kategorien aus dem Datenpool zu. Interne Kategorien sollten Sie auf jeden Fall einrichten, wenn Sie <u>mehrere</u>
+		unterschiedliche CSV-Dateien in Ihren Datenpool einlesen und alle Datensätze zusammen über eine Schnittstelle exportiert werden sollen.<br />
+		<br />
+		<strong>externe Kategorien 1-5</strong> - Diese Felder sind für sogenannte externe Kategorien, wenn Sie über den <i>DATENPOOL ->Import</i>
+		<u>Produkte mit bereits vorhandenen Kategoriebezeichnungen oder Kategorie-IDs</u> aus Ihrem externen System importieren. So lassen sich
+		zeitsparend mehrere tausend Datensätze mit passenden (externen) Kategoriezuordnungen im Datenpool abspeichern. In diesem Fall ist es dann
+		<u>nicht</u> mehr notwendig, interne Kategorien anzulegen und diese Ihren Produkten im Datenpool zuzuordnen.<br />
+		<strong>Tipp:</strong> Mit externen Kategorien sollten Sie nur arbeiten, wenn Sie viele Datensätze aus <u>einer</u> größeren CSV-Datei
+		importieren müssen, um diese dann im Bereich <i>SCHNITTSTELLEN ->Settings</i> in <u>ein</u> anderes CSV-Format umzuwandeln.
+	</li>
+</ul>

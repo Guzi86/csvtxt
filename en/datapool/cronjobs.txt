@@ -1,0 +1,24 @@
+<h3>[ Cronjob Produkte/Bestand/Kategorien ]</h3>
+<p>
+	Hier haben Sie die Möglichkeit, unterschiedliche Daten-Feeds täglich zu bestimmten Zeiten automatisch in Ihren Datenpool einlesen zu lassen
+	(z.B. wenn sich täglich die Bestände Ihrer Produkte ändern). Folgende Datentypen können aktuell per Cronjob importiert werden:
+	<strong>Produkte (Artikel), Bestand und Kategorien</strong>.
+</p>
+<p>
+	<strong>Name des Cronjobs</strong> - eine beliebige Bezeichnung für diesen Cronjob<br />
+	<strong>Datei-Typ</strong> - Auswahl, welche Art von Daten importiert werden sollen<br />
+	<strong>Vorlage</strong> - Hier bitte eine Importvorlage auswählen. Bitte beachten Sie, dass der Import von Daten mindestens 1x händisch
+	durchgeführt werden muss (unter <i>Datenpool ->Import</i>). Nur so wird eine Importvorlage gespeichert, die Sie dann hier im Bereich
+	<i>Cronjobs</i> auswählen können.<br />
+</p>
+<p>
+	<strong>URL/FTP Importdatei</strong> - Hier bitte die URL zu Ihrer Importdatei ODER den Dateinamen und Ihren FTP-Server eintragen, den Sie unter <i>Datenpool ->Grundeinstellungen ->FTP-Daten</i> festgelegt haben.<br />
+	<strong>Spaltentrenner</strong> - der in Ihrer Importdatei verwendet wird<br />
+	<strong>Texterkennungszeichen</strong> - das in Ihrer Importdatei verwendet wird<br />
+	<strong>Spaltennamen stehen in Zeile</strong> - Angabe, in welcher Zeile die Spaltenbezeichner notiert sind (meistens ist das die 1. Zeile)<br />
+	<strong>Titel/Beschreibungen nicht ändern</strong> - Diese Option bitte unbedingt aktivieren, wenn in csv4you bereits geänderte Titel/Beschreibungen erhalten bleiben sollen. Diese werden dann beim Import nicht überschrieben.<br />
+	<strong>Uhrzeit</strong> - Markieren Sie hier die jeweiligen Zeiten, zu denen Ihre Datei eingelesen werden soll.<br />
+	<strong>Wochentage</strong> - Die Wochentage für Ihren Cronjob (mehrere Uhrzeiten bzw. Wochentage markieren/löschen mit Strg + linke Maustaste)<br />
+	<br />
+	Einstellungen <strong>Speichern</strong> nicht vergessen!
+</p>

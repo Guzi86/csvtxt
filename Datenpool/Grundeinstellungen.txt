@@ -24,9 +24,9 @@
 
 <h3>[ Anbieterdaten ]</h3>
 <p>Wir nennen diesen Bereich 'Anbieterdaten', weil Sie Ihren Datenpool auf Anfrage auch anderen Nutzern von csv4you.com
-	zur Verfügung stellen können (<strong>public data</strong>). Das kann z.B. der Fall sein, wenn Sie als Hersteller oder Großhändler
-	über die öffentliche Freigabe Ihres Datenpools (bzw. Ihrer Produktdaten) neue Kunden finden möchten. Auch der Versand per Dropshipping 
-	wird dadurch denkbar.
+	zur Verfügung stellen können (<strong>public data</strong>). Dies bietet sich z.B. an, wenn Sie Hersteller oder Großhändler sind
+	und über die öffentliche Freigabe Ihres Datenpools neue Kunden finden möchten. Auch der Versand per Dropshipping 
+	wird dadurch eine denkbare Option.
 </p>
 
 <ul>

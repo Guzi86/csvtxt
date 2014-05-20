@@ -1,2 +1,1 @@
-Dies ist ein Test-Repository fuer unseren CSV-Bereich.
-
+Test repository for all the help texts on csv4you.com

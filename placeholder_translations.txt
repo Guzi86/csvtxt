@@ -18,7 +18,7 @@ hideAll;;alles ausblenden;hide all;;;;;;;;;;;16
 MoneyXferAccepted;;‹berweisung;bank transfer;;;;;;;;;;;17
 directLink;;Direkt-Link;Direct-Link;;;;;;;;;;;18
 allArticle;;alle Produkte;all products;;;;;;;;;;;19
-mailConfirm;;Best‰tigungsmail;Mail confirmation;;;;;;;;;;;20
+mailConfirm;;Best‰tigungsmail;email confirmation;;;;;;;;;;;20
 kHead4;;FTP-Zugangsdaten Dateien (Cronjob);FTP access data for files (cronjob);;;;;;;;;;;21
 yesXL;;Hintergrund weiﬂ;Background white;;;;;;;;;;;22
 imgXL;;XL-Bilder;xl-images;;;;;;;;;;;23

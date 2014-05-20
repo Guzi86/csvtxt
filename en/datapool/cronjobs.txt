@@ -4,21 +4,35 @@
 	(z.B. wenn sich täglich die Bestände Ihrer Produkte ändern). Folgende Datentypen können aktuell per Cronjob importiert werden:
 	<strong>Produkte (Artikel), Bestand und Kategorien</strong>.
 </p>
-<p>
-	<strong>Name des Cronjobs</strong> - eine beliebige Bezeichnung für diesen Cronjob<br />
-	<strong>Datei-Typ</strong> - Auswahl, welche Art von Daten importiert werden sollen<br />
-	<strong>Vorlage</strong> - Hier bitte eine Importvorlage auswählen. Bitte beachten Sie, dass der Import von Daten mindestens 1x händisch
-	durchgeführt werden muss (unter <i>Datenpool ->Import</i>). Nur so wird eine Importvorlage gespeichert, die Sie dann hier im Bereich
-	<i>Cronjobs</i> auswählen können.<br />
-</p>
-<p>
-	<strong>URL/FTP Importdatei</strong> - Hier bitte die URL zu Ihrer Importdatei ODER den Dateinamen und Ihren FTP-Server eintragen, den Sie unter <i>Datenpool ->Grundeinstellungen ->FTP-Daten</i> festgelegt haben.<br />
-	<strong>Spaltentrenner</strong> - der in Ihrer Importdatei verwendet wird<br />
-	<strong>Texterkennungszeichen</strong> - das in Ihrer Importdatei verwendet wird<br />
-	<strong>Spaltennamen stehen in Zeile</strong> - Angabe, in welcher Zeile die Spaltenbezeichner notiert sind (meistens ist das die 1. Zeile)<br />
-	<strong>Titel/Beschreibungen nicht ändern</strong> - Diese Option bitte unbedingt aktivieren, wenn in csv4you bereits geänderte Titel/Beschreibungen erhalten bleiben sollen. Diese werden dann beim Import nicht überschrieben.<br />
-	<strong>Uhrzeit</strong> - Markieren Sie hier die jeweiligen Zeiten, zu denen Ihre Datei eingelesen werden soll.<br />
-	<strong>Wochentage</strong> - Die Wochentage für Ihren Cronjob (mehrere Uhrzeiten bzw. Wochentage markieren/löschen mit Strg + linke Maustaste)<br />
-	<br />
+<ul>
+	<li><h4>Cronjob</h4>
+		<strong>Name des Cronjobs</strong> - eine beliebige Bezeichnung für diesen Cronjob<br />
+		<strong>Datei-Typ</strong> - Auswahl, welche Art von Daten importiert werden sollen<br />
+		<strong>Vorlage</strong> - Hier bitte eine Importvorlage auswählen. Bitte beachten Sie, dass der Import von Daten mindestens 1x händisch
+		durchgeführt werden muss (unter <i>Datenpool ->Import</i>). Nur so wird eine Importvorlage gespeichert, die Sie dann hier im Bereich
+		<i>Cronjobs</i> auswählen können.<br />
+		<strong>URL/FTP Importdatei</strong> - Hier bitte die URL zu Ihrer Importdatei ODER den Dateinamen und Ihren FTP-Server eintragen,
+		den Sie unter <i>Datenpool ->Grundeinstellungen ->FTP-Daten</i> festgelegt haben.<br />
+		<strong>Spaltentrenner</strong> - der in Ihrer Importdatei verwendet wird<br />
+		<strong>Texterkennungszeichen</strong> - das in Ihrer Importdatei verwendet wird<br />
+		<strong>Spaltennamen stehen in Zeile</strong> - Angabe, in welcher Zeile die Spaltenbezeichner notiert sind (meistens ist das die 1. Zeile)<br />
+		<strong>Titel/Beschreibungen nicht ändern</strong> - Diese Option bitte unbedingt aktivieren, wenn in csv4you bereits geänderte
+		Titel/Beschreibungen erhalten bleiben sollen. Diese werden dann beim Import nicht überschrieben.<br />
+		<strong><span class="txtRed">ALLE bereits vorhandenen Datensätze dieser Datenquelle vorher löschen?</span></strong> - Wenn markiert,
+		werden <span class="txtRed">ALLE</span> bereits vorhandenen Datensätze	der Datenquelle (in die importiert wird) mit Ausführung des Cronjobs gelöscht!<br />
+	    <strong>Formatierungen aus den Texten entfernen</strong> - Sämtliche Formatierungen wie z.B. HTML-Tags werden beim Import aus den Daten entfernt.<br />
+		<strong>Leere Spalten nicht ins UPDATE einbeziehen!</strong> - ... <br />
+		<strong>Externe Kategorien mit den internen Kategorien abgleichen?</strong> - Haben sich Kategorien in der Importdatei geändert,
+		werden diese mit den bereits angelegten (internen) Kategorien abgeglichen.<br />
+	</li>
+	<li><h4>XML-Einstellungen</h4>
+		<strong>XML-Element der Produktdaten</strong> - Tragen Sie hier das XML-Element der eigentlichen Produktdaten ein.<br />
+	</li>
+	<li><h4>Uhrzeit</h4>
+		<strong>Uhrzeit</strong> - Markieren Sie hier die jeweiligen Zeiten, zu denen Ihre Datei eingelesen werden soll.<br />
+		<strong>Wochentage</strong> - Die Wochentage für Ihren Cronjob (mehrere Uhrzeiten bzw. Wochentage markieren/löschen mit Strg + linke Maustaste)<br />
+	</li>
+</ul>
+<p>	
 	Einstellungen <strong>Speichern</strong> nicht vergessen!
 </p>

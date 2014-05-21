@@ -10,7 +10,7 @@
 		Wählen Sie unter 'Produkte aus folgenden Kategorien' den Punkt 'Produkte ohne Kategoriezuordnung aus, dann erscheinen alle Produkte,
 		welche keiner internen Kategorie zugeordnet sind. Sie können diese dann leicht einzelnen Kategorien zuordnen.<br /><br />
 		<strong>Suchbegriffe mit Funktionen:</strong><br />neu = alle Neuzugänge<br />unbenannt = Artikel ohne eigenen Titel<br />
-		Text in eckigen Klammern []: sucht den genauen Text
+		Text in eckigen Klammern [Suchwort]: sucht den genauen Text "Suchwort"
 	</li>
 	<li><h4>Eigene Daten...</h4>
 		Um einen einzelnen Datensatz zu bearbeiten, klicken Sie auf den Namen bzw. den Titel des Datensatzes oder tragen Sie Ihre

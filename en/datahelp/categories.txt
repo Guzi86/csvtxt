@@ -1,11 +1,13 @@
-<p>Hier werden Ihre Produkt-Kategorien inkl. der Ebenen-Struktur aufgelistet. Sie können bereits bestehende Kategorien
+<p>Hier werden Ihre internen Kategorien inkl. der Ebenen-Struktur aufgelistet. Sie können bereits bestehende Kategorien
 	bearbeiten und exportieren oder neue Kategorien und Unterkategorien anlegen bzw. importieren.
 </p>
-
 <ul>
 	<li><h4>Interne Kategorien</h4>
-		Interne Kategorien sind die <strong>Kategorien im Datenpool</strong>, in denen Ihre Produkte bzw. Datensätze 'intern' zugeordnet sind.
-		Diese Kategorien werden beim Import von Daten in den Datenpool angelegt.<br />
+		Interne Kategorien sind alle <strong>Kategorien im Datenpool</strong>, in denen Ihre Produkte bzw. Datensätze 'intern' zugeordnet sind.
+		Diese Kategorien werden beim Import von Datensätzen im Datenpool angelegt. Enthält Ihre Importdatei bereits Kategorien,
+		so können diese als interne Kategorien verwebdet werden. Falls kein Kategorien in Ihrer Importdatei enthalten sind,
+		vergibt unser System eigene Kategorie-Nummern. Über die internen Kategorien erfolgt später im Bereich <i>Schnittstellen</i>
+		die Zuordnung zu den Kategorien Ihrer CSV- oder XML-Schnittstelle.<br />
 		Um eine Kategorie zu <strong>bearbeiten</strong>, klicken Sie auf den Namen der Kategorie. Es öffnet sich eine neue Seite,
 		auf der Sie die Eigenschaften und Werte der entsprechenden Kategorie einstellen können.<br />
 		<br />
@@ -13,7 +15,9 @@
 		werden zuerst immer die untersten Ebenen gelöscht.
 	</li>
 	<li><h4>Weitere Aktionen</h4>
-		Wählen Sie hier optionelle Bearbeitungsmöglichkeiten für Ihre Kategorien aus, wie z.B.
-		<span class="txtRed">Alle Kategorien löschen?</span>.
+		<strong>Alle Kategorien zum Löschen markieren...</strong> - Hier haben Sie die Möglichkeit, ALLE internen Kategorien zu löschen.
+		Über den Button <span class="txtRed">[ Löschen ]</span> werden alle internen Kategoriezuordnungen gelöscht. Produktdatensätze
+		werden dabei nicht gelöscht. Nach dem Löschen können Sie Ihre internen Kategorien über den Import wieder neu anlegen bzw.
+		Ihren Datensätzen im datenpool neu zuordnen.
 	</li>
 </ul>

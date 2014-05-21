@@ -1,50 +1,53 @@
 <h3>[ Allgemeines ]</h3>
 <ul>
-	<li>
-		<h4>Verfügbarkeit</h4>Hier wird angezeigt, ob Ihr Datenpool öffentlich verfügbar ist. Standard-Einstellung ist generell
+	<li><h4>Verfügbarkeit</h4>
+		Hier wird angezeigt, ob Ihr Datenpool öffentlich verfügbar ist. Standard-Einstellung ist generell
 		<strong>'nein'</strong>, d.h. Ihre Daten sind NICHT öffentlich verfügbar, also nur für Sie persönlich sichtbar (
 		<strong>privat data</strong>). Bitte setzen Sie sich mit uns in Verbindung, wenn Sie Ihre Produktdaten auch anderen
 		<strong>registrierten Nutzern</strong> von csv4you.com zur Verfügung stellen möchten (<strong>public data</strong>).
 	</li>
-	<li>
-		<h4>Freifelder/Variationen</h4>Definieren Sie hier beliebige Freifelder/Variationen. Diese lassen sich beim Importieren von Daten 
+	<li><h4>Freifelder/Variationen</h4>
+		Definieren Sie hier beliebige Freifelder/Variationen. Diese lassen sich beim Importieren von Daten 
 		einzelnen Spalten zuordnen. Auch für den Export von CSV-Daten (eigene Schnittstellen) können Sie die Freifelder später in Ihre 
 		Datendefinition bzw. den Spaltenkopf übernehmen.
 	</li>
 </ul>
 
 <h3>[ Datenquellen ]</h3>
-<p>Hier lassen sich unterschiedliche 'Datenquellen' verwalten. Beispiel:<br />
-	Datenquelle 1: <i>Autoteile</i><br />
-	Datenquelle 2: <i>Schmuck</i><br />
-	Datenquelle 3: <i>Büromöbel</i><br />
-	Stellen Sie sich eine 'Datenquelle' als das Produktangebot eines Ihrer Lieferanten vor, das Sie hier importieren, bearbeiten,
-	speichern und als CSV-Datei exportieren können. Zu jeder Datenquelle wiederum lassen sich unterschiedliche CSV-Schnittstellen
-	und Cronjobs einrichten und verwalten.<br />
-</p>
+<ul>
+	<li><h4>Name</h4>
+		Hier lassen sich unterschiedliche 'Datenquellen' verwalten. Beispiel:<br />
+		Datenquelle 1: <i>Autoteile</i><br />
+		Datenquelle 2: <i>Schmuck</i><br />
+		Datenquelle 3: <i>Büromöbel</i><br />
+		Stellen Sie sich eine 'Datenquelle' als das Produktangebot eines Ihrer Lieferanten vor, das Sie hier importieren, bearbeiten,
+		speichern und als CSV-Datei exportieren können. Zu jeder Datenquelle wiederum lassen sich unterschiedliche CSV-Schnittstellen
+		und Cronjobs einrichten und verwalten.
+	</li>
+</ul>
 
 <h3>[ Anbieterdaten ]</h3>
 <p>Wir nennen diesen Bereich 'Anbieterdaten', weil Sie Ihren Datenpool auf Anfrage auch anderen Nutzern von csv4you.com
 	zur Verfügung stellen können (<strong>public data</strong>). Dies bietet sich z.B. an, wenn Sie Hersteller oder Großhändler sind
-	und über die öffentliche Freigabe Ihres Datenpools neue Kunden finden möchten. Auch der Versand per Dropshipping 
+	und über die öffentliche Freigabe Ihres Datenpools neue Kunden finden möchten. Auch der Versand per Dropshipping
 	wird dadurch eine denkbare Option.
 </p>
 
 <ul>
-	<li>
-		<h4>Firma, Name und Ansprechpartner</h4>Tragen Sie Ihre Firmenbezeichnung, Ihren Name sowie den Ansprechpartner ein.
-		Diese Angaben sind für jedermann sichtbar, wenn Sie Ihre CSV-Daten öffentlich zur Verfügung stellen - siehe oben, 
+	<li><h4>Firma, Name und Ansprechpartner</h4>
+		Tragen Sie Ihre Firmenbezeichnung, Ihren Name sowie den Ansprechpartner ein.
+		Diese Angaben sind für jedermann sichtbar, wenn Sie Ihre CSV-Daten öffentlich zur Verfügung stellen - siehe oben,
 		Abschnitt Allgemeine Einstellungen ->Daten (<strong>public data</strong>).
 	</li>
-	<li>
-		<h4>Firmen-Anschrift</h4>Anschrift Ihrer Firma
+	<li><h4>Firmen-Anschrift</h4>
+		Anschrift Ihrer Firma
 	</li>
-	<li>
-		<h4>Kontaktdaten</h4>Telefon, Fax, Mailadresse, Web-Adresse
+	<li><h4>Kontaktdaten</h4>
+		Telefon, Fax, Mailadresse, Web-Adresse
 	</li>
-	<li>
-		<h4>Angaben zu Firma und Produkten</h4>Hier können Sie noch weitere Angaben zu Ihrer Firma und den angebotenen 
-		Daten/Produkten machen. Diese Informationen werden dann im Bereich <i>Schnittstellen</i> sowie auf der Seite 
+	<li><h4>Angaben zu Firma und Produkten</h4>
+		Hier können Sie noch weitere Angaben zu Ihrer Firma und den angebotenen
+		Daten/Produkten machen. Diese Informationen werden dann im Bereich <i>Schnittstellen</i> sowie auf der Seite
 		<i>Händler</i> für andere Nutzer sichtbar (<strong>public data</strong>).
 	</li>
 </ul>

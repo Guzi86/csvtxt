@@ -3,7 +3,9 @@
 </p>
 
 <ul>
-	<li><h4>Ihre Kategorien</h4>
+	<li><h4>Interne Kategorien</h4>
+		Interne Kategorien sind die <strong>Kategorien im Datenpool</strong>, in denen Ihre Produkte bzw. Datensätze 'intern' zugeordnet sind.
+		Diese Kategorien werden beim Import von Daten in den Datenpool angelegt.<br />
 		Um eine Kategorie zu <strong>bearbeiten</strong>, klicken Sie auf den Namen der Kategorie. Es öffnet sich eine neue Seite,
 		auf der Sie die Eigenschaften und Werte der entsprechenden Kategorie einstellen können.<br />
 		<br />

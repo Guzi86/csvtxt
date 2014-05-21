@@ -13,7 +13,7 @@
 		<i>Cronjobs</i> auswählen können.<br />
 		<strong>URL/FTP Importdatei</strong> - Hier bitte die URL zu Ihrer Importdatei ODER den Dateinamen und Ihren FTP-Server eintragen,
 		den Sie unter <i>Datenpool ->Grundeinstellungen ->FTP-Daten</i> festgelegt haben.<br />
-		<strong>Spaltentrenner</strong> - der in Ihrer Importdatei verwendet wird<br />
+        <strong>Trennzeichen Datenfeld</strong> - Geben Sie hier den Daten- bzw. Spaltentrenner ein, der in Ihrer Importdatei verwendet wird.<br />
 		<strong>Texterkennungszeichen</strong> - das in Ihrer Importdatei verwendet wird<br />
 		<strong>Spaltennamen stehen in Zeile</strong> - Angabe, in welcher Zeile die Spaltenbezeichner notiert sind (meistens ist das die 1. Zeile)<br />
 		<strong>Titel/Beschreibungen nicht ändern</strong> - Diese Option bitte unbedingt aktivieren, wenn in csv4you bereits geänderte

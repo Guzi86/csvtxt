@@ -18,8 +18,9 @@
 	<i>Autoteile</i><br />
 	<i>Schmuck</i><br />
 	<i>Büromöbel</i><br />
-	Damit können verschiedene 'Datenquellen' verwaltet, importiert, exportiert oder über die Cronjob-Funktionen angesprochen werden,
-	z.B. wenn Sie 3 separate Shops mit unterschiedlichen Angeboten betreiben.<br />
+	Stellen Sie sich eine 'Datenquelle' als das Produktangebot eines Ihrer Lieferanten vor, das Sie hier importieren, bearbeiten,
+	speichern und als CSV-Datei exportieren können. Zu jeder Datenquelle wiederum lassen sich unterschiedliche CSV-Schnittstellen
+	und Cronjobs einrichten und verwalten.<br />
 </p>
 
 <h3>[ Anbieterdaten ]</h3>

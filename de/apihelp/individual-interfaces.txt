@@ -1,0 +1,69 @@
+<a name="configureOwnInterfaces" id="configureOwnInterfaces"></a>
+<p>
+	Falls Sie bisher keine passende CSV-Schnittstelle gefunden haben, können Sie hier in diesem Bereich Ihre eigenen,
+	individuellen CSV- oder XML-Formate definieren. Im oberen Bereich sehen Sie dazu ein Auswahlmenü zum Anlegen bzw.
+	zur Auswahl einer bereits von Ihnen vorbereiteten Schnittstelle. Die Anzahl individueller Schnittstellen ist nicht begrenzt.<br />
+	<strong>Beispiel:</strong> Sie besitzen ein eigenes Shopsystem und möchten viele Produkte eines Ihrer Lieferanten
+	auf einfache Art und Weise in Ihr System importieren. Eine solche Schnittstelle lässt sich hier einrichten
+	und jederzeit individuell nachkonfigurieren.<br />
+	<br />
+	<strong>Schnittstelle(n) auswählen</strong> - Eine Schnittstelle neu anlegen oder eine bereits gespeicherte Schnittstelle auswählen.
+</p>
+
+<h3>[ Grundeinstellungen ]</h3>
+<ul>
+	<li><h4>Grundeinstellungen Ihrer Schnittstelle</h4>
+		<strong>Name</strong> - Geben Sie Ihrem Template einen Namen.<br />
+		<strong>Datei-Type</strong> - Hier den passenden Dateityp auswählen.<br />
+		<strong>Spaltentrenner</strong> - z.B.: Semikolon (;) oder Komma (,)<br />
+		<strong>Texterkennungszeichen</strong> - z.B.: Anführungszeichen (") oder das einfache Hochkomma (')
+	</li>
+</ul>
+
+<h3>[ Kopfbereich ]</h3>
+<ul>
+	<li><h4>Kopfbereich Ihrer Schnittstelle</h4>
+		Im Kopfbereich befindet sich normalerweise die Spaltendefinition Ihrer Schnittstelle, z.B. für eine einfache CSV-Datei.
+		Bitte fügen Sie hinter jeden Spaltennamen den Platzhalter <i><strong>{#S#}</strong></i> ein (nicht beim letzten Wert!). Sollen Spalten leer bleiben,
+		dann nur <i><strong>{#S#}</strong></i> als Platzhalter an dieser Stelle verwenden.<br />
+		Ein Beispiel für den Kopfbereich, je Zeile einen Wert angeben:<br />
+		%file./content/snippets/csvheader.txt%
+		oder ein Beispiel für einen einfachen XML-Kopf:
+		%file./content/snippets/xmlheader.txt%
+	</li>
+</ul>
+
+<h3>[ Inhaltsbereich ]</h3>
+<ul>
+	<li><h4>Inhaltsbereich Ihrer Schnittstelle</h4>
+		Im Inhaltsbereich müssen Sie den Spaltenbezeichnern aus dem Kopfbereich die richtigen Daten zuordnen.
+		Auf der rechten Seite finden Sie dazu passend alle verfügbaren Werte (Platzhalter). Setzen Sie den Cursor
+		mit der Maus in das Inhaltsfenster und klicken Sie auf einen der Platzhalter rechts. Bitte hier ebenfalls
+		hinter jeden Wert den Platzhalter <i><strong>{#S#}</strong></i> einfügen (nicht beim letzten Wert!).<br />
+		Ein Beispiel für den Inhaltsbereich, je Zeile einen Wert angeben:<br />
+		%file./content/snippets/csvcontent.txt%
+		und ein Content-Beispiel für eine XML-Datei:
+		%file./content/snippets/xmlcontent.txt%
+		Diese Zeile wird beim Erstellen einer CSV- bzw. XML-Datei entsprechend oft wiederholt, je nach Anzahl der gefundenen Datensätze.<br />
+		<strong>Bitte beachten:</strong> Die Reihenfolge der Spalten im Kopfbereich muss mit der hier gewählten Reihenfolge übereinstimmen.
+	</li>
+</ul>
+<br />
+%md.formatierung%
+
+<h3>[ Fußbereich ]</h3>
+<ul>
+	<li><h4>Fußbereich Ihrer Schnittstelle</h4>
+		Hier können den Footer für Ihre Schnittstelle einrichten (für CSV-Dateien nicht notwendig).<br />
+		Beispiel für die XML-Datei:
+		%file./content/snippets/xmlfooter.txt%
+	</li>
+</ul>
+
+<h3>[ Kategorien ]</h3>
+<ul>
+	<li><h4>Kategorie-Bezeichner</h4>
+		Falls gewünscht tragen Sie hier bitte Ihre eigenen Kategorie-Bezeichner ein. Sie finden diese dann im Bereich
+		<i>Schnittstellen ->Kategoriezuordnung</i> als Spaltenname für Ihre Kategorien-Namen bzw. IDs.
+	</li>
+</ul>

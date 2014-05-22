@@ -11,7 +11,7 @@
 		<strong>Spaltennamen stehen in Zeile</strong> - Hier die Zeile angeben, in der die Spaltennamen stehen (nicht immer ist es die 1. Zeile)<br />
 	</li>
 	<li><h4>XML-Einstellungen</h4>
-		<strong>XML-Element der Produktdaten</strong> - Hier steht dort das ausgewählte XML-Element, weleches die Produktdaten enthält.<br />
+		<strong>XML-Element der Produktdaten</strong> - Hier steht dort das ausgewählte XML-Element, welches die Produktdaten enthält.<br />
 		Achtung: Diese Option ist nur sichtbar, wenn die Vorlage für eine XML-Datei angelegt wurde!
 	</li>
 	<li><h4>Spaltenzuordnung</h4>

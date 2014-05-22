@@ -1,4 +1,5 @@
-<p>Hier werden Ihre internen Kategorien inkl. der Ebenen-Struktur aufgelistet. Sie können bereits bestehende Kategorien
+<p>
+	Hier werden Ihre internen Kategorien inkl. der Ebenen-Struktur aufgelistet. Sie können bereits bestehende Kategorien
 	bearbeiten und exportieren oder neue Kategorien und Unterkategorien anlegen bzw. importieren.
 </p>
 <ul>

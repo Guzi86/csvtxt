@@ -12,28 +12,29 @@
 <h3>[ Grundeinstellungen ]</h3>
 <ul>
 	<li><h4>Beschreibung</h4>
-		<strong>Datei-Typ</strong> - Achtung! Dieses Feld ist nur für Schnittstellen sichtbar, die mehrere Dateien beinhalten. Wählen Sie dann aus,
-		wie Sie Ihre CSV-Dateien downloaden möchten (z.B. als ZIP-Paket oder einzeln).<br />
+		<strong>Datei-Typ*</strong> - Wählen Sie dann aus, wie Sie Ihre CSV-Dateien downloaden möchten, z.B. als ZIP-Paket oder einzeln.
+		<i>*Achtung! Dieses Feld ist nur für solche Schnittstellen sichtbar, die mehrere Dateien beim Download beinhalten.</i><br />
 		<strong>Name</strong> - frei wählbar, nur für die interne Anzeige<br />
 		<strong>Dateiname</strong> - Name der zu exportierenden Datei (bitte hier keine Sonderzeichen, Leerzeichen etc. verwenden)<br />
 		<strong>kurze Beschreibung</strong> - Tragen Sie hier eine kurze Beschreibung zu Ihrer CSV-Datei ein (optional).
 	</li>
 	<li><h4>Allgemeines</h4>
-		<strong>Produkttexte verwenden aus</strong> - Haben Sie Produkttexte in verschiedenen Sprachen hinterlegt, können Sie diese hier auswählen.
-		<i>Achtung! Diese Option ist nur sichtbar, wenn im Datenpool mindestens ein Produkttext in einer 2. Sprache hinterlegt ist.</i><br />
-		<strong>Leere Produkttexte auffüllen?</strong> - Für fehlende Einträge z.B. in Sprache 2 wird der Inhalt aus den Stammdaten verwendet. 
-		<i>Achtung! Diese Option ist ebenfalls nur sichtbar, wenn im Datenpool mindestens ein Produkttext in einer 2. Sprache hinterlegt ist.</i><br />
-		<strong>Währung | In diese Währung umrechnen</strong> - Wählen Sie die Währung für Ihre CSV-Datei aus, bzw. ob Ihre Preise aus dem Datenpool
+		<strong>Produkttexte verwenden aus*</strong> - Haben Sie Produkttexte in verschiedenen Sprachen hinterlegt, können Sie diese hier auswählen.
+		<i>*Achtung! Diese Option ist nur sichtbar, wenn im Datenpool mindestens ein Produkttext in einer 2. Sprache hinterlegt ist.</i><br />
+		<strong>Leere Produkttexte auffüllen?*</strong> - Für fehlende Einträge z.B. in Sprache 2 wird der Inhalt aus den Stammdaten verwendet. 
+		<i>*Achtung! Diese Option ist ebenfalls nur sichtbar, wenn im Datenpool mindestens ein Produkttext in einer 2. Sprache hinterlegt ist.</i><br />
+		<strong>Währung | In diese Währung umrechnen</strong> - Wählen Sie die Währung für Ihre CSV-Datei aus und ob Ihre Preise aus dem Datenpool
 		in diese Währung umgerechnet werden sollen. Beispiel: Sie haben Dollarwerte im Datenpool, alle Preise in Ihrer CSV-Datei müssen jedoch
 		in Euro erscheinen. Markieren Sie dann hier <i>Euro</i> und <i>ja</i>. Umgekehrt ist das natürlich ebenso möglich: Sie haben Eurowerte
 		im Datenpool und benötigen Dollarpreise für die CSV-Datei.<br />
 		<strong>Preis anpassen</strong> - Angaben im Preisfeld werden automatisch angepasst.<br />
-		<strong>Einstellmenge</strong> - Festlegen eines globalen Wertes Einstellmenge<br />
-		<strong>MwSt.</strong> - Angabe des Mehrwertsteuersatzes<br />
-		<strong>Zusatz zur Art.-Nr.</strong> - Zusatz zur Art.-Nummer, wird vorn angefügt<br />
+		<strong>Einstellmenge</strong> - Festlegen eines globalen Wertes für die Menge pro Artikel, die als verfügbare Anzahl eingestellt werden soll
+		(z.B. bei eBay).<br />
+		<strong>Mehrwertsteuer</strong> - Angabe des Mehrwertsteuersatzes<br />
+		<strong>Zusatz zur Art.-Nr.</strong> - Zusatz zur Art.-Nummer, der vor der Artikelnummer angefügt wird.<br />
 		<strong>Formatierung</strong> - Produktbezeichnung optional in Großbuchstaben
 	</li>
-	<li><h4>Template für die Produktbeschreibung (Datensatz)</h4>
+	<li><h4>Template für den Datensatz (Produktbeschreibung)</h4>
 		Wählen Sie hier ein Template für die Produktbeschreibung aus, das Sie vorher unter <i>Schnittstellen ->Templates</i> angelegt
 		und eingerichtet haben. Ist kein Template bestimmt, wird beim Erstellen Ihrer CSV-Datei der Wert aus 'Beschreibung' übernommen,
 		der in Ihren einzelnen Datensätzen/Produkten hinterlegt ist (<i>Datenpool ->Produkte</i>).<br />
@@ -62,18 +63,20 @@
 <ul>
 	<li><h4>Kategoriezuordnung</h4>
 		Wählen Sie hier eine Kategoriezuordnung für Ihre Datei aus, die Sie oben unter dem Menüpunkt [ Kategoriezuordung ] angelegt haben.
-		Ist hier keine Kategoriezuordnung ausgewählt, enthalten alle Datensätze Ihrer Datei später keine Kategorien.<br />
-		<strong>Erklärung dazu:</strong> Wenn in Ihrem Datenpool Kategorien mit Produkten gespeichert sind, wählen Sie hier aus,
-		welche dieser Kategorien (inkl. der darin enthaltenen Produkte) in Ihre CSV-Datei/Schnittstelle übernommen werden.
-		Im Hauptmenüpunkt Schnittstellen -> Kategoriezuordung übergeben Sie also die Kategorien aus Ihrem Datenpool den jeweiligen
-		Kategorien der oben ausgewählten Schnittstelle, im Beispiel wären das hier die Kategorien in Ihrem Account bei Ricardo.<br />
+		Achtung: Ist hier keine Kategoriezuordnung ausgewählt, enthalten alle Datensätze Ihrer CSV-Datei später keine Kategorien.<br />
+		<strong>Erklärung dazu:</strong> Wenn in Ihrem Datenpool interne Kategorien zu Ihren Produkten gespeichert sind, wählen Sie hier aus,
+		welche dieser internen Kategorien (inkl. der darin enthaltenen Produkte) in Ihre CSV-Schnittstelle übernommen werden sollen.
+		Im Hauptmenüpunkt Schnittstellen -> Kategoriezuordung übergeben Sie die internen Kategorien aus Ihrem Datenpool den jeweiligen
+		Kategorien der oben ausgewählten Schnittstelle. Im Beispiel wären das hier die Kategorien in Ihrem Account bei Ricardo.<br />
+		<i>Anders gesagt:</i> Alle Datensätze aus dem Datenpool sind internen Kategorien zugeordnet. Über diese internen Kategorien
+		müssen Sie Ihre Produkte dann den eigentlichen Kategorien der Schnittstelle zuweisen!<br />	
 		<strong>Wichtig:</strong> Im Bereich Settings muss mindestens eine Schnittstelle bereits gespeichert sein, um eine dazu passende
 		Kategoriezuordnung auswählen zu können.<br />
 		2 Beispiele: 1und1-Shop (1), JTL-Wawi (1)
 	</li>
-	<li><h4>Auswahl Kategorien</h4>
-		Markieren Sie hier bitte all jene Kategorien, aus denen Daten/Produkte in Ihre CSV-Datei übernommen werden sollen
-		und speichern Sie die getroffene Auswahl.
+	<li><h4>Produkte aus folgenden Kategorien verwenden</h4>
+		Markieren Sie hier bitte all jene Kategorien, deren Produktdaten in Ihre CSV-Datei übernommen werden sollen und speichern Sie
+		die hier getroffene Auswahl.
 	</li>
 </ul>
 
@@ -90,10 +93,10 @@
 	<li><h4>Filter - Nuller</h4>
 		Optional ALLE Artikel in die CSV-Datei aufnehmen, auch die mit Bestand = 0? nein/ja.
 	</li>
-	<li><h4>Filter - Einzelne Datensätze</h4>
-		Angaben in diesem Feld überschreiben alle anderen Filter weiter oben. Hier können Sie gezielt nur ganz bestimmte
-		Artikel-Nummern bzw. Produkt-IDs angeben. Nur diese werden dann in die CSV-Datei übernommen. Die Eingabe muss als fortlaufende
-		Liste mit Komma getrennt erfolgen, z.B.:<br />
+	<li><h4>Filter - Einzelne Datensätze (Komma getrennt)</h4>
+		Angaben in diesem Feld überschreiben alle anderen oben gesetzten Filter. Hier können Sie gezielt ganz bestimmte
+		Artikel-Nummern bzw. Produkt-IDs angeben. Nur diese Datensätze werden dann in die CSV-Datei übernommen. Die Eingabe muss als
+		fortlaufende Liste mit Komma getrennt erfolgen, z.B.:<br />
 		52358,69875,5984-49,a6hz6f,e4888
 	</li>
 	<li><h4>Filter - Neuzugänge</h4>
@@ -113,6 +116,7 @@
 <h3>[ Sonstiges ]</h3>
 <ul>
 	<li><h4>(Schnittstelle)-Einstellungen</h4>
-		Hier finden Sie schnittstellen-spezifische Einstellungen bzw. Felder, die Sie mit den benötigten Werten belegen können.
+		Hier finden Sie schnittstellen-spezifische Einstellungen bzw. Felder, die Sie mit den benötigten Werten belegen können
+		(Option nicht für jede Schnittstelle verfügbar).
 	</li>
 </ul>

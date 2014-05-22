@@ -15,7 +15,7 @@
 	<li><h4>Grundeinstellungen Ihrer Schnittstelle</h4>
 		<strong>Name</strong> - Geben Sie Ihrem Template einen Namen.<br />
 		<strong>Datei-Type</strong> - Hier den passenden Dateityp auswählen.<br />
-		<strong>Spaltentrenner</strong> - z.B.: Semikolon (;) oder Komma (,)<br />
+		<strong>Trennzeichen Datenfeld</strong> - z.B.: Semikolon (;) oder Komma (,)<br />
 		<strong>Texterkennungszeichen</strong> - z.B.: Anführungszeichen (") oder das einfache Hochkomma (')
 	</li>
 </ul>
@@ -63,7 +63,7 @@
 <h3>[ Kategorien ]</h3>
 <ul>
 	<li><h4>Kategorie-Bezeichner</h4>
-		Falls gewünscht tragen Sie hier bitte Ihre eigenen Kategorie-Bezeichner ein. Sie finden diese dann im Bereich
+		Falls gewünscht tragen Sie hier bitte Ihre eigenen Kategorie-Bezeichner ein. Sie finden diese dann danach im Bereich
 		<i>Schnittstellen ->Kategoriezuordnung</i> als Spaltenname für Ihre Kategorien-Namen bzw. IDs.
 	</li>
 </ul>

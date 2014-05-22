@@ -1,4 +1,6 @@
-<p>Datensätze unterschiedlicher Dateien miteinander vergleichen.</p>
+<p>
+	Datensätze unterschiedlicher Dateien miteinander vergleichen.
+</p>
 
 <ul>
 	<li><h4>2 Dateien miteinander vergleichen</h4>

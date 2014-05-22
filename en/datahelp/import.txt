@@ -1,9 +1,11 @@
 <a name="importData" id="importData"></a>
-<p>Unsere Import-Schnittstelle bietet Ihnen die Möglichkeit, beliebig viele CSV-Datensätze als Stammdaten in den Datenpool
+<p>
+	Unsere Import-Schnittstelle bietet Ihnen die Möglichkeit, beliebig viele CSV-Datensätze als Stammdaten in den Datenpool
 	zu importieren oder bereits importierte Datensätze zu aktualisieren. Ihre CSV-Dateien können von Ihrem lokalen Rechner,
 	von einer HTTP-Adresse oder von einem FTP-Server eingelesen werden. Zum Einlesen per FTP müssen Sie die notwendigen Angaben
 	machen unter <i>Datenpool ->Grundeinstellungen ->FTP-Daten</i>. Um den Import zu erleichtern, lassen sich individuelle
-	Importvorlagen speichern.</p>
+	Importvorlagen speichern.
+</p>
 <ul>
 	<li><h4>Datendatei importieren</h4>
 		Wählen Sie eine Datei und wenn vorhanden eine passende Importvorlage aus. Sollten es sich um XML-Daten handeln,

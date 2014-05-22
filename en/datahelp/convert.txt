@@ -1,5 +1,6 @@
-<p>Mit dem Konverter können Sie Ihre CSV-Daten in fertig vorgegebene CSV-Formate für JTL-Wawi, Rakuten, 1&1-Shop, Yatego u.a. Systeme umwandeln.</p>
-
+<p>
+	Mit dem Konverter können Sie Ihre CSV-Daten in fertig vorgegebene CSV-Formate für JTL-Wawi, Rakuten, 1&1-Shop, Yatego u.a. Systeme umwandeln.
+</p>
 <ul>
 	<li><h4>Datendatei konvertieren (max. 30MB)</h4>
 		<strong>Variante A/B</strong> -  Dateien können entweder vom lokalen Rechner (A) oder per Link aus dem Internet ((B) eingelesen werden.<br />

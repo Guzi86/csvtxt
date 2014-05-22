@@ -1,4 +1,5 @@
-<p>Auf der Seite 'Produkte' werden Ihnen die einzelnen Datensätze Ihrer Produkte, Artikel etc. angezeigt.
+<p>
+	Auf der Seite 'Produkte' werden Ihnen die einzelnen Datensätze Ihrer Produkte, Artikel etc. angezeigt.
 	Jeder Datensatz kann hier einzeln bearbeitet oder gelöscht werden. Klicken Sie dazu auf die entsprechende Bezeichnung.
 	Zusätzlich lassen sich weitere Inhalte wie z.B. 'Preis' und 'Bestand' ändern. Auch das Löschen von Datensätzen ist hier möglich.
 </p>

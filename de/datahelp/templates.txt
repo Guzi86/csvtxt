@@ -3,6 +3,8 @@
 	Neue Vorlagen können Sie nach einem erfolgreichen Import oder dem Konvertieren von Dateien anlegen.
 	Bereits vorhandene Vorlagen können Sie <strong>hier nur ändern</strong>.<br />Bitte 'Speichern' nicht vergessen...
 </p>
+
+<h3>[ Allgemeines ]</h3>
 <ul>
 	<li><h4>Allgemeines</h4>
 		<strong>Name der Vorlage</strong> - Geben Sie einen Namen für die Vorlage ein (frei wählbar).<br />
@@ -14,6 +16,10 @@
 		<strong>XML-Element der Produktdaten</strong> - Hier steht dort das ausgewählte XML-Element, welches die Produktdaten enthält.<br />
 		Achtung: Diese Option ist nur sichtbar, wenn die Vorlage für eine XML-Datei angelegt wurde!
 	</li>
+</ul>
+
+<h3>[ Spaltenzuordnung ]</h3>
+<ul>
 	<li><h4>Spaltenzuordnung</h4>
 		Hier sehen die Spaltenzuordnung Ihrer Import-Vorlage(n).<br />
 		<br />
@@ -28,4 +34,16 @@
 		(z.B. Zustand = 'NEU' oder Menge = '1'), so tragen Sie diesen Wert bitte hier ein (NEU oder 1).
 		Die Zuordnung 'Spaltenname in Importdatei' in solchen Fällen bitte leer lassen.
 	</li>
+</ul>
+
+<h3>[ Import-Optionen ]</h3>
+<ul>
+    <li><h4>Import-Optionen wählen</h4>
+        <strong><span class="txtRed">ALLE bereits vorhandenen Datensätze dieser Datenquelle vorher löschen?</span></strong> - Wenn markiert,
+        werden <span class="txtRed">ALLE</span> bereits vorhandenen Datensätze  der Datenquelle (in die importiert wird) mit Ausführung des Cronjobs gelöscht!<br />
+        <strong>Formatierungen aus den Texten entfernen</strong> - Sämtliche Formatierungen wie z.B. HTML-Tags werden beim Import aus den Daten entfernt.<br />
+        <strong>Leere Spalten nicht ins UPDATE einbeziehen!</strong> - ... <br />
+        <strong>Externe Kategorien mit den internen Kategorien abgleichen?</strong> - Haben sich Kategorien in der Importdatei geändert,
+        werden diese mit den bereits angelegten (internen) Kategorien abgeglichen.<br />
+    </li>
 </ul>

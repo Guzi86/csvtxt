@@ -563,8 +563,8 @@ noCategorySeller;;Es wurden keine Kategorien für diese Datenquelle gefunden!;No
 catExists;;Kategorie bereits vorhanden!;Category already exists!;;;;;;;;;;;568
 refreshColumns;;Diese Einstellungen übernehmen;Make these settings;;;;;;;;;;;569
 noEditDescr;;Titel/Beschreibungen nicht ändern;No edit title and description ;;;;;;;;;;;570
-publicDataLimit;;Datenfreigabe nur nach Überprüfung des Kunden;data released only after verification of the customer;;;;;;;;;;;571
-publicDataAll;;Daten für alle Kunden freigeben;Free data for all customers;;;;;;;;;;;572
+publicDataLimit;;Datenfreigabe nach Überprüfung des Nutzers;Data release after user verification;;;;;;;;;;;571
+publicDataAll;;Daten für alle Nutzer freigeben;Sharing your data to all users;;;;;;;;;;;572
 noExistsImportTemplate;;Sie haben noch keine Importvorlage angelegt.<br />Der Import von Daten muss mindestens 1x händisch durchgeführt werden muss (unter Datenpool ->Import).<br />Nur so wird eine Importvorlage gespeichert, welche Sie dann hier auswählen können.;No exists import template.;;;;;;;;;;;573
 okCompare;;Daten wurden miteinander vergleichen.;complete files compare;;;;;;;;;;;574
 deletedData;;Datensatz nicht vorhanden;record not available;;;;;;;;;;;575
@@ -587,7 +587,7 @@ markedProductTxt;;Markierte Produkte folgender Kategorie zuordnen:;Assign select
 noColumnNameInRow;;keine Spaltennamen;no Column-names;;;;;;;;;;;592
 compareProductCategory;;externe Produktkategorien abgleichen;syndicate product category;;;;;;;;;;;593
 buildExtCat;;Externe Kategorien mit den internen Kategorien abgleichen?;Syndicate External categories with the internal categories?;;;;;;;;;;;594
-deleteAllEntrys;;ALLE Datensätze zum Löschen markieren...;Mark ALL records for deletion...;;;;;;;;;;;595
+deleteAllEntrys;;Datensätze zum Löschen markieren...;Mark records for deletion...;;;;;;;;;;;595
 deleteAllTxt;;Alle ausgewählten Datensätze jetzt löschen?;Delete all selected records now?;;;;;;;;;;;596
 newCronjobImportTxt;;Neuen Cronjob anlegen (Import);create new cronjob (import);;;;;;;;;;;597
 okSupplier;;Sie haben die Datenquelle erfolgreich gewechselt.;data source changed successfully;;;;;;;;;;;599

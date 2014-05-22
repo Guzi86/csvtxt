@@ -1,0 +1,43 @@
+<p>
+	Im oberen Bereich finden Sie ein Auswahlmenü zur Voreinstellung für den Bereich <i>Schnittstellen ->Templates</i>.
+	Sie können beliebig viele Templates anlegen. Ein Muster-Template haben wir für Sie bereits eingerichtet.
+	Daran sollten Sie sich orientieren, wenn Sie ein neues Template anlegen.<br />
+	<strong>Wozu dient ein Template?</strong><br />
+	Stellen Sie sich z.B. eine detaillierte Produktbeschreibung auf eBay vor, die vielleicht auch noch 2-3 Bildschirmseiten lang ist.
+	Wenn Sie nun angenommen für 1000 oder sogar mehr Produkte eine solche Produktbeschreibung in Ihrer CSV-Datei benötigen
+	und diese aber nur 1x definieren möchten, so übernimmt unser Template-Tool genau diese Funktion. Schauen Sie sich zum
+	besseren Verständnis einfach unser Muster-Template an.<br />
+	<br />
+	<strong>Template auswählen</strong> - Legen Sie hier ein neues Template an.
+</p>
+
+<h3>[ Grundeinstellungen ]</h3>
+<ul>
+	<li><h4>Grundeinstellungen</h4>
+		<strong>Name</strong> - Geben Sie Ihrem Template einen Namen (frei wählbar).
+	</li>
+</ul>
+
+<h3>[ Ihr Layout (HTML) ]</h3>
+<ul>
+	<li><h4>Ihr Layout (HTML)</h4>
+		Richten Sie hier Ihr Template ein. Im rechten Bereich auf dieser Seite finden Sie dazu alle verfügbaren Platzhalter.
+		Platzieren Sie den Cursor mit Hilfe der Maus im Templatefenster und klicken Sie auf einen der Platzhalter rechts.
+		Dieser erscheint dann sofort an der entsprechenden Stelle im Template.<br />
+		Fügen Sie alle benötigten individuellen Texte und Platzhalter ein und vergessen Sie bitte nicht, Ihr Template während des Bearbeitens
+		regelmäßig zu speichern! Jede einzelne Produktbeschreibung Ihrer CSV-Datei enthält später dann die jeweiligen Produktdaten des hier
+		eingerichteten Layouts.<br />
+		<br />
+		Bitte verwenden Sie in Templates ausschließlich einfache HTML-Tags (wie im Muster). JavaScript oder ähnlicher Code ist NICHT zulässig
+		in Templates (Support leisten wir nur bei Verwendung der gängigsten HTML-Befehle).
+	</li>
+</ul>
+<br />
+
+<a name="fieldFormat" id="fieldFormat"></a>%md.formatierung%
+<h3>[ Vorschau ]</h3>
+<ul>
+	<li><h4>Vorschau</h4>
+		Schauen Sie sich Ihr Template in der Vorschau an.
+	</li>
+</ul>

@@ -13,10 +13,11 @@
 
 <ul>
 	<li><h4>Grundeinstellungen</h4>
-		<strong>Name Ihrer Kategoriezuordnung</strong> - Geben Sie Ihrer Kategoriezuordung eine aussagekräftige Bezeichnung.
+		<strong>Name Ihrer Kategoriezuordnung</strong> - Geben Sie der Kategoriezuordung Ihrer Schnittstelle eine aussagekräftigen Namen.
 	</li>
 	<li><h4>Kategoriezuordnung... (Schnittstelle)</h4>
-		In der linken Spalte werden Ihnen die verfügbaren Kategorien des oben ausgewählten Datenpools angezeigt. Tragen Sie hier nun
-		zu jeder dieser Kategorien die passende Schnittstellenkategorie ein.
+		In der <strong>linken Spalte</strong> sehen Sie alle verfügbaren internen Kategorien des oben ausgewählten Datenpools.
+		Tragen Sie hier nun zu jeder dieser internen Kategorien die passende Nummer oder Bezeichnung Ihrer Schnittstellenkategorie ein.
+		Die <strong>hier einzutragenen Werte</strong> werden als Kategorien in Ihre CSV-Datei übermommen.
 	</li>
 </ul>

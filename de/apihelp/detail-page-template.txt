@@ -14,7 +14,7 @@
 <h3>[ Grundeinstellungen ]</h3>
 <ul>
 	<li><h4>Grundeinstellungen</h4>
-		<strong>Name</strong> - Geben Sie Ihrem Template eine Bezeichnung.
+		<strong>Name</strong> - Geben Sie Ihrem Template einen Namen (frei wählbar).
 	</li>
 </ul>
 
@@ -22,17 +22,18 @@
 <ul>
 	<li><h4>Ihr Layout (HTML)</h4>
 		Richten Sie hier Ihr Template ein. Im rechten Bereich auf dieser Seite finden Sie dazu alle verfügbaren Platzhalter.
-		Platzieren Sie den Cursor mit Hilfe der Maus im Templatefenster und klicken Sie auf einen der Platzhalter.
+		Platzieren Sie den Cursor mit Hilfe der Maus im Templatefenster und klicken Sie auf einen der Platzhalter rechts.
 		Dieser erscheint dann sofort an der entsprechenden Stelle im Template.<br />
-		Fügen Sie alle benötigen Texte und Platzhalter ein und vergessen Sie bitte nicht, Ihr Template während des Bearbeitens
-		regelmäßig zu speichern! Jede einzelne Produktbeschreibung in Ihrer CSV-Datei enthält später dann die jeweiligen Produktdaten,
-		die Sie hier im Template definiert haben.<br />
+		Fügen Sie alle benötigten individuellen Texte und Platzhalter ein und vergessen Sie bitte nicht, Ihr Template während des Bearbeitens
+		regelmäßig zu speichern! Jede einzelne Produktbeschreibung Ihrer CSV-Datei enthält später dann die jeweiligen Produktdaten des hier
+		eingerichteten Layouts.<br />
 		<br />
-		Bitte verwenden Sie in Templates ausschließlich einfaches HTML (wie im Muster). JavaScript oder ähnlicher Code ist NICHT zulässig
-		in Templates (Support nur bei Verwendung der gängigsten HTML-Befehle).
+		Bitte verwenden Sie in Templates ausschließlich einfache HTML-Tags (wie im Muster). JavaScript oder ähnlicher Code ist NICHT zulässig
+		in Templates (Support leisten wir nur bei Verwendung der gängigsten HTML-Befehle).
 	</li>
 </ul>
 <br />
+
 <a name="fieldFormat" id="fieldFormat"></a>%md.formatierung%
 <h3>[ Vorschau ]</h3>
 <ul>

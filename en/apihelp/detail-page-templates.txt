@@ -30,6 +30,7 @@
 		<br />
 		Bitte verwenden Sie in Templates ausschließlich einfache HTML-Tags (wie im Muster). JavaScript oder ähnlicher Code ist NICHT zulässig
 		in Templates (Support leisten wir nur bei Verwendung der gängigsten HTML-Befehle).<br />
+		<br />
 		<a name="fieldFormat" id="fieldFormat"></a>%md.formatierung%
 	</li>
 </ul>

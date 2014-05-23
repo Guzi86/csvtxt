@@ -1,0 +1,8 @@
+<p>
+	Hier sind Ihre persönlichen Daten und Angaben zu Ihrer Firma hinterlegt.
+</p>
+<p><span class="txtRed"><strong>ACHTUNG!</strong></span><br />
+	Wenn Sie Ihren Account löschen, gehen zusätzlich auch ALLE in Ihrem DATENPOOL sowie unter SCHNITTSTELLEN gespeicherten Datensätze,
+	CSV-Dateien, Templates, Vorlagen und sonstige Einstellungen unwideruflich verloren und können von uns nicht wieder hergestellt werden!<br />
+	Nach Ihrem Klick auf <span class="txtRed">[ Account + Daten komplett löschen? ]</span> erfolgt eine letzte Sicherheitsabfrage.
+</p>

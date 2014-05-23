@@ -1,0 +1,17 @@
+<p>
+	Im Bereich 'Abonnements' können Sie Schnittstellen aktivieren und deaktivieren.
+</p>
+
+<h3>[ Schnittstellen ]</h3>
+<ul>
+	<li><h4>Aktivierte Schnittstellen</h4>
+		Hier werden Ihnen sämtliche Schnittstellen angezeigt, die Sie bereits aktiviert haben.
+	</li>
+</ul>
+
+<h3>[ Schnittstellen aktivieren ]</h3>
+<ul>
+	<li><h4>Neue Schnittstellen aktivieren</h4>
+		Aktivieren Sie auf dieser Seite eine oder mehrere neue Schnittstellen zur weiteren Verwendung.
+	</li>
+</ul>

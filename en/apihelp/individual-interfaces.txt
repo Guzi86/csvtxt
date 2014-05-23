@@ -45,11 +45,11 @@
 		und ein Content-Beispiel für eine XML-Datei:
 		%file./content/snippets/xmlcontent.txt%
 		Diese Zeile wird beim Erstellen einer CSV- bzw. XML-Datei entsprechend oft wiederholt, je nach Anzahl der gefundenen Datensätze.<br />
-		<strong>Bitte beachten:</strong> Die Reihenfolge der Spalten im Kopfbereich muss mit der hier gewählten Reihenfolge übereinstimmen.
+		<strong>Bitte beachten:</strong> Die Reihenfolge der Spalten im Kopfbereich muss mit der hier gewählten Reihenfolge übereinstimmen.<br />
+		<br />
+		%md.formatierung%
 	</li>
 </ul>
-<br />
-%md.formatierung%
 
 <h3>[ Fußbereich ]</h3>
 <ul>

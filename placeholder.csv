@@ -242,7 +242,7 @@ from;;von;from;;;;;;;;;;;240
 settingsFormat;;Format / Dauer;format / duration;;;;;;;;;;;241
 settingsLong;;Einstell-Dauer;set duration;;;;;;;;;;;242
 settingsCountry;;Einstell-Land;set country;;;;;;;;;;;243
-settingsVolume;;Einstell-Menge;set ammount;;;;;;;;;;;244
+settingsVolume;;Einstellmenge;set ammount;;;;;;;;;;;244
 round;;runden;round;;;;;;;;;;;245
 prices;;Preise;prices;;;;;;;;;;;246
 price;;Preis;price;;;;;;;;;;;247
@@ -472,7 +472,7 @@ lastInterfaceUpdate;;Letzte Aktualisierung der Schnittstelle:;Last update of the
 deactivate;;deaktivieren;deactivate;;;;;;;;;;;625
 activate;;aktivieren;activate;;;;;;;;;;;626
 noCredits;;Ihre Credits sind aufgebraucht.;;;;;;;;;;;;476
-actionButtonTxt;;Â» mögliche Optionen;;;;;;;;;;;;477
+actionButtonTxt;;» mögliche Optionen;» available options;;;;;;;;;;;477
 noAction;;Dieser Vorgang wurde abgebrochen.;unable to load file;;;;;;;;;;;478
 readFileButtonImport;;Daten Importieren / Vorlage speichern;import now;;;;;;;;;;;479
 allTemplates;;Vorhandene Template;exists templates;;;;;;;;;;;480
@@ -533,7 +533,7 @@ deleteAllDataRecords;;ALLE bereits vorhandenen Datensätze dieser Datenquelle vo
 registerButtonTxt;;Jetzt kostenfrei einen Account registrieren!;Register now for free account!;;;;;;;;;;;602
 noCategory;;Es wurden keine Kategorienzuordnungen gefunden!;No matching categories found!;;;;;;;;;;;538
 subscriptions;subscriptions, Abonnements, Schnittstellen;Schnittstellen;Interfaces;;;;;;;;;;;539
-unlockMoreInterfaces;;Weitere Schnittstelle aktivieren;activate more interfaces;;;;;;;;;;;540
+unlockMoreInterfaces;;Neue Schnittstellen aktivieren;activate new interfaces;;;;;;;;;;;540
 interface;;Schnittstelle(n);interface(s);;;;;;;;;;;541
 wantToBookOption;;Möchten Sie diese Option aktivieren?;Do you want to activate this option?;;;;;;;;;;;542
 wantToCancelSubscription;Möchten Sie dieses Abonnement/Schnittstelle deaktivieren?;Möchten Sie diese Schnittstelle deaktivieren? Achtung: Alle Daten werden gelöscht!;Do you want to deactivate this interface?;;;;;;;;;;;543
@@ -581,7 +581,7 @@ noFormat;;Formatierungen aus den Texten entfernen!;Remove formatting from the te
 listingFalseProductCat;;<h2>Datensätze sind einer Oberkategorie zugeordnet.</h2>%BREAK%Datensätze (Produkte) dürfen immer nur der jeweils letzten Unterkategorie zugeordnet sein (siehe Hilfetext!).;<h2>False category</h2>;;;;;;;;;;;586
 listingFalseProductCatTxt;;Dieser Datensatz ist nicht einer der letzten Unterkategorien zugeordnet worden!(siehe Hilfetext!).;false category;;;;;;;;;;;587
 ftpData;;FTP-Daten;ftp data;;;;;;;;;;;588
-productFromCat;;Produkte aus folgenden Kategorien;Products from the following categories;;;;;;;;;;;589
+productFromCat;;Produkte aus folgenden Kategorien verwenden;Using products from the following categories;;;;;;;;;;;589
 productWithoutCat;;Produkte ohne Kategoriezuordnung;Products unfiled;;;;;;;;;;;590
 markedProductTxt;;Markierte Produkte folgender Kategorie zuordnen:;Assign selected products of the following category:;;;;;;;;;;;591
 noColumnNameInRow;;keine Spaltennamen;no Column-names;;;;;;;;;;;592

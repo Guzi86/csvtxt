@@ -12,9 +12,3 @@
 	Auf Anfrage können wir Ihren Datenpool freischalten, so dass Ihre Produktdaten dann auch von anderen Händlern verwendet werden können
 	(<strong>public data</strong>).
 </p>
-<p>
-	Das Hilfecenter erreichen Sie jederzeit über den <strong>grünen Hilfe-Button am rechten Bildschirmrand</strong>.
-	Die Aktivierung von Javascript ist dafür notwendig.<br />
-	Sollten Sie Fragen haben, die nicht in unseren Hilfetexten beantwortet werden, können Sie über den Bereich ACCOUNT
-	ein Ticket schreiben oder unser <a href="http://innonetz.de/" title="Hilfe-Forum">Forum</a> dafür nutzen.
-</p>

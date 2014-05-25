@@ -1,0 +1,20 @@
+<p></p>
+<p>
+	Im <strong>DATENPOOL</strong> werden zuerst sämtliche Produktdaten, interne Kategorien usw. erfasst.
+	Importieren Sie Ihre Datensätze aus beliebigen Dateiformaten von Ihrem PC oder auch per URL von einem Webserver
+	in die Datenbank von csv4you.com. Alternativ können Datensätze auch einzeln neu angelegt werden.<br />
+	Der Datenpool dient also ausschließlich der Verwaltung Ihrer Datensätze und der Zuordung dieser Datensätze zu internen Kategorien.
+	Es lassen sich auch mehrere Datenpools verwalten, z.B. für Produktdaten von unterschiedlichen Lieferanten.<br />
+	Das Umwandeln der Daten in das gewünschte Schnittstellenformat erfolgt dann später im Bereich SCHNITTSTELLEN.
+</p>
+<p>
+	Alle hochgeladenen Datensätze sind NICHT öffentlich, sie stehen also grundsätzlich nur Ihnen zur Verfügung (<strong>privat data</strong>).
+	Auf Anfrage können wir Ihren Datenpool freischalten, so dass Ihre Produktdaten dann auch von anderen Händlern verwendet werden können
+	(<strong>public data</strong>).
+</p>
+<p>
+	Das Hilfecenter erreichen Sie jederzeit über den <strong>grünen Hilfe-Button am rechten Bildschirmrand</strong>.
+	Die Aktivierung von Javascript ist dafür notwendig.<br />
+	Sollten Sie Fragen haben, die nicht in unseren Hilfetexten beantwortet werden, können Sie über den Bereich ACCOUNT
+	ein Ticket schreiben oder unser <a href="http://innonetz.de/" title="Hilfe-Forum">Forum</a> dafür nutzen.
+</p>

@@ -12,7 +12,8 @@
 		die Zuordnung zu den Kategorien Ihrer CSV- oder XML-Schnittstelle.<br />
 		Um eine Kategorie zu <strong>bearbeiten</strong>, klicken Sie auf den Namen der Kategorie. Es öffnet sich eine neue Seite,
 		auf der Sie die Eigenschaften und Werte der entsprechenden Kategorie einstellen können.<br />
-		<i>Nachdem Sie einen Datensatz angeklickt haben...</i><br />
+		<br />
+		<i>Nachdem Sie eine einzelne Kategorie angeklickt haben...</i><br />
 		<strong>[ Einstellungen] - Kategorie-ID, Parent-ID, Name, Spracheinstellungen</strong> - Ändern Sie hier die Einstellungen
 		der internen Kategorie.<br />
 		<br />

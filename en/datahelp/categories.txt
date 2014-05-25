@@ -17,15 +17,15 @@
 		<strong>[ Einstellungen] - Kategorie-ID, Parent-ID, Name, Spracheinstellungen</strong> - Ändern Sie hier die Einstellungen
 		der internen Kategorie.<br />
 		<strong>[ eBay ] - Kategorie-ID für "..."</strong> - Tragen Sie hier die jeweilige eBay-Kategorie ein bzw. klicken Sie auf [ Suche ],
-		um eine passende eBay-Kategorie auszuwählen.<br />
-		<br />
-		Achtung! Artikelzuordungen werden beim Löschen von Kategorien entfernt. Arbeiten Sie mit mehreren Kategorie-Ebenen,
-		werden zuerst immer die untersten Ebenen gelöscht.
+		um eine passende eBay-Kategorie auszuwählen.
 	</li>
 	<li><h4>Weitere Aktionen</h4>
 		<strong>Alle Kategorien zum Löschen markieren...</strong> - Hier haben Sie die Möglichkeit, ALLE internen Kategorien zu löschen.
 		Über den Button <span class="txtRed">[ Löschen ]</span> werden alle internen Kategoriezuordnungen gelöscht. Produktdatensätze
 		werden dabei nicht gelöscht. Nach dem Löschen können Sie Ihre internen Kategorien über den Import wieder neu anlegen bzw.
-		Ihren Datensätzen im datenpool neu zuordnen.
+		Ihren Datensätzen im datenpool neu zuordnen.<br />
+        <br />
+        Achtung! Artikelzuordungen werden beim Löschen von Kategorien entfernt. Arbeiten Sie mit mehreren Kategorie-Ebenen,
+        werden zuerst immer die untersten Ebenen gelöscht.
 	</li>
 </ul>

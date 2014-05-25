@@ -2,6 +2,7 @@
 	Hier werden Ihre internen Kategorien inkl. der Ebenen-Struktur aufgelistet. Sie können bereits bestehende Kategorien
 	bearbeiten und exportieren oder neue Kategorien und Unterkategorien anlegen bzw. importieren.
 </p>
+ 
 <ul>
 	<li><h4>Interne Kategorien</h4>
 		Interne Kategorien sind alle <strong>Kategorien im Datenpool</strong>, in denen Ihre Produkte bzw. Datensätze 'intern' zugeordnet sind.
@@ -11,6 +12,12 @@
 		die Zuordnung zu den Kategorien Ihrer CSV- oder XML-Schnittstelle.<br />
 		Um eine Kategorie zu <strong>bearbeiten</strong>, klicken Sie auf den Namen der Kategorie. Es öffnet sich eine neue Seite,
 		auf der Sie die Eigenschaften und Werte der entsprechenden Kategorie einstellen können.<br />
+		<i>Nachdem Sie einen Datensatz angeklickt haben...</i><br />
+		<strong>[ Einstellungen] - Kategorie-ID, Parent-ID, Name, Spracheinstellungen</strong> - Ändern Sie hier die Einstellungen
+		der internen Kategorie.<br />
+		<br />
+		<strong>[ eBay ] - Kategorie-ID für "..."</strong> - Tragen Sie hier die jeweilige eBay-Kategorie ein bzw. klicken Sie auf [ Suche ],
+		um eine passende eBay-Kategorie auszuwählen.<br />
 		<br />
 		Achtung! Artikelzuordungen werden beim Löschen von Kategorien entfernt. Arbeiten Sie mit mehreren Kategorie-Ebenen,
 		werden zuerst immer die untersten Ebenen gelöscht.

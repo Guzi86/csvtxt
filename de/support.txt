@@ -1,0 +1,13 @@
+<p>
+    Das Hilfecenter erreichen Sie jederzeit über den <strong>grünen Hilfe-Button am rechten Bildschirmrand</strong>.                                  
+    Die Aktivierung von Javascript ist dafür notwendig.
+</p>
+<p>
+	Sollten Sie Fragen haben, die nicht in den Hilfetexten beantwortet werden, stellen Sie diese bitte zuerst
+	in unserem <a href="http://www.innonetz.de/" title="Hilfe-Forum">Forum</a>. So stehen unsere Antworten
+	auch anderen interessierten Nutzern zur Verfügung.<br />
+	Zusätzlich können Sie als registrierter Nutzer bei Fragen und Problemen unser kostenfreies
+	Ticketsystem verwenden (erreichbar über den Menüpunkt ACCOUNT).<br />
+	<br />
+	Vielen Dank!
+</p>

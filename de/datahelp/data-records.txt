@@ -46,17 +46,17 @@
 		internen Kategorien aus dem Datenpool zu. Interne Kategorien sollten Sie auf jeden Fall einrichten, wenn Sie <u>mehrere</u>
 		unterschiedliche CSV-Dateien in Ihren Datenpool einlesen und alle Datensätze zusammen über eine Schnittstelle exportiert werden sollen.<br />
 		<br />
-        <strong>[ Kategorie ] - externe Kategorien 1-5</strong> - Diese Felder sind für sogenannte externe Kategorien, wenn Sie über den
+		<strong>[ Kategorie ] - externe Kategorien 1-5</strong> - Diese Felder sind für sogenannte externe Kategorien, wenn Sie über den
 		<i>DATENPOOL ->Import</i>Produkte mit bereits vorhandenen Kategoriebezeichnungen oder Kategorie-IDs aus Ihrem externen System importieren.
 		So lassen sich zeitsparend mehrere tausend Datensätze mit passenden (externen) Kategoriezuordnungen im Datenpool abspeichern.
 		In diesem Fall ist es dann <u>nicht</u> mehr notwendig, interne Kategorien anzulegen und diese Ihren Produkten im Datenpool zuzuordnen.<br />
-        <i>Tipp:</i> Mit externen Kategorien sollten Sie nur arbeiten, wenn Sie viele Datensätze aus <u>einer</u> größeren CSV-Datei
-        importieren müssen, um diese dann im Bereich <i>SCHNITTSTELLEN ->Settings</i> in <u>ein</u> anderes CSV-Format umzuwandeln.<br />
-        <br />
+		<i>Tipp:</i> Mit externen Kategorien sollten Sie nur arbeiten, wenn Sie viele Datensätze aus <u>einer</u> größeren CSV-Datei
+		importieren müssen, um diese dann im Bereich <i>SCHNITTSTELLEN ->Settings</i> in <u>ein</u> anderes CSV-Format umzuwandeln.<br />
+		<br />
 		<strong>[ Bilder ]</strong> - Angabe der Bildnamen oder URL<br />
 		<br />
 		<strong>[ Sprache 2, 3, 4 ]</strong> - Felder für verschiedene Sprachen<br />
-        <br />
-        <strong>[ Extern ] - eBay-ItemID</strong> - Hier können bereits existierende eBay-ItemIDs sortiert nach eBay-Ländern übernommen werden.
+		<br />
+		<strong>[ Extern ] - eBay-ItemID</strong> - Hier können bereits existierende eBay-ItemIDs sortiert nach eBay-Ländern übernommen werden.
 	</li>
 </ul>

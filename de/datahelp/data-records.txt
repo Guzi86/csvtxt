@@ -57,6 +57,6 @@
 		<br />
 		<strong>[ Sprache 2, 3, 4 ]</strong> - Felder für verschiedene Sprachen<br />
         <br />
-        <strong>[ Extern ] - eBay-ItemID</strong> - Hier können bereits existierende eBay-ItemIDs übernommen werden.
+        <strong>[ Extern ] - eBay-ItemID</strong> - Hier können bereits existierende eBay-ItemIDs sortiert nach eBay-Ländern übernommen werden.
 	</li>
 </ul>

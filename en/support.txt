@@ -6,8 +6,8 @@
 	Sollten Sie Fragen haben, die nicht in den Hilfetexten beantwortet werden, stellen Sie diese bitte zuerst
 	in unserem <a href="http://www.innonetz.de/" title="Hilfe-Forum">Forum</a>. So stehen unsere Antworten
 	auch anderen interessierten Nutzern zur Verfügung.<br />
-	Zusätzlich können Sie als registrierter Nutzer bei Fragen und Problemen unser kostenfreies
-	Ticketsystem verwenden (erreichbar über den Menüpunkt ACCOUNT).<br />
+	Zusätzlich können Sie als registrierter Nutzer bei Fragen und Problemen unser <strong>kostenfreies
+	Ticketsystem</strong> verwenden (erreichbar über den Menüpunkt ACCOUNT).<br />
 	<br />
 	Vielen Dank!
 </p>

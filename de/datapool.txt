@@ -1,11 +1,12 @@
 <p></p>
 <p>
-	Im <strong>DATENPOOL</strong> werden zuerst sämtliche Produktdaten, interne Kategorien usw. erfasst.
-	Importieren Sie Ihre Datensätze aus beliebigen Dateiformaten von Ihrem PC oder auch per URL von einem Webserver
-	in die Datenbank von csv4you.com. Alternativ können Datensätze auch einzeln neu angelegt werden.<br />
-	Der Datenpool dient also ausschließlich der Verwaltung Ihrer Datensätze und der Zuordung dieser Datensätze zu internen Kategorien.
-	Es lassen sich auch mehrere Datenpools verwalten, z.B. für Produktdaten von unterschiedlichen Lieferanten.<br />
-	Das Umwandeln der Daten in das gewünschte Schnittstellenformat erfolgt dann später im Bereich SCHNITTSTELLEN.
+	Im <strong>DATENPOOL</strong> werden sämtliche Produktdaten, interne Kategorien, Importvorlagen u.a. erfasst.
+	Importieren Sie Ihre Datensätze aus beliebigen Dateiformaten von Ihrem PC oder per URL von einem Webserver
+	in die Datenbank von csv4you.com. Alternativ können Datensätze auch einzeln angelegt werden.<br />
+	Der Datenpool dient zur Verwaltung und Bearbeitung von Datensätzen sowie der Zuordung dieser Datensätze zu internen Kategorien.
+	Es lassen sich mehrere Datenpools verwalten, z.B. als Zuordnung für verschiedene Lieferanten. Über Cronjobs können alle
+	Datenimporte und Aktualisierungen automatisiert werden.<br />
+	Das Umwandeln Ihrer Daten in das gewünschte Schnittstellenformat erfolgt dann später im Bereich SCHNITTSTELLEN.
 </p>
 <p>
 	Alle hochgeladenen Datensätze sind NICHT öffentlich, sie stehen also grundsätzlich nur Ihnen zur Verfügung (<strong>privat data</strong>).

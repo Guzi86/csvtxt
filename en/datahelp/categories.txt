@@ -14,9 +14,9 @@
 		auf der Sie die Eigenschaften und Werte der entsprechenden Kategorie einstellen können.<br />
 		<br />
 		<i>Nachdem Sie eine einzelne Kategorie angeklickt haben...</i><br />
-		<strong>[ Einstellungen] - Kategorie-ID, Parent-ID, Name, Spracheinstellungen</strong> - Ändern Sie hier die Einstellungen
+		<strong>[ Einstellungen] Kategorie-ID, Parent-ID, Name, Spracheinstellungen</strong> - Ändern Sie hier die Einstellungen
 		der internen Kategorie.<br />
-		<strong>[ eBay ] - Kategorie-ID für "..."</strong> - Tragen Sie hier die jeweilige eBay-Kategorie ein bzw. klicken Sie auf [ Suche ],
+		<strong>[ eBay ] Kategorie-ID für "..."</strong> - Tragen Sie hier die jeweilige eBay-Kategorie ein bzw. klicken Sie auf [ Suche ],
 		um eine passende eBay-Kategorie auszuwählen.
 	</li>
 	<li><h4>Weitere Aktionen</h4>

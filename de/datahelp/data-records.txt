@@ -33,20 +33,19 @@
 		Aufgeteilt in unterschiedliche Bereiche, sehen Sie hier alle verfügbaren Datenfelder eines Datensatzes bzw. eines Produkts,
 		dessen Werte Sie hier anpassen können:<br />
 		<br />
-		<strong>[ Allgemein ] - ID, Parent-ID, EAN / GTIN, ISBN, Bestand, Verpackungseinheit, Preis, Alter Preis, Grundpreis, UVP,
+		<strong>[ Allgemein ] ID, Parent-ID, EAN / GTIN, ISBN, Bestand, Verpackungseinheit, Preis, Alter Preis, Grundpreis, UVP,
 		Mehrwertsteuer, Größe, Gewicht,	Hersteller, Cross-Daten</strong> u.a.<br />
 		Falls Ihnen bestimmte Felder fehlen, so können Sie diese über die Funktion 'Freifelder' in <i>DATENPOOL ->Grundeinstellungen ->Allgemeines</i>
 		nachträglich hinzufügen. Alle Inhalte hier lassen sich optimalerweise natürlich über die Import-Funktion einlesen/ändern.<br />
 		<br />
-		<strong>[ Stammdaten ] - Titel, Beschreibung</strong> - Produktname, Kurzbeschreibung, Langtexte<br />
+		<strong>[ Stammdaten ] Name, Keywords, Beschreibungen</strong> - Produktname bzw. Titel, Produktbeschreibungen, weitere Eigenschaften<br />
 		<br />
-		<strong>[ Kategorie ] - Produkt in interner Kategorie</strong> - Falls Sie über <i>DATENPOOL ->Import</i> interne <u>Kategorien</u> importiert haben
+		<strong>[ Kategorie ] Produkt in interner Kategorie</strong> - Falls Sie über <i>DATENPOOL ->Import</i> interne <u>Kategorien</u> importiert haben
 		(also Kategorien, die Sie damit direkt im Datenpool anlegen), können Sie hier eine dieser internen Kategorien Ihrem Produkt zuordnen.
 		Im Bereich <i>SCHNITTSTELLEN ->Kategoriezuordnung</i> tragen Sie dann Ihre Shop-Kategorien für die CSV-Datei ein und weisen diese Ihren
 		internen Kategorien aus dem Datenpool zu. Interne Kategorien sollten Sie auf jeden Fall einrichten, wenn Sie <u>mehrere</u>
 		unterschiedliche CSV-Dateien in Ihren Datenpool einlesen und alle Datensätze zusammen über eine Schnittstelle exportiert werden sollen.<br />
-		<br />
-		<strong>[ Kategorie ] - externe Kategorien 1-5</strong> - Diese Felder sind für sogenannte externe Kategorien, wenn Sie über den
+		<strong>externe Kategorie 1-5</strong> - Diese Felder sind für sogenannte externe Kategorien, wenn Sie über den
 		<i>DATENPOOL ->Import</i>Produkte mit bereits vorhandenen Kategoriebezeichnungen oder Kategorie-IDs aus Ihrem externen System importieren.
 		So lassen sich zeitsparend mehrere tausend Datensätze mit passenden (externen) Kategoriezuordnungen im Datenpool abspeichern.
 		In diesem Fall ist es dann <u>nicht</u> mehr notwendig, interne Kategorien anzulegen und diese Ihren Produkten im Datenpool zuzuordnen.<br />
@@ -57,6 +56,6 @@
 		<br />
 		<strong>[ Sprache 2, 3, 4 ]</strong> - Felder für verschiedene Sprachen<br />
 		<br />
-		<strong>[ Extern ] - eBay-ItemID</strong> - Hier können bereits existierende eBay-ItemIDs sortiert nach eBay-Ländern übernommen werden.
+		<strong>[ Extern ] eBay-ItemID</strong> - Hier können bereits existierende eBay-ItemIDs sortiert nach eBay-Ländern übernommen werden.
 	</li>
 </ul>

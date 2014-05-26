@@ -16,8 +16,9 @@
 		<i>Nachdem Sie eine einzelne Kategorie angeklickt haben...</i><br />
 		<strong>[ Einstellungen ] Kategorie-ID, Parent-ID, Name, Spracheinstellungen</strong> - Ändern Sie hier die Einstellungen
 		der internen Kategorie.<br />
-		<strong>[ eBay ] Kategorie-ID für "..."</strong> - Tragen Sie hier die jeweilige eBay-Kategorie ein bzw. klicken Sie auf [ Suche ],
-		um eine passende eBay-Kategorie auszuwählen.
+		<strong>[ eBay ] Kategorie-ID für "..."</strong> - Tragen Sie hier eine korrekte Bay-Kategorie ein oder klicken Sie auf [ Suche ],
+		um eine passende eBay-Kategorie auszuwählen. Über den Button [ ID übernehmen ] wird die Kategorie in das jeweilige Feld eingetragen.
+		Speichern Sie Ihre hinzugefügten oder geänderten Inhalte.
 	</li>
 	<li><h4>Weitere Aktionen</h4>
 		<strong>Alle Kategorien zum Löschen markieren...</strong> - Hier haben Sie die Möglichkeit, ALLE internen Kategorien zu löschen.

@@ -1,6 +1,6 @@
 <p>
     Das Hilfecenter erreichen Sie jederzeit über den <strong>grünen Hilfe-Button am rechten Bildschirmrand</strong>.                                  
-    Die Aktivierung von Javascript ist dafür notwendig.
+    Die Aktivierung von JavaScript ist dafür notwendig.
 </p>
 <p>
 	Sollten Sie Fragen haben, die nicht in den Hilfetexten beantwortet werden, stellen Sie diese bitte zuerst

@@ -22,10 +22,9 @@
 		die Buttons <strong>Neuen Datensatz anlegen</strong> und <strong>Exportieren</strong> (alle Datensätze in CSV-Datei exportieren).
 	</li>
 	<li><h4>Weitere Aktionen</h4>
-		Wählen Sie hier optionelle Bearbeitungsmöglichkeiten für Ihre Produkte aus, wie z.B.
-		<span class="txtRed">"Datensätze zum Löschen markieren..."</span>. Im 2. Schritt dann können Sie markierten Datensätze
-		aus der Datenbank löschen.<br /><span class="txtRed">Wichtig:</span><br />Bitte beachten Sie, dass das Markieren/Demarkieren
-		von Datensätzen bei großen Datenbeständen aktuell noch einen kurzen Moment Wartezeit in Anspruch nimmt.
+		<span class="txtRed">"ALLE Datensätze zum Löschen markieren..."</span>.
+		Wenn Sie diese Option ausführen, werden ALLE Datensätzes innerhalb des aktiven Datenpools gelöscht.<br />
+		Möchten Sie nur bestimmte Produkte löschen, markieren Sie bitte direkt die jeweiligen Datensätze (Optionsfeld links).
 	</li>
 	<a name="datapoolProd" id="datapoolProd"></a>
 	<li><h4>Eigenschaften einzelner Artikel/Datensätze</h4>

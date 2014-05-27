@@ -21,12 +21,16 @@
 		Speichern Sie Ihre hinzugefügten oder geänderten Inhalte.
 	</li>
 	<li><h4>Weitere Aktionen</h4>
-		<strong>Alle Kategorien zum Löschen markieren...</strong> - Hier haben Sie die Möglichkeit, ALLE internen Kategorien zu löschen.
-		Über den Button <span class="txtRed">[ Löschen ]</span> werden alle internen Kategoriezuordnungen gelöscht. Produktdatensätze
-		werden dabei nicht gelöscht. Nach dem Löschen können Sie Ihre internen Kategorien über den Import wieder neu anlegen bzw.
-		Ihren Datensätzen im datenpool neu zuordnen.<br />
+
+	<li><h4>Weitere Aktionen</h4>
+		<span class="txtRed">"ALLE Kategorien zum Löschen markieren..."</span> - 
+		Wenn Sie diese Option ausführen, werden ALLE (internen) Kategorien innerhalb des aktiven Datenpools gelöscht.<br />
+		Möchten Sie nur bestimmte Kategorien löschen, markieren Sie bitte nur die jeweiligen Optionsfelder links.<br />
+		Nach dem Löschen können Sie die internen Produktkategorien über den Import wieder neu anlegen bzw. Ihren Datensätzen
+		im Datenpool neu zuordnen.<br />
         <br />
-        Achtung! Artikelzuordungen werden beim Löschen von Kategorien entfernt. Arbeiten Sie mit mehreren Kategorie-Ebenen,
-        werden zuerst immer die untersten Ebenen gelöscht.
+		Wichtig: Produktdaten werden beim Löschen von Kategorien nicht gelöscht! Allerdings werden die Zuordungen von Produktdaten
+		zu den gelöschten Kategorien natürlich entfernt. Arbeiten Sie mit mehreren Kategorie-Ebenen, werden zuerst immer die 'untersten'
+		(letzten) Ebenen gelöscht.
 	</li>
 </ul>

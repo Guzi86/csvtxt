@@ -22,7 +22,7 @@
 		die Buttons <strong>Neuen Datensatz anlegen</strong> und <strong>Exportieren</strong> (alle Datensätze in CSV-Datei exportieren).
 	</li>
 	<li><h4>Weitere Aktionen</h4>
-		<span class="txtRed">"Alle Datensätze löschen ..."</span><br />
+		<span class="txtRed">[ Alle Datensätze löschen ... ]</span><br />
         Sie werden Sie auf eine neue Seite weitergeleitet mit zusätzlicher Bestätigungsabfrage für die Löschaktion.
 		Wenn Sie dort diese Option ausführen, werden ALLE Datensätzes innerhalb des aktiven Datenpools gelöscht.<br />
 		Möchten Sie nur bestimmte Produkte löschen, markieren Sie bitte nur die jeweiligen Datensätze (Optionsfelder links).

@@ -21,7 +21,7 @@
 		Speichern Sie Ihre hinzugefügten oder geänderten Inhalte.
 	</li>
 	<li><h4>Weitere Aktionen</h4>
-		<span class="txtRed">"Alle Kategorien löschen ..."</span> - 
+		<span class="txtRed">[ Alle Kategorien löschen ... ]</span><br />
 		Sie werden Sie auf eine neue Seite weitergeleitet mit zusätzlicher Bestätigungsabfrage für die Löschaktion.
 		Wenn Sie dort die Option ausführen, werden ALLE (internen) Kategorien innerhalb des aktiven Datenpools gelöscht.<br />
 		Möchten Sie nur bestimmte Kategorien löschen, markieren Sie bitte nur die jeweiligen Optionsfelder links.<br />

@@ -21,8 +21,9 @@
 		Speichern Sie Ihre hinzugefügten oder geänderten Inhalte.
 	</li>
 	<li><h4>Weitere Aktionen</h4>
-		<span class="txtRed">"ALLE Kategorien zum Löschen markieren..."</span> - 
-		Wenn Sie diese Option ausführen, werden ALLE (internen) Kategorien innerhalb des aktiven Datenpools gelöscht.<br />
+		<span class="txtRed">"Alle Kategorien löschen ..."</span> - 
+		Sie werden Sie auf eine neue Seite weitergeleitet mit zusätzlicher Bestätigungsabfrage für die Löschaktion.
+		Wenn Sie dort die Option ausführen, werden ALLE (internen) Kategorien innerhalb des aktiven Datenpools gelöscht.<br />
 		Möchten Sie nur bestimmte Kategorien löschen, markieren Sie bitte nur die jeweiligen Optionsfelder links.<br />
 		Nach dem Löschen können Sie die internen Produktkategorien über den Import wieder neu anlegen bzw. Ihren Datensätzen
 		im Datenpool neu zuordnen.<br />

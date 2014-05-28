@@ -28,7 +28,7 @@
 		im Datenpool neu zuordnen.<br />
         <br />
 		Wichtig: Produktdaten werden beim Löschen von Kategorien nicht gelöscht! Allerdings werden die Zuordungen von Produktdaten
-		zu den gelöschten Kategorien natürlich entfernt. Arbeiten Sie mit mehreren Kategorie-Ebenen, werden zuerst immer die 'untersten'
+		zu den gelöschten Kategorien entfernt. Arbeiten Sie mit mehreren Kategorie-Ebenen, werden zuerst immer die 'untersten'
 		(letzten) Ebenen gelöscht.
 	</li>
 </ul>

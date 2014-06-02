@@ -66,3 +66,20 @@
 	<strong>FTP-Benutzername</strong> - UsernameCsv4you<br />
 	<strong>FTP-Passwort</strong> - passwordCsv4you
 </p>
+
+<h3>[ Anbieterdaten ]</h3>
+<p>Wir nennen diesen Bereich 'Anbieterdaten', weil Sie Ihren Datenpool auf Anfrage auch anderen Nutzern von csv4you.com
+    zur Verfügung stellen können (<strong>public data</strong>). Dies bietet sich z.B. an, wenn Sie Hersteller oder Großhändler sind
+    und über die öffentliche Freigabe Ihres Datenpools neue Kunden finden möchten. Auch der Versand per Dropshipping
+    wird dadurch eine denkbare Option.
+</p>
+
+
+<a name="eBayAPI" id="eBayAPI"></a><h3>[ Sonstiges ]</h3>
+<ul>
+    <li><h4>ebay Developer Production Keys</h4>
+		Über das eBay-API können Sie hier Ihre Produkte im Datenpool mit den von eBay zur Verfügung gestellten Daten abgleichen
+		oder auch eBay-Daten ergänzen wie z.B. eBay-Artikelmerkmale. Weitere Informationen dazu erhalten Sie über die Developer
+		Seiten von eBay, aktuell zu finden unter <a href="http://go.developer.ebay.com">go.developer.ebay.com</a>.
+	</li>
+</ul>

@@ -46,7 +46,7 @@ Id;Name;Beschreibung;Deutsch;Englisch;Spanisch;Französisch;Italienisch;Niederl�
 864;CodFee;;Nachnahmegebühr;C.O.D. Fee;;;;;;;;;;
 38;comment;;Kommentar;Comment;;;;;;;;;;
 924;confirm;;bestätigen;Confirm;;;;;;;;;;
-39;contactHead;;<h3>Kontaktseite</h3><div class="white"><p>Bitte benutzen Sie für Anfragen und Anmeldungen dieses E-Mail-Formular.<br>Felder mit Sternchen <span class="inhalt_red">*</span> müssen ausgefüllt werden.</p></div>;<h3>Enquiry form</h3><div class="white"><p>Please use this e-Mail form for enquiries.<br>All fields with <span class="inhalt_red">*</span> are required.</p></div>;;;;;;;;;;
+39;contactHead;;<h3>Kontaktseite</h3><p>Bitte benutzen Sie für Anfragen und Anmeldungen dieses E-Mail-Formular.<br>Felder mit * müssen ausgefüllt werden.</p>;<h3>Enquiry form</h3><p>Please use this e-Mail form for enquiries.<br>All fields with * are required.</p>;;;;;;;;;;
 709;content;;Inhaltsbereich;Content Area;;;;;;;;;;
 40;country;;Land;Country;;;;;;;;;;
 861;CreditCard;;Kreditkarte;Credit Card;;;;;;;;;;
@@ -60,7 +60,7 @@ Id;Name;Beschreibung;Deutsch;Englisch;Spanisch;Französisch;Italienisch;Niederl�
 778;days;;Tage;Days;;;;;;;;;;
 880;declaration;;Erklärung;Explanation;;;;;;;;;;
 43;delete;;löschen;Delete;;;;;;;;;;
-851;deleteTxt;;Sollen diese Daten entfernt werden?;Should these data entries be removed?;;;;;;;;;;
+851;deleteTxt;;Sollen diese Daten entfernt werden?;Shall these entries be removed?;;;;;;;;;;
 857;deliveryTime;;Lieferzeit;Delivery Period;;;;;;;;;;
 44;desc;;absteigend;Descending;;;;;;;;;;
 1161;description;;Beschreibung;Description;;;;;;;;;;

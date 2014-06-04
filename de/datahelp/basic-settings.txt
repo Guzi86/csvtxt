@@ -72,13 +72,13 @@
     <li><h4>ebay</h4>
 		Sie können Ihre Produkte im Datenpool mit von eBay zur Verfügung gestellten Daten ergänzen,
 		z.B. um Ihren Datensätzen eBay-Artikelmerkmale zuzuweisen oder um bereits vorhandenen Daten
-		Ihres eBay-Kontos zu aktualisieren (z.B. Lagerbestände). Sie benötigen dazu einen ebay-Tooken,
+		Ihres eBay-Kontos zu aktualisieren (z.B. Lagerbestände). Sie benötigen dazu einen ebay-Token,
 		der hier hinterlegt werden kann. Um einen solchen Token zu generieren, müssen Sie sich einmalig
 		im eBay-Entwicklerprogramm registrieren. Weitere Informationen dazu erhalten Sie über die
 		Developer-Seiten von eBay, aktuell zu finden unter
 		<a href="http://go.developer.ebay.com">go.developer.ebay.com</a>.<br />
 		Einen einmal erstellten eBay-Token können Sie jederzeit wieder löschen (widerrufen). 
 		Mehr Infos dazu gibt es
-		<a href="https://ebay.custhelp.com/app/answers/detail/a_id/566/~/how-to-revoke-a-token">hier...</a>
+		<a href="http://ebay.custhelp.com/app/answers/detail/a_id/566/~/how-to-revoke-a-token">hier...</a>
 	</li>
 </ul>

@@ -75,7 +75,7 @@
 		zu aktualisieren (z.B. Lagerbestände). Dazu benötigen Sie einen ebay-Token, der hier
 		hinterlegt werden kann. Um einen solchen Token zu generieren, klicken Sie bitte auf den dafür
 		vorbereiteten Button. Sie werden danach über eine verschlüsselte Verbindung zu einer Seite
-		von eBay weitergeleitet und können dort dann den Token für csv4you.com generieren.<br />
+		von eBay weitergeleitet und können dort den Token für csv4you.com generieren.<br />
 		Weitere Informationen erhalten Sie auch über die Developer-Seiten von eBay, aktuell zu
 		finden unter <a href="http://go.developer.ebay.com">go.developer.ebay.com</a>.<br />
 		Einen einmal erstellten eBay-Token für csv4you.com können Sie auch wieder löschen (widerrufen).

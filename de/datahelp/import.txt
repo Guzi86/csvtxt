@@ -8,8 +8,9 @@
 </p>
 <ul>
 	<li><h4>Datendatei importieren</h4>
-		Wählen Sie eine Datei und wenn vorhanden eine passende Importvorlage aus. Sollten es sich um XML-Daten handeln,
-		muss ein Häckchen in das Feld 'XML-Daten'. XML-Dateien werden während der weiteren Verarbeitung in eine durch Tabulator
+		Wählen Sie eine Datei und wenn vorhanden eine passende Importvorlage aus. Als Importdatei akzeptiert das System
+		CSV-, TXT- und Excel-Dateien (nur ein Tabellenblatt). Falls Sie eine XML-Datei importieren, muss ein
+		Häckchen in das Feld 'XML-Daten'. XML-Dateien werden während der weiteren Verarbeitung in eine durch Tabulator
 		getrennte CSV-Datei umgewandelt.<br />Nachdem die Datei hochgeladen wurde, erscheint ein neues Fenster...
 	</li>
 	<li><h4>Ihre Datei wurden geladen.</h4>

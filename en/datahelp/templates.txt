@@ -1,7 +1,8 @@
 <p>
 	Die Seite Vorlagen speichert zur besseren Übersicht Ihre bereits angelegten Vorlagen (Einstellungen) aus dem Bereich Import und Konverter.
-	Neue Vorlagen können Sie nach einem erfolgreichen Import oder dem Konvertieren von Dateien anlegen.
-	Bereits vorhandene Vorlagen können Sie <strong>hier nur ändern</strong>.<br />Bitte 'Speichern' nicht vergessen...
+	Neue Vorlagen können Sie beim Importieren oder dem Konvertieren von Dateien anlegen.
+	Bereits vorhandene Vorlagen können Sie <strong>hier ändern</strong>. Bitte 'Speichern' nicht vergessen...<br />
+	Während eines Imports geänderte Feldzuordnungen werden automatisch in die jeweilige (Import-)Vorlage übernommen!
 </p>
 
 <h3>[ Allgemeines ]</h3>

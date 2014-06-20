@@ -63,7 +63,7 @@ vkAllArticle;;Versandkostenaufschlag nur einmalig;delivery expenses surcharge pe
 gallery;;Galerie;gallery;;;;;;;;;;;62
 ourCat;;Unsere Kategorie;Our Category;;;;;;;;;;;63
 okDelete;;Daten wurden gelöscht;Data deleted;;;;;;;;;;;64
-deleteTxt;;Sollen die markierten Daten gelöscht werden?;The selected data should be removed?;;;;;;;;;;;65
+deleteTxt;;Markierte Daten JETZT löschen?;Selected data remove NOW?;;;;;;;;;;;65
 topOffer;;Top-Angebot;Top Offer;;;;;;;;;;;66
 vkOneArticle;;Versandkostenaufschlag für jeden Artikel;delivery expenses surcharge per item;;;;;;;;;;;67
 falseMemberName;;Dieser Benutzername kann nicht verwendet werden!<br />Es wird weiterhin der alte verwendet. ;This user name cannot be used!<br />The old one is used furthermore.;;;;;;;;;;;68
@@ -587,8 +587,8 @@ markedProductTxt;;Markierte Produkte folgender Kategorie zuordnen:;Assign select
 noColumnNameInRow;;keine Spaltennamen;no Column-names;;;;;;;;;;;592
 compareProductCategory;;externe Produktkategorien abgleichen;syndicate product category;;;;;;;;;;;593
 buildExtCat;;Externe Kategorien mit den internen Kategorien abgleichen?;Syndicate External categories with the internal categories?;;;;;;;;;;;594
-deleteAllEntrys;;Datensätze zum Löschen markieren...;Mark records for deletion...;;;;;;;;;;;595
-deleteAllTxt;;Alle ausgewählten Datensätze jetzt löschen?;Delete all selected records now?;;;;;;;;;;;596
+deleteAllEntrys;;ALLE Datensätze zum Löschen markieren...;Mark ALL data records for deletion...;;;;;;;;;;;595
+deleteAllTxt;;ALLE Datensätze dieses Datenpools jetzt löschen?;ALL records in this datapool delete now?;;;;;;;;;;;596
 newCronjobImportTxt;;Neuen Cronjob anlegen (Import);create new cronjob (import);;;;;;;;;;;597
 okSupplier;;Sie haben die Datenquelle erfolgreich gewechselt.;data source changed successfully;;;;;;;;;;;599
 noSupplier;;Die Datenquelle konnte nicht gewechselt werden.;data source changed no successfully;;;;;;;;;;;600
@@ -599,7 +599,7 @@ openFrameTxtHeadlineImport;;Ihre Daten werden importiert.;Your data will be impo
 openFrameTxtImport;;Dieser Vorgang kann je nach Anzahl und Auswahl der Daten eine Weile dauern.<br />Das Fenster sollte während des Imports nicht geschlossen werden.;import file;;;;;;;;;;;607
 openFrameTxtErrorImport;;<b>Es konnte nicht importiert werden.</b>;error;;;;;;;;;;;608
 openFrameTxtErrorHeadlineImport;;Die Import konnte nicht gestartet werden.;import error;;;;;;;;;;;609
-okImport;;<p>Produkte wurden erfolgreich importiert.</p>%BREAK%<a href="<?print makelink(33);?>" class="arrow">Zu meinen Produkten gehen ...</a><br />%BREAK%<a href="<?print makelink(7);?>" class="arrow">Exportdatei erstellen ...</a>;Products has been successfully imported.;;;;;;;;;;;610
+okImport;;<p><?PHP print $_GET['d'];?> Produkt(e) wurden erfolgreich importiert.</p>%BREAK%<a href="<?print makelink(33);?>" class="arrow">Zu meinen Produkten gehen ...</a><br />%BREAK%<a href="<?print makelink(7);?>" class="arrow">Exportdatei erstellen ...</a>;Products has been successfully imported.;;;;;;;;;;;610
 newDataTxt;;Filter - Neuzugänge;new data;;;;;;;;;;;611
 newData;;Nur neue Datensätze;Only new data records;;;;;;;;;;;612
 columnSaveTemplate;;Als Vorlage speichern unter;save template;;;;;;;;;;;613
@@ -625,3 +625,21 @@ readAttributesNeu;;Artikelmerkmale von eBay neu einlesen;read attributes from eB
 lastSaveAttributes;;Letzte Speicherung der Artikelmerkmale;Last save the products attributes;;;;;;;;;;;637
 cronjobImport;;Cronjob (Import);Cronjob (import);;;;;;;;;;;638
 actionType;;Art des Eintrages;Type of Action;;;;;;;;;;;639
+deleteAllCategoriesTxt;;ALLE Kategorien im aktuellen Datenpool jetzt löschen?;ALL categories delete now?;;;;;;;;;;;640
+deleteDatapoolArticleTxt;;Wenn Sie diese Option ausführen, werden ALLE Produktdatensätze innerhalb des aktiven Datenpools gelöscht.<br />%BREAK%Möchten Sie nur bestimmte Produkte löschen, markieren Sie bitte nur die jeweiligen Datensätze in der Übersicht. ;;;;;;;;;;;;641
+deleteAllArticle;;Alle Datensätze löschen ...;Delete all data records ...;;;;;;;;;;;642
+deleteAllCategory;;Alle Kategorien löschen ...;Delete all categories ...;;;;;;;;;;;643
+deleteDatapoolCategoryTxt;;Wenn Sie diese Option ausführen, werden ALLE Kategorien innerhalb des aktiven Datenpools gelöscht.<br />%BREAK%Möchten Sie nur bestimmte Kategorien löschen, markieren Sie bitte nur die jeweiligen Datensätze in der Übersicht. ;;;;;;;;;;;;644
+ticketEnd;;Erledigt;completed;;;;;;;;;;;645
+applyToken;;AuthToken beantragen/ändern;Apply / change authtoken;;;;;;;;;;;646
+noToken;;Ihr Token ist abgelaufen oder Sie benutzen noch keinen gültigen Token.;Your token has expired or you are using a valid token.;;;;;;;;;;;647
+availableUntil;;Gültig bis zum;Available until;;;;;;;;;;;648
+endToken;;Der Token ist abgelaufen.;The token has expired.;;;;;;;;;;;649
+ebayQuantityErrorTxt;;Überprüfen Sie Ihre Bestände bei eBay, da es Unstimmigkeiten mit den Beständen im Datenpool gibt.;Check your inventory on eBay because there are inconsistencies with the holdings in the data pool.;;;;;;;;;;;650
+ebayProducts;;Gelistete Artikel auf eBay;Listed items on eBay;;;;;;;;;;;651
+noSomeUpdate;;Einige Produkte konnten nicht abgeglichen werden.;Some products could not be matched.;;;;;;;;;;;652
+readInEbay;;Einlesen;read in;;;;;;;;;;;653
+balance;;abgleichen;balance;;;;;;;;;;;654
+readInEbayList;;Bestände von eBay einlesen;Read in stocks from eBay;;;;;;;;;;;655
+excelSheet;;Excel Blatt;Excel sheet;;;;;;;;;;;656
+reset;;Reset;reset;;;;;;;;;;;657

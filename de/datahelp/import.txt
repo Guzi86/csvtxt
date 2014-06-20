@@ -34,8 +34,9 @@
 <ul>
 	<li><h4>Ihre Spalten den Stammdaten im Datenpool zuweisen</h4>
 		<strong>Spaltenname in Datenbank:</strong> Es werden alle verfügbaren Feldinhalte für jeden Datensatz aufgelistet.<br />
-		<strong>Spalten der Datei:</strong> Hier sehen Sie die Spaltennamen Ihrer soeben importierten Datei. Ordnen Sie Ihre einzelnen Spaltennamen
-		dem entsprechenden Stammdatenwert im Datenpool zu.<br />
+		<strong>Spalten der Datei:</strong> Hier sehen Sie die Spaltennamen Ihrer soeben importierten Datei. Ordnen Sie Ihre einzelnen
+		Spaltennamen dem entsprechenden Stammdatenwert im Datenpool zu. <span class="txtRed">Wichtig:</span> Eventuell vorkommende Leerzeichen
+		im Feld <strong>ID</strong> werden automatisch in Unterstriche umgewandelt.<br />
 		<strong>erweiterte Optionen:</strong> Hier können Sie einem Feld einen festen Wert als Inhalt zuweisen, z.B. 'NEU'.<br />
 		Außerdem lassen sich <strong>mehrere Spalteninhalte</strong> aus Ihrer Importdatei <strong>einem Wert</strong> im Datenpool zuordnen.
 		Setzen Sie Ihre Feldnamen dazu in eckige Klammern.<br />

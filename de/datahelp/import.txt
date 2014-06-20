@@ -63,8 +63,6 @@
 <h3>[ Import-Optionen ]</h3>
 <ul>
 	<li><h4>Import-Optionen wählen</h4>
-		<strong>ALLE bereits vorhandenen Datensätze dieser Datenquelle vorher löschen?</strong> Vor dem Import Ihrer Datendatei,
-		werden <span class="txtRed">alle</span> bereits existierenden Datensätze der oben ausgewählten Datenquelle gelöscht.<br />
 		<strong>Formatierungen aus den Texten entfernen!</strong> Sämtlicher HTML-Code wird aus den importierten Daten entfernt.<br />
 		<strong>Leere Spalten nicht ins UPDATE einbeziehen!</strong> Wenn Sie bei 'Spalten der Datei' Felder frei lassen,
 		werden bereits vorhandene Datensätze an diesen Positionen nicht überschrieben.<br />

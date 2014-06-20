@@ -8,9 +8,13 @@
 </p>
 <ul>
 	<li><h4>Datendatei importieren</h4>
-		Wählen Sie eine Datei und wenn vorhanden eine passende Importvorlage aus. Als Importdatei akzeptiert das System
-		CSV-, TXT- und Excel-Dateien (nur ein Tabellenblatt). Falls Sie eine XML-Datei importieren, muss ein
-		Häckchen in das Feld 'XML-Daten'. XML-Dateien werden während der weiteren Verarbeitung in eine durch Tabulator
+		Wählen Sie eine Datei und - wenn bereits vorhanden - eine passende Vorlage aus. In (Import-)Vorlagen lassen sich
+		die Zuweisungen zwischen den Feldern Ihrer Importdatei und den Feldern im Datenpool speichern. So müssen die Feldzuordnungen
+		nicht für jeden Import neu eingerichtet werden. Das Importieren Ihrer Daten lässt sich damit sehr schnell und beliebig
+		oft wiederholen. Ändern Sie während des Imports bestehende Zuweisungen, wird die verwendete (Import-)Vorlage
+		damit ebenfalls geändert (überschrieben).<br />
+		Als Importdatei akzeptiert das System CSV-, TXT- und Excel-Dateien. Falls Sie eine XML-Datei importieren, muss ein
+		Häckchen im Feld 'XML-Daten' gesetzt werden. XML-Dateien werden während der weiteren Verarbeitung in eine durch Tabulator
 		getrennte CSV-Datei umgewandelt.<br />Nachdem die Datei hochgeladen wurde, erscheint ein neues Fenster...
 	</li>
 	<li><h4>Ihre Datei wurden geladen.</h4>

@@ -39,8 +39,6 @@
 <h3>[ Import-Optionen ]</h3>
 <ul>
     <li><h4>Import-Optionen wählen</h4>
-        <strong><span class="txtRed">ALLE bereits vorhandenen Datensätze dieser Datenquelle vorher löschen?</span></strong> - Wenn markiert,
-        werden <span class="txtRed">ALLE</span> bereits vorhandenen Datensätze  der Datenquelle (in die importiert wird) mit Ausführung des Cronjobs gelöscht!<br />
         <strong>Formatierungen aus den Texten entfernen</strong> - Sämtliche Formatierungen wie z.B. HTML-Tags werden beim Import aus den Daten entfernt.<br />
         <strong>Leere Spalten nicht ins UPDATE einbeziehen!</strong> - ... <br />
         <strong>Externe Kategorien mit den internen Kategorien abgleichen?</strong> - Haben sich Kategorien in der Importdatei geändert,

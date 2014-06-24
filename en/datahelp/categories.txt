@@ -6,11 +6,13 @@
 <ul>
 	<li><h4>Interne Kategorien</h4>
 		Interne Kategorien sind alle <strong>Kategorien im Datenpool</strong>, in denen Ihre Produkte bzw. Datensätze 'intern' zugeordnet sind.
-		Diese Kategorien werden beim Import von Datensätzen im Datenpool angelegt. Enthält Ihre Importdatei bereits Kategorien,
-		so können diese als interne Kategorien verwendet werden. Falls kein Kategorien in Ihrer Importdatei enthalten sind,
-		vergibt unser System eigene Kategorie-Nummern. Über die internen Kategorien erfolgt später im Bereich <i>Schnittstellen</i>
+		Diese Kategorien werden beim Import von Datensätzen im Datenpool angelegt (oder manuell). Enthält Ihre Importdatei bereits Kategorien,
+		so können diese als interne Kategorien verwendet werden. <span class="txtRed">Wichtig:</span> Markieren Sie dazu im Datenpool
+		unter Vorlagen ->Import-Optionen die Option <i>"Kategorien aus Importdatei übernehmen bzw. synchronisieren"</i>.<br />
+		Sind kein Kategorien in Ihrer Importdatei enthalten, vergibt unser System eigene Kategorie-Nummern.
+		Über die internen Kategorien erfolgt später im Bereich <i>Schnittstellen</i>
 		die Zuordnung zu den Kategorien Ihrer CSV- oder XML-Schnittstelle.<br />
-		Um eine Kategorie zu <strong>bearbeiten</strong>, klicken Sie auf den Namen der Kategorie. Es öffnet sich eine neue Seite,
+		Um eine interne Kategorie zu <strong>bearbeiten</strong>, klicken Sie auf den Namen der Kategorie. Es öffnet sich eine neue Seite,
 		auf der Sie die Eigenschaften und Werte der entsprechenden Kategorie einstellen können.<br />
 		<br />
 		<i>Nachdem Sie eine einzelne Kategorie angeklickt haben...</i><br />

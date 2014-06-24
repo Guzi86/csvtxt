@@ -2,7 +2,9 @@
 	Im oberen Bereich finden Sie ein Auswahlmenü zur Voreinstellung für den Bereich <i>Schnittstellen ->Kategoriezuordnung</i>.
 	Kategoriezuordungen lassen sich zu unterschiedlichen Schnittstellen speichern.
 	Im Bereich <a href="help-pg-hilfe-schnittstellen;art-hilfe-settings.html?pageAlone=1">Settings</a> können Sie einzelne Zuordnungen
-	mit der jeweils passenden Schnittstelle verknüpfen.
+	mit der jeweils passenden Schnittstelle verknüpfen.<br />
+	<span class="txtRed">Wichtig:</span> Falls Sie hier keine Kategorien eintragen, wird Ihre Kategoriestruktur aus dem Datenpool
+	in die CSV-Datei übernommen.
 </p>
 <p>
 	<strong>Schnittstelle</strong> - Eine aktive Schnittstelle für diese Kategorie festlegen...

@@ -73,8 +73,8 @@ theirData;;Eigene Daten;Qwn data;;;;;;;;;;;71
 myPrice;;Ihr Preis;Your price;;;;;;;;;;;72
 sendContact;;Anfrage jetzt Senden!;Send Now!;;;;;;;;;;;73
 helpInOut;;Hilfe ein-/ausblenden;Help show/hide;;;;;;;;;;;74
-noData;;Keine Daten vorhanden!;No data available!;;;;;;;;;;;75
-ekPrice;;EK-Preis;purchase price;;;;;;;;;;;76
+noInternalCatData;;Legen Sie hier interne Kategorien an, die Sie Ihren Produkten im Datenpool zuordnen.<br />Das Anlegen von internen Kategorien kann auch automatisch über den Import erfolgen (empfohlen).;Please create internal categories to assign them to the products in the datapool.<br />The creation of internal categories can also be done automatically via the data import (recommended).;;;;;;;;;;;75
+ekPrice;;Einkaufspreis;purchase price;;;;;;;;;;;76
 ownInfo;;kurze Beschreibung;short description;;;;;;;;;;;77
 inBasket;;In Warenkorb legen;Add to shopping cart;;;;;;;;;;;78
 moreCsvFiles;;Nicht aktivierte Schnittstellen;non-activated interfaces;;;;;;;;;;;79
@@ -559,7 +559,7 @@ dataSource;;Datenquelle;Datasource;;;;;;;;;;;563
 applyData;;Daten übernehmen;accept data;;;;;;;;;;;564
 selectInterface;;Schnittstelle;interface;;;;;;;;;;;565
 deleteAllCategories;;ALLE Kategorien zum Löschen markieren...;Mark ALL categories to deletion...;;;;;;;;;;;566
-noCategorySeller;;Es wurden keine Kategorien für diese Datenquelle gefunden!;No matching categories found for this dadasource!;;;;;;;;;;;567
+noCategorySeller;;Im Datenpool wurden keine (internen) Kategorien gefunden!<br />Bitte <a href="datapool/categories.html">hier klicken...</a>;No (internal) categories were found in the datapool!<br />Please <a href="datapool/categories.html">click here...</a>;;;;;;;;;;;567
 catExists;;Kategorie bereits vorhanden!;Category already exists!;;;;;;;;;;;568
 refreshColumns;;Diese Einstellungen übernehmen;Make these settings;;;;;;;;;;;569
 noEditDescr;;Titel/Beschreibungen nicht ändern;No edit title and description ;;;;;;;;;;;570
@@ -586,7 +586,7 @@ productWithoutCat;;Produkte ohne Kategoriezuordnung;Products unfiled;;;;;;;;;;;5
 markedProductTxt;;Markierte Produkte folgender Kategorie zuordnen:;Assign selected products of the following category:;;;;;;;;;;;591
 noColumnNameInRow;;keine Spaltennamen;no Column-names;;;;;;;;;;;592
 compareProductCategory;;externe Produktkategorien abgleichen;syndicate product category;;;;;;;;;;;593
-buildExtCat;;Externe Kategorien mit den internen Kategorien abgleichen?;Syndicate External categories with the internal categories?;;;;;;;;;;;594
+buildExtCat;;Kategorien aus Importdatei übernehmen bzw. abgleichen?;The Categories should be transferred (synchronized) from the import file?;;;;;;;;;;;594
 deleteAllEntrys;;ALLE Datensätze zum Löschen markieren...;Mark ALL data records for deletion...;;;;;;;;;;;595
 deleteAllTxt;;ALLE Datensätze dieses Datenpools jetzt löschen?;ALL records in this datapool delete now?;;;;;;;;;;;596
 newCronjobImportTxt;;Neuen Cronjob anlegen (Import);create new cronjob (import);;;;;;;;;;;597
@@ -643,3 +643,5 @@ balance;;abgleichen;balance;;;;;;;;;;;654
 readInEbayList;;Bestände von eBay einlesen;Read in stocks from eBay;;;;;;;;;;;655
 excelSheet;;Excel Blatt;Excel sheet;;;;;;;;;;;656
 reset;;Reset;reset;;;;;;;;;;;657
+noProductData;;Es sind keine Datensätze in diesem Datenpool vorhanden. Importieren Sie eine Datendatei oder legen Sie Ihre Produktdaten manuell an.<br />%BREAK%Übrigens können Sie mehrere Datenquellen einrichten unter Datenpool ->Grundeinstellungen ->Datenquellen...;There are no records in this data pool available. Import a data file or insert your product data manually.<br />By the way, you can set up several data sources under Datapool ->Basic Settings ->Data Sources...;;;;;;;;;;;659
+noData;;Keine Daten vorhanden!;No data records available!;;;;;;;;;;;658

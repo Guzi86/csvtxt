@@ -62,21 +62,25 @@
 <h3>[ Kategorien ]</h3>
 <ul>
 	<li><h4>Kategoriezuordnung</h4>
-		Wählen Sie hier eine Kategoriezuordnung für Ihre Datei aus, die Sie oben unter dem Menüpunkt [ Kategoriezuordung ] angelegt haben.
-		Achtung: Ist hier keine Kategoriezuordnung ausgewählt, enthalten alle Datensätze Ihrer CSV-Datei später keine Kategorien.<br />
-		<strong>Erklärung dazu:</strong> Wenn in Ihrem Datenpool interne Kategorien zu Ihren Produkten gespeichert sind, wählen Sie hier aus,
-		welche dieser internen Kategorien (inkl. der darin enthaltenen Produkte) in Ihre CSV-Schnittstelle übernommen werden sollen.
+		Wählen Sie hier eine Kategoriezuordnung für Ihre Datei aus, die Sie oben im Menüpunkt [ Kategoriezuordung ] angelegt haben.
+		<span class="txtRed">Wichtig:</span> Ist hier keine Kategoriezuordnung ausgewählt, werden in allen Datensätzen Ihrer CSV-Datei
+		die internen Kategorien aus dem Datenpool übernommen. Sind auch im Datenpool keine internen Kategorien angelegt,
+		enthält Ihre CSV/XML-Datei später keine Kategorien.
+		<br />
+		<strong>Erklärung dazu:</strong> Haben Sie im Datenpool interne Kategorien zu Ihren Produkten gespeichert, wählen Sie hier
+		die jeweiligen Kategorien aus, die dann zusammen mit den Produkten beim Export in Ihre CSV/XML-Datei übernommen werden sollen.
 		Im Hauptmenüpunkt Schnittstellen -> Kategoriezuordung übergeben Sie die internen Kategorien aus Ihrem Datenpool den jeweiligen
-		Kategorien der oben ausgewählten Schnittstelle. Im Beispiel wären das hier die Kategorien in Ihrem Account bei Ricardo.<br />
-		<i>Anders gesagt:</i> Alle Datensätze aus dem Datenpool sind internen Kategorien zugeordnet. Über diese internen Kategorien
-		müssen Sie Ihre Produkte dann den eigentlichen Kategorien der Schnittstelle zuweisen!<br />	
+		Kategorien der aktiven Schnittstelle.<br />
+		<i>Anders gesagt:</i> Alle Datensätze/Produkte aus dem Datenpool sollten internen Kategorien zugeordnet sein.
+		Diese internen Kategorien lassen sich direkt in die CSV-Datei übernehmen ODER können den eingerichteten Kategorien
+		der Schnittstelle zugewiesen werden.<br />	
 		<strong>Wichtig:</strong> Im Bereich Settings muss mindestens eine Schnittstelle bereits gespeichert sein, um eine dazu passende
 		Kategoriezuordnung auswählen zu können.<br />
 		2 Beispiele: 1und1-Shop (1), JTL-Wawi (1)
 	</li>
 	<li><h4>Produkte aus folgenden Kategorien verwenden</h4>
 		Markieren Sie hier bitte all jene Kategorien, deren Produktdaten in Ihre CSV-Datei übernommen werden sollen und speichern Sie
-		die hier getroffene Auswahl.
+		die getroffene Auswahl.
 	</li>
 </ul>
 

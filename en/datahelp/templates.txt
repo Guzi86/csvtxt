@@ -42,7 +42,8 @@
     <li><h4>Import-Optionen wählen</h4>
         <strong>Formatierungen aus den Texten entfernen</strong> - Sämtliche Formatierungen wie z.B. HTML-Tags werden beim Import aus den Daten entfernt.<br />
         <strong>Leere Spalten nicht ins UPDATE einbeziehen!</strong> - ... <br />
-        <strong>Externe Kategorien mit den internen Kategorien abgleichen?</strong> - Haben sich Kategorien in der Importdatei geändert,
-        werden diese mit den bereits angelegten (internen) Kategorien abgeglichen.<br />
+        <strong>Kategorien aus Importdatei übernehmen bzw. abgleichen?</strong> - Enthält Ihre Importdatei Produktkategorien,
+		können diese als interne Kategorien im Datenpool übernommen werden. Haben sich Kategorien in der Importdatei geändert,
+        werden sie mit den bereits angelegten internen Kategorien abgeglichen (betroffene Datensätze erhalten dann die neuen Kategorien).<br />
     </li>
 </ul>

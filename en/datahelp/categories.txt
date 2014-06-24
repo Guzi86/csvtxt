@@ -29,7 +29,7 @@
 		Nach dem Löschen können Sie die internen Produktkategorien über den Import wieder neu anlegen bzw. Ihren Datensätzen
 		im Datenpool neu zuordnen.<br />
         <br />
-		Wichtig: Produktdaten werden beim Löschen von Kategorien nicht gelöscht! Allerdings werden die Zuordungen von Produktdaten
+		<span class="txtRed">Wichtig:</span> Produktdaten werden beim Löschen von Kategorien nicht gelöscht! Allerdings werden die Zuordungen von Produktdaten
 		zu den gelöschten Kategorien entfernt.
 	</li>
 </ul>

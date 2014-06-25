@@ -42,6 +42,6 @@
     <li><h4>Import-Optionen wählen</h4>
 		<strong>Formatierungen aus den Texten entfernen</strong> - Sämtliche Formatierungen wie z.B. HTML-Tags werden beim Import aus den Daten entfernt.<br />
 		<strong>__translate::updateBlankColumns__</strong> %md.update_blank_columns%<br />
-		<strong>Kategorien aus Importdatei übernehmen bzw. abgleichen?</strong> - %md.cats_synchronize%<br />
+		<strong>__translate::buildExtCat__</strong> - %md.cats_synchronize%<br />
     </li>
 </ul>

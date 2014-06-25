@@ -1,0 +1,3 @@
+Enthält Ihre Importdatei Produktkategorien, können diese als interne Kategorien im Datenpool übernommen werden.
+Haben sich Kategorien in der Importdatei geändert, werden sie mit den bereits angelegten internen Kategorien abgeglichen
+(betroffene Datensätze erhalten dann die neuen Kategorien).

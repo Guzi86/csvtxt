@@ -22,7 +22,7 @@
 		werden <span class="txtRed">ALLE</span> bereits vorhandenen Datensätze	der Datenquelle (in die importiert wird) mit Ausführung des Cronjobs gelöscht!<br />
 	    <strong>Formatierungen aus den Texten entfernen</strong> - Sämtliche Formatierungen wie z.B. HTML-Tags werden beim Import aus den Daten entfernt.<br />
 		<strong>Leere Spalten nicht ins UPDATE einbeziehen!</strong> - ... <br />
-		<strong>Kategorien aus Importdatei übernehmen bzw. abgleichen?</strong> - %md.cats_abgleichen%<br />
+		<strong>Kategorien aus Importdatei übernehmen bzw. abgleichen?</strong> - %md.cats_synchronize<br />
 	</li>
 	<li><h4>XML-Einstellungen</h4>
 		<strong>XML-Element der Produktdaten</strong> - Tragen Sie hier das XML-Element der eigentlichen Produktdaten ein.<br />

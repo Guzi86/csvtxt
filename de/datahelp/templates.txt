@@ -41,7 +41,7 @@
 <ul>
     <li><h4>Import-Optionen wählen</h4>
         <strong>Formatierungen aus den Texten entfernen</strong> - Sämtliche Formatierungen wie z.B. HTML-Tags werden beim Import aus den Daten entfernt.<br />
-        <strong>Leere Spalten nicht ins UPDATE einbeziehen!</strong> - ... <br />
+        <strong>__translate::updateBlankColumns__</strong> %md.update_blank_columns%<br />
 		<strong>Kategorien aus Importdatei übernehmen bzw. abgleichen?</strong> - %md.cats_synchronize%<br />
     </li>
 </ul>

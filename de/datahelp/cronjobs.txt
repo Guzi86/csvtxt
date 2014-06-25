@@ -21,7 +21,7 @@
 		<strong><span class="txtRed">ALLE bereits vorhandenen Datensätze dieser Datenquelle vorher löschen?</span></strong> - Wenn markiert,
 		werden <span class="txtRed">ALLE</span> bereits vorhandenen Datensätze	der Datenquelle (in die importiert wird) mit Ausführung des Cronjobs gelöscht!<br />
 	    <strong>Formatierungen aus den Texten entfernen</strong> - Sämtliche Formatierungen wie z.B. HTML-Tags werden beim Import aus den Daten entfernt.<br />
-		<strong>Leere Spalten nicht ins UPDATE einbeziehen!</strong> - ... <br />
+        <strong>__translate::updateBlankColumns__</strong> %md.update_blank_columns%<br />
 		<strong>Kategorien aus Importdatei übernehmen bzw. abgleichen?</strong> - %md.cats_synchronize%<br />
 	</li>
 	<li><h4>XML-Einstellungen</h4>

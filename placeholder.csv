@@ -73,7 +73,7 @@ theirData;;Eigene Daten;Qwn data;;;;;;;;;;;71
 myPrice;;Ihr Preis;Your price;;;;;;;;;;;72
 sendContact;;Anfrage jetzt Senden!;Send Now!;;;;;;;;;;;73
 helpInOut;;Hilfe ein-/ausblenden;Help show/hide;;;;;;;;;;;74
-noInternalCatData;;Legen Sie hier interne Kategorien an, die Sie Ihren Produkten im Datenpool zuordnen.<br />Das Anlegen von internen Kategorien kann auch automatisch über den Import erfolgen (empfohlen).;Please create internal categories to assign them to the products in the datapool.<br />The creation of internal categories can also be done automatically via the data import (recommended).;;;;;;;;;;;75
+noInternalCatData;;Legen Sie hier interne Kategorien an, die Sie Ihren Produkten im Datenpool zuordnen.<br />Das Anlegen von internen Kategorien kann automatisch über den Import erfolgen (empfohlen).;Please create internal categories to assign them to the products in the datapool.<br />The creation of internal categories can be done automatically via the data import (recommended).;;;;;;;;;;;75
 ekPrice;;Einkaufspreis;purchase price;;;;;;;;;;;76
 ownInfo;;kurze Beschreibung;short description;;;;;;;;;;;77
 inBasket;;In Warenkorb legen;Add to shopping cart;;;;;;;;;;;78
@@ -576,7 +576,7 @@ priceold;;Alter Preis;old price;;;;;;;;;;;580
 pricebasic;;Grundpreis;basic price;;;;;;;;;;;581
 shippingCondition;;Versandkonditionen;shipping condition;;;;;;;;;;;582
 smalldescr;;Kurzbeschreibung;short description;;;;;;;;;;;583
-updateBlankField;;Leere Spalten nicht ins UPDATE einbeziehen!;Do not include empty columns to the UPDATE!;;;;;;;;;;;584
+updateBlankField;;Wenn UPDATE: Fehlende Felder ignorieren!;If UPDATE: Ignore missing fields!;;;;;;;;;;;584
 noFormat;;Formatierungen aus den Texten entfernen!;Remove formatting from the text!;;;;;;;;;;;585
 listingFalseProductCat;;<h2>Datensätze sind einer Oberkategorie zugeordnet.</h2>%BREAK%Datensätze (Produkte) dürfen immer nur der jeweils letzten Unterkategorie zugeordnet sein (siehe Hilfetext!).;<h2>False category</h2>;;;;;;;;;;;586
 listingFalseProductCatTxt;;Dieser Datensatz ist nicht einer der letzten Unterkategorien zugeordnet worden!(siehe Hilfetext!).;false category;;;;;;;;;;;587
@@ -645,3 +645,4 @@ excelSheet;;Excel Blatt;Excel sheet;;;;;;;;;;;656
 reset;;Reset;reset;;;;;;;;;;;657
 noProductData;;Es sind keine Datensätze in diesem Datenpool vorhanden. Importieren Sie eine Datendatei oder legen Sie Ihre Produktdaten manuell an.<br />%BREAK%Übrigens können Sie mehrere Datenquellen einrichten unter Datenpool ->Grundeinstellungen ->Datenquellen...;There are no records in this data pool available. Import a data file or insert your product data manually.<br />By the way, you can set up several data sources under Datapool ->Basic Settings ->Data Sources...;;;;;;;;;;;659
 noData;;Keine Daten vorhanden!;No data records available!;;;;;;;;;;;658
+updateBlankColumns;;Wenn UPDATE: Fehlende Spalten ignorieren!;If UPDATE: Ignore missing columns!;;;;;;;;;;;660

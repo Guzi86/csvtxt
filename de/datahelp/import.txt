@@ -70,7 +70,7 @@
 		<strong>Formatierungen aus den Texten entfernen!</strong> Sämtlicher HTML-Code wird aus den importierten Daten entfernt.<br />
 		<strong>Leere Spalten nicht ins UPDATE einbeziehen!</strong> Wenn Sie bei 'Spalten der Datei' Felder frei lassen,
 		werden bereits vorhandene Datensätze an diesen Positionen nicht überschrieben.<br />
-		<strong>Kategorien aus Importdatei übernehmen bzw. abgleichen?</strong> - %md.cats_synchronize<br />
+		<strong>Kategorien aus Importdatei übernehmen bzw. abgleichen?</strong> - %md.cats_synchronize%<br />
 		<strong>Spaltenzuordnung als Vorlage speichern unter</strong> Speichern Sie Ihre erstmalige Zuordnung als Vorlage. So muss die Zuordnung
 		der Spalten bei wiederholten Importen nicht neu eingerichtet werden. Bitte wählen Sie dazu einen aussagekräftigen Namen - z.B.
 		'IMPORT-Vorlage XTCommerce'. Auch die Aktualisierung einer bereits bestehenden Spaltenzuordnung lässt sich hier vornehmen.

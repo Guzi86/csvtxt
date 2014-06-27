@@ -30,7 +30,7 @@
 		Spaltenbezeichner Ihrer Importdatei ändern. Ihr Spaltenname muss natürlich mit dem Namen in Ihrer Datei übereinstimmen.
 		Die Inhalte der jeweiligen Spalten Ihrer Importdatei werden dann später beim Import oder Konvertieren automatisch den Spaltennamen
 		der Schnittstelle (links) zugeordnet.<br />
-		Wichtig: In Spaltennamen, wenn möglich, bitte keine Leerzeichen, Sonderzeichen oder Umlaute verwenden.<br />
+		<span class="txtRed">Wichtig:</span> In Spaltennamen, wenn möglich, bitte keine Leerzeichen, Sonderzeichen oder Umlaute verwenden.<br />
 		<strong>erweiterte Optionen</strong> - Sollen alle Datensätze bestimmter Spalten einen festen Wert bekommen
 		(z.B. Zustand = 'NEU' oder Menge = '1'), so tragen Sie diesen Wert bitte hier ein (NEU oder 1).
 		Die Zuordnung 'Spaltenname in Importdatei' in solchen Fällen bitte leer lassen.

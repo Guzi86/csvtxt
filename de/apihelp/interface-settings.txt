@@ -74,7 +74,7 @@
 		<i>Anders gesagt:</i> Alle Datensätze/Produkte aus dem Datenpool sollten internen Kategorien zugeordnet sein.
 		Diese internen Kategorien lassen sich direkt in die CSV-Datei übernehmen ODER können den eingerichteten Kategorien
 		der Schnittstelle zugewiesen werden.<br />	
-		<strong>Wichtig:</strong> Im Bereich Settings muss mindestens eine Schnittstelle bereits gespeichert sein, um eine dazu passende
+		<span class="txtRed">Wichtig:</span> Im Bereich Settings muss mindestens eine Schnittstelle bereits gespeichert sein, um eine dazu passende
 		Kategoriezuordnung auswählen zu können.<br />
 		2 Beispiele: 1und1-Shop (1), JTL-Wawi (1)
 	</li>

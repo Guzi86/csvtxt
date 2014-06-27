@@ -6,10 +6,11 @@
 
 <ul>
 	<li><h4>Filter</h4>
-		Über den Filter lässt sich eine bestimmte Vorauswahl auf dieser Seite treffen. So kann z.B. nach bestimmten Datensätzen gesucht werden,
-		um diese dann zu bearbeiten.<br />
-		Wenn Sie unter 'Produkte aus folgenden Kategorien verwenden' den Punkt 'Produkte ohne Kategoriezuordnung' auswählen,
-		erscheinen alle Produkte, die keiner internen Kategorie zugeordnet sind. Sie können diese dann leicht einzelnen Kategorien zuordnen.<br />
+		Über den Filter lässt sich eine bestimmte Vorauswahl für die Anzeige von Datensätzen auf dieser Seite treffen.
+		So kann z.B. nach bestimmten Datensätzen gesucht werden, um diese dann zu bearbeiten. Auch die gezielte Auswahl von Datensätzen,
+		die keiner internen Kategorie zugeordnet sind, ist möglich ('Produkte ohne Kategoriezuordnung'). Diese lassen sich dann gebündelt
+		markieren und den gewünschten Kategorien zuweisen. Die Zuweisung aller Datensätze zu internen Kategorien ist eine
+		wichtige Voraussetzung dafür, dass Ihre Exportdatei im Bereich Schnittstellen später die richtigen Shopkategorien enthält.<br />
 		<br />
 		<strong>Suchbegriffe mit Funktionen:</strong><br />neu = alle Neuzugänge<br />unbenannt = Artikel ohne eigenen Titel<br />
 		Text in eckigen Klammern [Suchwort]: sucht den genauen Text "Suchwort"

@@ -6,10 +6,11 @@
 </p>
 <p>
 	<strong>Schnittstelle</strong> - Eine aktive Schnittstelle für diese Kategorie festlegen...
-	Eigene Schnittstellen erstellen Sie oben über den Menüpunkt [ Eigene Schnittstellen verwalten ].<br />
+	Eigene Schnittstellen erstellen Sie oben über den Menüpunkt [ Individuelle Schnittstellen ].<br />
 	<br />
-	<strong>Kategoriezuordnung wählen</strong> - Wählen Sie eine Ihrer Kategoriezuordnungen oder legen Sie hier auf dieser Seite
-	eine neue Zuordung an.</p>
+	<strong>Kategoriezuordnung wählen</strong> - Wählen Sie eine Ihrer Kategoriezuordnungen oder legen Sie eine neue Zuordung an.
+	Sie legen hier fest, wie Ihre internen Kategorien aus dem Datenpool den (Shop-)Kategorien der jeweiligen Schnittstelle
+	zugewiesen werden (natürlich inkl. der in den internen Kategorien enthaltenen Datensätze).</p>
 
 <ul>
 	<li><h4>Grundeinstellungen</h4>
@@ -17,8 +18,8 @@
 	</li>
 	<li><h4>Kategoriezuordnung... (Schnittstelle)</h4>
 		In der <strong>linken Spalte</strong> sehen Sie alle verfügbaren internen Kategorien des oben ausgewählten Datenpools.
-		Tragen Sie hier nun zu jeder dieser internen Kategorien die passende Nummer oder Bezeichnung Ihrer Schnittstellenkategorie ein.
-		Die <strong>hier eingetragenen Werte</strong> werden als Kategorien in Ihre CSV-Datei übermommen.<br />
+		Tragen Sie hier nun zu jeder dieser internen Kategorien die passende Nummer oder Bezeichnung Ihrer Schnittstellenkategorie ein
+		(Shopkategorien). Die <strong>hier eingetragenen Werte</strong> werden als Kategorien in Ihre CSV-Datei übermommen.<br />
 		<span class="txtRed">Wichtig:</span> Falls Sie hier keine Kategorien eintragen, wird Ihre Kategoriestruktur aus dem Datenpool
 		in die CSV-Datei übernommen.
 	</li>

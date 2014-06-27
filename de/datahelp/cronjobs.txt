@@ -9,8 +9,8 @@
 		<strong>Name des Cronjobs</strong> - eine beliebige Bezeichnung für diesen Cronjob<br />
 		<strong>Datei-Typ</strong> - Auswahl, welche Art von Daten importiert werden sollen - Produktdaten oder Bestandsdaten.<br />
 		<strong>Vorlage</strong> - Hier bitte eine Importvorlage auswählen. <span class="txtRed">Wichtig:</span>Der Import von Produktdaten
-		bzw. von Bestandsdaten muss mindestens 1x händisch durchgeführt worden sein (unter <i>Datenpool ->Import</i>). Nur so wird die richtige
-		Importvorlage gespeichert, die Sie hier <i>Cronjobs</i> auswählen können. Die gewählte Vorlage muss unbedingt zum Datei-Typ passen.
+		und von Bestandsdaten muss mindestens 1x händisch durchgeführt worden sein (unter <i>Datenpool ->Import</i>). Nur so wird die richtige
+		Importvorlage gespeichert, die Sie hier auswählen. Die gewählte Vorlage muss unbedingt zum oben angegebenen Datei-Typ passen!
 		Andernfalls stimmt die Spaltenzuordnung nicht und Ihre eingestellten Cronjobs brechen ab.<br />
 		<strong>URL/FTP Importdatei</strong> - Hier bitte die URL zu Ihrer Importdatei ODER den Dateinamen und Ihren FTP-Server eintragen,
 		den Sie unter <i>Datenpool ->Grundeinstellungen ->FTP-Daten</i> festgelegt haben.<br />

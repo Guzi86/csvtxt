@@ -12,7 +12,7 @@
 <h3>[ Grundeinstellungen ]</h3>
 <ul>
 	<li><h4>Beschreibung</h4>
-		<strong>Datei-Typ*</strong> - Wählen Sie dann aus, wie Sie Ihre CSV-Dateien downloaden möchten, z.B. als ZIP-Paket oder einzeln.
+		<strong>Datei-Typ*</strong> - Wählen Sie aus, wie Sie Ihre CSV-Dateien downloaden möchten, z.B. als ZIP-Paket oder einzeln.
 		<i>*Achtung! Dieses Feld ist nur für solche Schnittstellen sichtbar, die mehrere Dateien beim Download beinhalten.</i><br />
 		<strong>Name</strong> - frei wählbar, nur für die interne Anzeige<br />
 		<strong>Dateiname</strong> - Name der zu exportierenden Datei (bitte hier keine Sonderzeichen, Leerzeichen etc. verwenden)<br />

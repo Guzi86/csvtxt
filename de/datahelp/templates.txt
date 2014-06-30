@@ -26,7 +26,6 @@
 		die aktuelle Import-Vorlage eingerichtet wurde: <i>Kategorie</i>, <i>Produkt</i> oder <i>Bestand</i>. Um nicht die Übersicht über Ihre
 		Vorlagen zu verlieren, geben Sie bitte jeder Vorlage einen aussagekräftigen Namen, z.B. 'Bestand_ImportSchuhe' oder 'Produkte_ImportSchmuck'
 		und löschen Sie ggf. nicht mehr benötigte Vorlagen.<br />
-		<br />
 		<strong>Spaltenname in Schnittstelle</strong> - Hier werden alle verfügbaren Spaltennamen der jeweiligen Schnittstelle aufgelistet
 		(z.B. aus Yatego, XT-Commerce usw.).<br />
 		<strong>Spaltenname in Importdatei</strong> - Den Spaltennamen Ihrer Datei können Sie hier anpassen (falls notwendig), wenn sich z.B.

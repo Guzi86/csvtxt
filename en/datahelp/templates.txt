@@ -1,7 +1,7 @@
 <p>
 	Die Seite Vorlagen speichert zur besseren Übersicht Ihre bereits angelegten Vorlagen (Einstellungen) aus dem Bereich Import und Konverter.
 	Neue Vorlagen lassen sich beim Importieren bzw. Konvertieren von Dateien anlegen.
-	Bereits vorhandene Vorlagen können Sie <strong>hier ändern</strong>. Bitte 'Speichern' nicht vergessen...<br />
+	Bereits vorhandene Vorlagen können Sie hier ändern. Bitte 'Speichern' nicht vergessen, wenn Sie eine Importvorlage ändern.<br />
 	Während eines Imports geänderte Feldzuordnungen werden automatisch in die jeweilige (Import-)Vorlage übernommen!
 </p>
 
@@ -22,7 +22,10 @@
 <h3>[ Spaltenzuordnung ]</h3>
 <ul>
 	<li><h4>Spaltenzuordnung</h4>
-		Hier sehen die Spaltenzuordnung Ihrer Import-Vorlage(n).<br />
+		Hier sehen Sie die Spaltenzuordnung Ihrer Import-Vorlage. Die Anzahl der verfügbaren Spalten ist davon abhängig, für welchen Datei-Typ
+		die aktuelle Import-Vorlage eingerichtet wurde: <i>Kategorie</i>, <i>Produkt</i> oder <i>Bestand</i>. Um nicht die Übersicht über Ihre
+		Vorlagen zu verlieren, geben Sie bitte jeder Vorlage einen aussagekräftigen Namen, z.B. 'Bestand_ImportSchuhe' oder 'Produkte_ImportSchmuck'
+		und löschen Sie ggf. nicht mehr benötigte Vorlagen.<br />
 		<br />
 		<strong>Spaltenname in Schnittstelle</strong> - Hier werden alle verfügbaren Spaltennamen der jeweiligen Schnittstelle aufgelistet
 		(z.B. aus Yatego, XT-Commerce usw.).<br />

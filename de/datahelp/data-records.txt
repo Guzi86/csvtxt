@@ -62,6 +62,7 @@
 		Haben Sie hier die Bestände aller eBay-Artikel aktualisiert, können Sie diese in Ihren eBay-Account übertragen (abgleichen).
 		Für den Abgleich Ihrer Bestände bei eBay muss keine Schnittstelle angelegt werden. Dies funktioniert auf direktem Weg
 		über die eBay-API. Im Bereich <i>Datenpool ->Grundeinstellungen ->Sonstiges</i> müssen Sie dafür einen gültiger eBay-Token
-		erstellen.
+		erstellen.<br />
+		(Der Bereich <i>Extern</i> ist aktuell noch im BETA-Stadium. Weitere Anbindungen sind in Vorbereitung, z.B. zu Amazon...)
 	</li>
 </ul>

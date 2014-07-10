@@ -56,6 +56,12 @@
 		<br />
 		<strong>[ Sprache 2, 3, 4 ]</strong> - Felder für verschiedene Sprachen<br />
 		<br />
-		<strong>[ Extern ] eBay-ItemID</strong> - Hier können bereits existierende eBay-ItemIDs sortiert nach eBay-Ländern übernommen werden.
+		<strong>[ Extern ] eBay ID | eBay Bestand</strong> - Die Seite <i>Extern</i> dient dem täglichen Abgleich Ihrer Produktbestände
+		bei eBay. Wenn bereits Produkte bei eBay existieren, tragen Sie im Feld <i>eBay ID</i> die entsprechende eBay-ItemID ein
+		(einzeln oder per CSV-Import). Im Feld <i>eBay Bestand</i> muss der aktuelle Bestand für Ihr Produkts bei eBay hinterlegt sein.
+		Haben Sie hier die Bestände aller eBay-Artikel aktualisiert, können Sie diese in Ihren eBay-Account übertragen (abgleichen).
+		Für den Abgleich Ihrer Bestände bei eBay muss keine Schnittstelle angelegt werden. Dies funktioniert auf direktem Weg
+		über die eBay-API. Im Bereich <i>Datenpool ->Grundeinstellungen ->Sonstiges</i> müssen Sie dafür einen gültiger eBay-Token
+		erstellen.
 	</li>
 </ul>

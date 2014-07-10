@@ -18,9 +18,10 @@
 		<i>Nachdem Sie eine einzelne Kategorie angeklickt haben...</i><br />
 		<strong>[ Einstellungen ] Kategorie-ID, Parent-ID, Name, Spracheinstellungen</strong> - Ändern Sie hier die Einstellungen
 		der internen Kategorie.<br />
-		<strong>[ eBay ] Kategorie-ID für "..."</strong> - Tragen Sie hier eine korrekte Bay-Kategorie ein oder klicken Sie auf [ Suche ],
+		<strong>[ Extern ] eBay CatID</strong> - Tragen Sie hier eine korrekte Bay-Kategorie ein oder klicken Sie auf [ Suche ],
 		um eine passende eBay-Kategorie auszuwählen. Über den Button [ ID übernehmen ] wird die Kategorie in das jeweilige Feld eingetragen.
-		Speichern Sie Ihre hinzugefügten oder geänderten Inhalte.
+		Speichern Sie Ihre hinzugefügten oder geänderten Inhalte.<br />
+		(weitere Anbindungen, z.B. zu Amazon, sind in Vorbereitung...)
 	</li>
 	<li><h4>Button <span class="txtRed">[ Alle Kategorien löschen ... ]</span></h4>
 		Sie werden auf eine neue Seite weitergeleitet mit zusätzlicher Bestätigungsabfrage für die Löschaktion.

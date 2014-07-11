@@ -35,8 +35,9 @@
 		<br />
 		<strong>[ Allgemein ] ID, Parent-ID, EAN / GTIN, ISBN, Bestand, Verpackungseinheit, Preis, Alter Preis, Grundpreis, UVP,
 		Mehrwertsteuer, Größe, Gewicht,	Hersteller, Cross-Daten</strong> u.a.<br />
-		Falls Ihnen bestimmte Felder fehlen, so können Sie diese über die Funktion 'Freifelder' in <i>DATENPOOL ->Grundeinstellungen ->Allgemeines</i>
-		nachträglich hinzufügen. Alle Inhalte hier lassen sich optimalerweise natürlich über die Import-Funktion einlesen/ändern.<br />
+		Falls Ihnen bestimmte Felder bzw. Spalten fehlen, so können Sie diese über die Funktion <i>Freifelder/Variationen</i>
+		in <i>DATENPOOL ->Grundeinstellungen ->Datenquellen</i> nachträglich hinzufügen (getrennt nach Datenquelle).
+		Alle Inhalte hier lassen sich optimalerweise natürlich über die Import-Funktion einlesen/ändern.<br />
 		<br />
 		<strong>[ Stammdaten ] Name, Keywords, Beschreibungen</strong> - Produktname bzw. Titel, Produktbeschreibungen, weitere Eigenschaften<br />
 		<br />

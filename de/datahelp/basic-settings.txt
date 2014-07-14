@@ -17,9 +17,9 @@
 		(wenn nicht aktiviert). Stellen Sie sich eine Datenquelle als das Produktangebot eines Ihrer Lieferanten vor,
 		das Sie hier importieren, bearbeiten, speichern und als CSV-Datei exportieren können. Zu jeder Datenquelle 
 		lassen sich unterschiedliche CSV-Schnittstellen und Cronjobs einrichten und verwalten. Beispiel:<br />
-        Datenquelle 1: <i>Autoteile</i> [ Freifelder/Variationen ]<br />
-        Datenquelle 2: <i>Schmuck</i> [ Freifelder/Variationen ]<br />
-        Datenquelle 3: <i>Büromöbel</i> [ Freifelder/Variationen ]<br />
+		Datenquelle 1: <i>Autoteile</i> [ Freifelder/Variationen ]<br />
+		Datenquelle 2: <i>Schmuck</i> [ Freifelder/Variationen ]<br />
+		Datenquelle 3: <i>Büromöbel</i> [ Freifelder/Variationen ]<br />
 		<strong>[ Freifelder/Variationen ]</strong> - Definieren Sie hier beliebige Freifelder/Variationen und weisen Sie diese
 		beim Importieren Ihrer Daten den entsprechenden Spalten zu. Auch für den Export von CSV-Daten (eigene Schnittstellen)
 		stehen die Freifelder später zur Verfügung.

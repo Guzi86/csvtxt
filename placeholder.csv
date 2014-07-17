@@ -284,8 +284,8 @@ sonst;;Sonstiges;miscellaneous;;;;;;;;;;;282
 setupSee;;Einstellungen anzeigen;show settings;;;;;;;;;;;283
 server;;Server;server;;;;;;;;;;;284
 sendPassEmailSubject;;Ihre Zugangsdaten;Your access data;;;;;;;;;;;285
-sendPassEmail;;Hallo __db::vname__ __db::name__.[break][break]Mit dieser Email erhalten Sie Ihre Zugangsdaten[break]für die Seite www.csv4you.de.[break][break]Benutzer: __db::email__[break]Passwort: __db::pass__[break][break]Mit freundlichen Grüßen[break]Ihre Team von csv4you;Hello __db::vname__ __db::name__.[break][break]This Email is to notify you of your access data[break]for our web site www.csv4you.com.[break][break]Username: __db::email__[break]Password: __db::pass__[break][break]Best Regards[break]The team of csv4you;;;;;;;;;;;286
-sendPass;;Es wurde eine Email an Ihre hinterlegte Email-Adresse gesendet. ;Email has been send to your e-mail address.;;;;;;;;;;;287
+sendPassEmail;;Hallo __db::vname__ __db::name__.[break][break]Mit dieser E-Mail erhalten Sie Ihre Zugangsdaten[break]für die Seite www.csv4you.com.[break][break]Benutzer: __db::email__[break]Passwort: __db::pass__[break][break]Mit freundlichen Grüßen[break]Ihre Team von csv4you;Hello __db::vname__ __db::name__.[break][break]This Email is to notify you of your access data[break]for our web site www.csv4you.com.[break][break]Username: __db::email__[break]Password: __db::pass__[break][break]Best Regards[break]The team of csv4you;;;;;;;;;;;286
+sendPass;;Es wurde eine E-Mail an Ihre im System hinterlegte E-Mail-Adresse gesendet. ;An e-mail has been sent to your e-mail address.;;;;;;;;;;;287
 sendokText;;Wir beantworten  Ihre Nachricht innerhalb von 24-48 Stunden, während unserer Geschäftszeiten von Montag bis Freitag.;We will answer to your message within 25 h during our normal business time from Monday through Friday.;;;;;;;;;;;288
 sendok;;Vielen Dank!<br />Ihre Anfrage wurde erfolgreich gesendet.;Your enquiry has been successful transmitted to us.;;;;;;;;;;;289
 save;;Speichern;save;;;;;;;;;;;290
@@ -303,7 +303,7 @@ okLogout;;Sie haben sich erfolgreich vom System abgemeldet.;Your are loged off.;
 okEdit;;Aktualisierung erfolgreich durchgeführt;update successful;;;;;;;;;;;302
 noDB;;Es konnte nicht in die Datenbank geschrieben werden;unable to write into data base;;;;;;;;;;;303
 noUpload;;Ihre Daten konnten nicht geladen werden.;unable to load file;;;;;;;;;;;304
-notEmail;;Prüfen Sie Ihre Emailadresse(n)!;Check your e-Mail address!;;;;;;;;;;;305
+notEmail;;Prüfen Sie Ihre E-Mail-Adresse(n)!;Check your e-mail address!;;;;;;;;;;;305
 notBlank;;Rot markierte Felder müssen ausgefüllt werden!;Red marked fields must be filled in!;;;;;;;;;;;306
 noResult;;Leider konnten keine passenden Ergebnisse zu Ihrer Suche gefunden werden.;Unfortunately, there are no results that match your search criteria.;;;;;;;;;;;307
 noreadDB;;Es konnte nicht aus der Datenbank gelesen werden;unable to read from data base;;;;;;;;;;;308
@@ -320,7 +320,7 @@ menueHeadline2;;CSV-Dateien;CSV-Files;;;;;;;;;;;318
 mitteilung;;Ihre Nachricht;message;;;;;;;;;;;320
 myAccount;;Mein Konto;my account;;;;;;;;;;;321
 name;;Vorname Name;first name, last name;;;;;;;;;;;322
-loginText;;Bitte geben Sie hier Email-Adresse und Passwort ein.;Please, enter your emailadress and password.;;;;;;;;;;;323
+loginText;;Bitte geben Sie hier E-Mail-Adresse und Passwort ein.;Please, enter your e-mail adress and password.;;;;;;;;;;;323
 loginHeadline;;Melden Sie sich hier mit Ihren Zugangsdaten an;Login yourself with your access data here;;;;;;;;;;;324
 controlOrder;;Prüfen und Bestellen;control and order;;;;;;;;;;;325
 lock;;Zugang sperren;ban from access;;;;;;;;;;;326
@@ -340,7 +340,7 @@ formZeile3;;0,00 EUR Umsatz;0.00 € sales volume;;;;;;;;;;;339
 formZeile4;;Nutzer gesperrt!;Banned user!;;;;;;;;;;;340
 formZeile2;;länger als 2 Monate nicht eingeloggt;not logged in for more then 2 month;;;;;;;;;;;341
 formZeile1;;länger als 1 Monat nicht eingeloggt;not logged in for more then 1 month;;;;;;;;;;;342
-forgetPassText;;Bitte Ihre E-Mail-Adresse eingeben. Die Zugangsdaten werden Ihnen dann zugeschickt.;Please, enter your e-Mail address and we will send your access data immediately to you.;;;;;;;;;;;343
+forgetPassText;;Bitte Ihre E-Mail-Adresse eingeben. Die Zugangsdaten werden Ihnen dann zugeschickt.;Please, enter your e-mail address and we will send your access data immediately to you.;;;;;;;;;;;343
 firstSite;;erste Seite;first page;;;;;;;;;;;344
 firstName;;Vorname;first name;;;;;;;;;;;345
 firma;;Firma;firm;;;;;;;;;;;346
@@ -348,7 +348,7 @@ files;;Dateien;files;;;;;;;;;;;347
 file;;Datei;file;;;;;;;;;;;348
 nofile;;Die ausgewählte Datei konnte nicht gefunden werden.;This file ist not readable.;;;;;;;;;;;349
 noFileText;;<fieldset class="missing">%BREAK%<h2 class="txtRed">Es wurde bisher noch keine Schnittstelle aktiviert.</h2>%BREAK%Sie haben folgende Auswahlmöglichkeiten:<br /><br />%BREAK%<a href="'.makelink(11).'" class="arrow">Individuelle Schnittstellen aktivieren</a><br />%BREAK%<a href="'.makelink(38).'" class="arrow">Eine Standard-Schnittstelle auswählen</a><br /></fieldset>;;;;;;;;;;;;557
-existsEmail;;Diese Emailadresse ist bereits registriert.;This email address is already  registered.;;;;;;;;;;;350
+existsEmail;;Diese E-Mail-Adresse ist bereits registriert.;This e-mail address is already registered.;;;;;;;;;;;350
 falseCode;;Geben Sie bitte die richtigen Zeichen der Spamschutz-Grafik ein.;Please, enter the correct character string found in the anti-SPAM picture.;;;;;;;;;;;351
 errorText;;Es ist ein Fehler aufgetreten!;An error occurred!;;;;;;;;;;;352
 errorStart;;Es traten folgende Fehler auf:;The following errors occurred:;;;;;;;;;;;353
@@ -386,7 +386,7 @@ paypalTxt;;Sie haben als Zahlungsmethode <strong>PayPal</strong> ausgewählt.<br
 payok;;Bezahlung erfolgreich abgeschlossen;;;;;;;;;;;;385
 payokTxt;;Ihre Bestellung wird jetzt bearbeitet und schnellstens ausgeliefert.<br /><br />%BREAK%Vielen Dank.;;;;;;;;;;;;386
 payAlreadyOk;;Bezahlung wurde bereits abgeschlossen;;;;;;;;;;;;387
-payAlreadyOkTxt;;Sollte Ihre Zahlung noch nicht erfolgt sein,<br />wenden Sie sich bitte per Telefon oder Email an uns.<br /><br />Vielen Dank.;;;;;;;;;;;;388
+payAlreadyOkTxt;;Sollte Ihre Zahlung noch nicht erfolgt sein,<br />wenden Sie sich bitte per Telefon oder E-Mail an uns.<br /><br />Vielen Dank.;;;;;;;;;;;;388
 payment;;Bezahlung;Payment ;;;;;;;;;;;389
 vorkasseTxt;;Sie haben als Zahlungsmethode <strong>Vorkasse</strong> gewählt.%BREAK%<br />Überweisen Sie bitte den Rechnungsbetrag an unten stehende Bankverbindung.;;;;;;;;;;;;390
 orderNumber;;Bestellnummer;Ordernumber;;;;;;;;;;;391
@@ -530,7 +530,7 @@ columnClass;Vorlage Spaltenzuordnung;Vorlage Spaltenzuordnung;template column cl
 templateSave;Vorlage speichern;Vorlage speichern;template save;;;;;;;;;;;535
 fileType;Datei-Typ;Datei-Typ;file type;;;;;;;;;;;536
 deleteAllDataRecords;;ALLE bereits vorhandenen Datensätze dieser Datenquelle vorher löschen?;delete ALL existing data records in the datasource?;;;;;;;;;;;537
-registerButtonTxt;;Jetzt kostenfrei einen Account registrieren!;Register now for free account!;;;;;;;;;;;602
+registerButtonTxt;;Jetzt kostenfrei ein Konto erstellen!;Create an Account now!;;;;;;;;;;;602
 noCategory;;Es wurden keine Kategorienzuordnungen gefunden!;No matching categories found!;;;;;;;;;;;538
 subscriptions;subscriptions, Abonnements, Schnittstellen;Schnittstellen;Interfaces;;;;;;;;;;;539
 unlockMoreInterfaces;;Neue Schnittstellen aktivieren;activate new interfaces;;;;;;;;;;;540
@@ -595,7 +595,7 @@ noSupplier;;Die Datenquelle konnte nicht gewechselt werden.;data source changed 
 dataSources;;Datenquellen;Data sources;;;;;;;;;;;601
 deleteAccount;;Account + Daten komplett löschen?;Delete account + data completely?;;;;;;;;;;;603
 deleteAccountTxt;;Account und alle gespeicherten Daten JETZT unwideruflich löschen?!;Delete NOW this Account and all stored data irrevocably?!;;;;;;;;;;;604
-openFrameTxtHeadlineImport;;Ihre Daten werden importiert.;Your data will be imported.;;;;;;;;;;;606
+openFrameTxtHeadlineImport;;Ihre Daten werden importiert......;Your data will be imported......;;;;;;;;;;;606
 openFrameTxtImport;;Dieser Vorgang kann je nach Anzahl und Auswahl der Daten eine Weile dauern.<br />Das Fenster sollte während des Imports nicht geschlossen werden.;import file;;;;;;;;;;;607
 openFrameTxtErrorImport;;<b>Es konnte nicht importiert werden.</b>;error;;;;;;;;;;;608
 openFrameTxtErrorHeadlineImport;;Die Import konnte nicht gestartet werden.;import error;;;;;;;;;;;609
@@ -636,9 +636,9 @@ noToken;;Ihr Token ist abgelaufen oder Sie benutzen noch keinen gültigen Token.
 availableUntil;;Gültig bis zum;Available until;;;;;;;;;;;648
 endToken;;Der Token ist abgelaufen.;The token has expired.;;;;;;;;;;;649
 ebayQuantityErrorTxt;;Überprüfen Sie Ihre Bestände bei eBay, da es Unstimmigkeiten mit den Beständen im Datenpool gibt.;Check your inventory on eBay because there are inconsistencies with the holdings in the data pool.;;;;;;;;;;;650
-ebayProducts;;Gelistete Artikel auf eBay;Listed items on eBay;;;;;;;;;;;651
+listProducts;;Gelistete Artikel;Listed items;;;;;;;;;;;651
 noSomeUpdate;;Einige Produkte konnten nicht abgeglichen werden.;Some products could not be matched.;;;;;;;;;;;652
-readInEbay;;Einlesen;read in;;;;;;;;;;;653
+readIn;;Einlesen;read in;;;;;;;;;;;653
 balance;;abgleichen;balance;;;;;;;;;;;654
 readInEbayList;;Bestände von eBay einlesen;Read in stocks from eBay;;;;;;;;;;;655
 excelSheet;;Excel Blatt;Excel sheet;;;;;;;;;;;656
@@ -646,3 +646,5 @@ reset;;Reset;reset;;;;;;;;;;;657
 noProductData;;Es sind keine Datensätze in diesem Datenpool vorhanden. Importieren Sie eine Datendatei oder legen Sie Ihre Produktdaten manuell an.<br />%BREAK%Übrigens können Sie mehrere Datenquellen einrichten unter Datenpool ->Grundeinstellungen ->Datenquellen...;There are no records in this data pool available. Import a data file or insert your product data manually.<br />By the way, you can set up several data sources under Datapool ->Basic Settings ->Data Sources...;;;;;;;;;;;659
 noData;;Keine Daten vorhanden!;No data records available!;;;;;;;;;;;658
 updateBlankColumns;;Wenn UPDATE: Fehlende Spalten ignorieren!;If UPDATE: Ignore missing columns!;;;;;;;;;;;660
+resetStockToZero;;Alle Lagerbestände vor dem Import auf 0 setzen?;Reset stock of all records before import to 0?;;;;;;;;;;;661
+questionNotes;;Fragen/Hinweise;questions/notes;;;;;;;;;;;662

@@ -113,7 +113,9 @@
 <h3>[ Cronjob ]</h3>
 <ul>
 	<li><h4>Automatische Aktualisierung dieser Datei</h4>
-		Jede CSV-Datei kann automatisch aktualisiert werden. Geben Sie hier die gewünschte Uhrzeit an.
+		Jede CSV-Datei kann automatisch aktualisiert werden. Geben Sie hier die gewünschte Uhrzeit an.<br />
+		<span class="txtRed">Wichtig:</span> Wenn Sie Ihre Daten im Datenpool länger als 4 Wochen nicht aktualisieren,
+		werden hier eingestellte Cronjobs automatisch deaktiviert!
 	</li>
 </ul>
 

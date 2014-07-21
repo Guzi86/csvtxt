@@ -11,7 +11,8 @@ der Formatierung:<br /><br />
 	</li>
 	<li>
 		<b>Feld kürzen</b> - truncate<br />
-		Bsp. - Bildname1 auf die ersten 4 Zeichen kürzen: <i>[pic1|truncate:4]</i>
+		Bsp. 1 - Von Bildname1 nur die ersten 4 Zeichen ausgeben: <i>[pic1|truncate:4]</i>
+		Bsp. 2 - Von Art.-Nummer 10 Zeichen ab Position 3 ausgeben: <i>[itemno|truncate:10:3]</i>
 	</li>
 	<li>
 		<b>Preis Netto</b> - net<br />
@@ -31,5 +32,5 @@ der Formatierung:<br /><br />
 	</li>
 </ul>
 
-Diese Funktionen lassen sich auch auf den Import und Export von Daten anwenden (Vorlagen).<br />
+Diese Funktionen lassen sich auch auf den Import und Export von Daten anwenden (Import-Vorlagen bzw. Templates).<br />
 Weitere Formatierungen folgen, bzw. richten wir auf Anfrage ein...

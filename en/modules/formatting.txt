@@ -11,7 +11,7 @@ der Formatierung:<br /><br />
 	</li>
 	<li>
 		<b>Feld kürzen</b> - truncate<br />
-		Bsp. 1 - Von Bildname1 nur die ersten 4 Zeichen ausgeben: <i>[pic1|truncate:4]</i>
+		Bsp. 1 - Von Bildname1 nur die ersten 4 Zeichen ausgeben: <i>[pic1|truncate:4]</i><br />
 		Bsp. 2 - Von Art.-Nummer 10 Zeichen ab Position 3 ausgeben: <i>[itemno|truncate:10:3]</i>
 	</li>
 	<li>

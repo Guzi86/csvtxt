@@ -31,4 +31,5 @@ der Formatierung:<br /><br />
 	</li>
 </ul>
 
+Diese Funktionen lassen sich auch auf den Import und Export von Daten anwenden (Vorlagen).<br />
 Weitere Formatierungen folgen, bzw. richten wir auf Anfrage ein...

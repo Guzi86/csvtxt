@@ -31,6 +31,6 @@ der Formatierung:<br /><br />
 		Bsp. - Beschreibung als fortlaufenden Text ausgeben: <i>[description|clear]</i>
 	</li>
 </ul>
-
+<br />
 Diese Funktionen lassen sich auch auf den Import und Export von Daten anwenden (Import-Vorlagen bzw. Templates).<br />
 Weitere Formatierungen folgen, bzw. richten wir auf Anfrage ein...

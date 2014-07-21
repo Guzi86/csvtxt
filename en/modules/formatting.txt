@@ -1,0 +1,34 @@
+<span class="txtGreen">
+	<strong>Formatierung/Berechnung von Feldinhalten</strong>
+</span><br />
+Zur Formatierungen des Inhalts einzelner Datenfelder in Ihrer CSV-Datei stehen Ihnen verschiedene Möglichkeiten zur Verfügung.
+Verwenden Sie dazu den jeweiligen Feldnamen zusammen mit der Pipe (also dem senkrechten Strich |). Dahinter folgt die Art
+der Formatierung:<br /><br />
+<ul>
+	<li>
+		<b>Ersetzen</b> - replace:'Suchtext':'Ersetzentext'<br />
+		Bsp. - Komma im Preis durch Punkt ersetzen: <i>[price|replace:',':'.']</i>
+	</li>
+    <li>
+        <b>Feld kürzen</b> - field|truncate:4'<br />
+        Bsp. - Bildname1 auf die ersten 4 Zeichen kürzen: <i>[pic1|truncate:4]</i>
+    </li>
+	<li>
+		<b>Preis Netto</b> - net<br />
+		Bsp. - Preis netto, abzgl. Mehrwersteuer ausgeben: <i>[price|net]</i>
+	</li>
+	<li>
+		<b>Texte mit Html</b> - html<br />
+		Bsp. - Beschreibungstexte die mit HTML importiert werden: <i>[description|html]</i>
+	</li>
+	<li>
+		<b>Texte ohne Html mit Zeilenumbrüchen</b> - text<br />
+		Bsp. - Beschreibungstexte die nicht als HTML-Text importiert werden sollen (Umbrüche im Text werden formatiert): <i>[description|text]</i>
+	</li>
+	<li>
+		<b>Texte ohne Html und ohne Zeilenumbrüche</b> - clear<br />
+		Bsp. - Beschreibung als fortlaufenden Text ausgeben: <i>[description|clear]</i>
+	</li>
+</ul>
+
+Weitere Formatierungen folgen, bzw. richten wir auf Anfrage ein...

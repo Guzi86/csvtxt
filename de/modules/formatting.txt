@@ -9,10 +9,10 @@ der Formatierung:<br /><br />
 		<b>Ersetzen</b> - replace:'Suchtext':'Ersetzentext'<br />
 		Bsp. - Komma im Preis durch Punkt ersetzen: <i>[price|replace:',':'.']</i>
 	</li>
-    <li>
-        <b>Feld kürzen</b> - field|truncate:4'<br />
-        Bsp. - Bildname1 auf die ersten 4 Zeichen kürzen: <i>[pic1|truncate:4]</i>
-    </li>
+	<li>
+		<b>Feld kürzen</b> - field|truncate:4'<br />
+		Bsp. - Bildname1 auf die ersten 4 Zeichen kürzen: <i>[pic1|truncate:4]</i>
+	</li>
 	<li>
 		<b>Preis Netto</b> - net<br />
 		Bsp. - Preis netto, abzgl. Mehrwersteuer ausgeben: <i>[price|net]</i>

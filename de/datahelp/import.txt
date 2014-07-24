@@ -72,6 +72,8 @@
 		<strong>__translate::buildExtCat__</strong> - %md.cats_synchronize%<br />
 		<strong>Spaltenzuordnung als Vorlage speichern unter</strong> Speichern Sie Ihre erstmalige Zuordnung als Vorlage. So muss die Zuordnung
 		der Spalten bei wiederholten Importen nicht neu eingerichtet werden. Bitte wählen Sie dazu einen aussagekräftigen Namen - z.B.
-		'IMPORT-Vorlage XTCommerce'. Auch die Aktualisierung einer bereits bestehenden Spaltenzuordnung lässt sich hier vornehmen.
+		'IMPORT-Vorlage XTCommerce'. Auch die Aktualisierung einer bereits bestehenden Spaltenzuordnung lässt sich hier vornehmen.<br />
+		<span class="txtRed">Wichtig:</span> Für den automatischen Import von Daten per Cronjob ist das Anlegen und Zuweisen
+		einer Importvorlage zwingende Voraussetzung!
 	</li>
 </ul>

@@ -2,7 +2,9 @@
 <p>
 	Hier haben Sie die Möglichkeit, unterschiedliche Daten-Feeds täglich zu bestimmten Zeiten automatisch in Ihren Datenpool einlesen zu lassen
 	(z.B. aufgrund von Bestandsänderungen). Folgende Datentypen können aktuell per Cronjob importiert werden:
-	<strong>Produkte (Artikel), Bestand und Kategorien</strong>.
+	<strong>Produkte (Artikel), Bestand und Kategorien</strong>.<br />
+	<span class="txtRed">Wichtig:</span> Für das korrekte Anlegen eines Import-Cronjobs ist die Einrichtung einer entsprechenden Importvorlage                
+	zwingende Voraussetzung! Jedem Cronjob muss eine Vorlage zugewiesen sein.
 </p>
 <ul>
 	<li><h4>Cronjob (Import)</h4>

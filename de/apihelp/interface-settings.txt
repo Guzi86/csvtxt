@@ -16,7 +16,9 @@
 		<i>*Achtung! Dieses Feld ist nur für solche Schnittstellen sichtbar, die mehrere Dateien beim Download beinhalten.</i><br />
 		<strong>Name</strong> - frei wählbar, nur für die interne Anzeige<br />
 		<strong>Dateiname</strong> - Name der zu exportierenden Datei (bitte hier keine Sonderzeichen, Leerzeichen etc. verwenden)<br />
-		<strong>kurze Beschreibung</strong> - Tragen Sie hier eine kurze Beschreibung zu Ihrer CSV-Datei ein (optional).
+		<strong>kurze Beschreibung</strong> - Tragen Sie hier eine kurze Beschreibung zu Ihrer CSV-Datei ein (optional).<br />
+		<strong>Direkt-Link 'xXxXxX' ändern</strong> - Haben Sie bereits eine Exportdatei gespeichert, so können Sie hier den Link
+		zu Ihrer Datei ändern, z.B. aus Sicherheitsgründen (optional). Den Link zu Ihrer Exportdatei finden Sie im rechten Fenster.
 	</li>
 	<li><h4>Allgemeines</h4>
 		<strong>Produkttexte verwenden aus*</strong> - Haben Sie Produkttexte in verschiedenen Sprachen hinterlegt, können Sie diese hier auswählen.
@@ -124,5 +126,16 @@
 	<li><h4>(Schnittstelle)-Einstellungen</h4>
 		Hier finden Sie schnittstellen-spezifische Einstellungen bzw. Felder, die Sie mit den benötigten Werten belegen können
 		(Option nicht für jede Schnittstelle verfügbar).
+	</li>
+</ul>
+
+<h3>[ eigene Spaltenzuordnung ]</h3>
+<ul>
+	<li><h4>Spalteninhalte durch eigene Werte ersetzen</h4>                                                                                                                
+		<span class="txtRed">Wichtig:</span> Auf dieser Seite ist es normalerweise nicht notwendig Einstellungen vorzunehmen!<br />
+		Möchten Sie dennoch bestimmte Spalten der Schnittstelle durch eigene Werte ersetzen, können Sie dies hier tun. Alle hier
+		gemachten Einträge überschreiben die in der Schnittstelle standardmäßig hinterlegten Spalteninhalte. Um Inhalte aus dem
+		Datenpool zuzuweisen, klicken Sie mit der Maus in das betreffende Eingabefeld und danach rechts auf den Platzhalter,
+		den Sie dieser Spalte zuweisen möchten (<i>Speichern</i> nicht vergessen). 
 	</li>
 </ul>

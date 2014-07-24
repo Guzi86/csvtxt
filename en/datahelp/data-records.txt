@@ -15,7 +15,7 @@
 		<strong>Suchbegriffe mit Funktionen:</strong><br />neu = alle Neuzugänge<br />unbenannt = Artikel ohne eigenen Titel<br />
 		Text in eckigen Klammern [Suchwort]: sucht den genauen Text "Suchwort"
 	</li>
-	<li><h4>Eigene Datenpool 1 bis (n) von...</h4>
+	<li><h4>Eigener Datenpool 1 bis (n) von...</h4>
 		Wurden bereits Datensätze importiert bzw. angelegt, sehe Sie hier eine Liste. Um einen einzelnen Datensatz zu bearbeiten,
 		klicken Sie auf die 'ID' oder den 'Namen' (Titel) des Datensatzes oder tragen Sie Ihre Änderungen direkt in die dafür vorgesehenen
 		Felder ein. <br />

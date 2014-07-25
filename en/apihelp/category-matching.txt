@@ -19,8 +19,9 @@
 	<li><h4>Kategoriezuordnung... (Schnittstelle)</h4>
 		In der <strong>linken Spalte</strong> sehen Sie alle verfügbaren internen Kategorien des oben ausgewählten Datenpools.
 		Tragen Sie hier nun zu jeder dieser internen Kategorien die passende Nummer oder Bezeichnung Ihrer Schnittstellenkategorie ein
-		(Shopkategorien). Die <strong>hier eingetragenen Werte</strong> werden als Kategorien in Ihre CSV-Datei übermommen.<br />
-		<span class="txtRed">Wichtig:</span> Falls Sie hier keine Kategorien eintragen, wird Ihre Kategoriestruktur aus dem Datenpool
-		in die CSV-Datei übernommen.
+		(Shopkategorien). Die <strong>hier eingetragenen Werte</strong> werden als Kategorien in Ihre CSV-Datei übernommen.<br />
+		<span class="txtRed">Wichtig:</span> Falls Sie hier keine Kategorien eintragen, sind später auch in Ihrer CSV-Datei
+		keine Kategorien vorhanden, bzw. die Inhalte der Kategoriespalten bleiben leer. Dies führt in vielen Fällen zu Fehlermeldungen
+		beim Import der CSV-Datei in Ihr Shopsystem. Es sollte daher <strong>immer</strong> eine Kategoriezuordnung angelegt sein.
 	</li>
 </ul>

@@ -37,7 +37,7 @@
 		(z.B. Zustand = 'NEU' oder Menge = '1'), so tragen Sie diesen Wert bitte hier ein (NEU oder 1).
 		Die Zuordnung 'Spaltenname in Importdatei' in solchen Fällen bitte leer lassen.<br />
 		<br />
-		<a name="fieldFormat" id="fieldFormat"></a>%md.formatierung%
+		<a name="fieldFormatData" id="fieldFormatData"></a>%md.formatierung%
 	</li>
 </ul>
 

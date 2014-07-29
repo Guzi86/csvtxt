@@ -48,4 +48,5 @@ Hier einige Beispiele für die erweiterten Feldfunktionen:<br /><br />
 		wenn Beides nicht zutrifft schreibe nichts in das Feld.<br />
 	</li>
 </ul>
+<br />
 Weitere Formatierungen folgen, bzw. richten wir ggf. auf Anfrage ein...

@@ -35,7 +35,9 @@
 		<span class="txtRed">Wichtig:</span> In Spaltennamen, wenn möglich, bitte keine Leerzeichen, Sonderzeichen oder Umlaute verwenden.<br />
 		<strong>erweiterte Optionen</strong> - Sollen alle Datensätze bestimmter Spalten einen festen Wert bekommen
 		(z.B. Zustand = 'NEU' oder Menge = '1'), so tragen Sie diesen Wert bitte hier ein (NEU oder 1).
-		Die Zuordnung 'Spaltenname in Importdatei' in solchen Fällen bitte leer lassen.
+		Die Zuordnung 'Spaltenname in Importdatei' in solchen Fällen bitte leer lassen.<br />
+		<br />
+		<a name="fieldFormat" id="fieldFormat"></a>%md.formatierung%
 	</li>
 </ul>
 

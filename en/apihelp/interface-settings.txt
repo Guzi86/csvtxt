@@ -136,6 +136,8 @@
 		Möchten Sie dennoch bestimmte Spalten der Schnittstelle durch eigene Werte ersetzen, können Sie dies hier tun. Alle hier
 		gemachten Einträge überschreiben die in der Schnittstelle standardmäßig hinterlegten Spalteninhalte. Um Inhalte aus dem
 		Datenpool zuzuweisen, klicken Sie mit der Maus in das betreffende Eingabefeld und danach rechts auf den Platzhalter,
-		den Sie dieser Spalte zuweisen möchten (<i>Speichern</i> nicht vergessen). 
+		den Sie dieser Spalte zuweisen möchten (<i>Speichern</i> nicht vergessen).<br /> 
+		<br />
+		<a name="fieldFormat" id="fieldFormat"></a>%md.formatierung%
 	</li>
 </ul>

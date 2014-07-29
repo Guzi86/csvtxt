@@ -31,21 +31,21 @@ Hier einige Beispiele für die erweiterten Feldfunktionen:<br /><br />
 		<b>Texte ohne Html und ohne Zeilenumbrüche</b> - clear<br />
 		Beispiel - Beschreibung als fortlaufenden Text ausgeben: <i>[description|clear]</i><br />
 	</li>
-	    <li>
-        <b>IF-Abfrage</b> - {IF 'Feld' == ''}{ENDIF}<br />
-        Beispiel: <i style="font-size:120%;">{IF 'SpalteBestand' > '5'}5{ENDIF}</i><br />
-        Bedeutet:  Wenn 'SpalteBestand' Wert größer 5, schreibe 5 - ansonsten schreibe nichts in das Feld.<br />
-    </li>
-    <li>
-        <b>IF-ELSE-Abfrage</b> - {IF 'Feld' == ''}{ELSE}{ENDIF}<br />
-        Beispiel: <i style="font-size:120%;">{IF 'SpalteVerfuegbar' != 'ja'}0{ELSE}1{ENDIF}</i><br />
-        Bedeutet:  Wenn 'SpalteVerfuegbar' Wert nicht wie 'ja', schreibe 0 - ansonsten schreibe 1.<br />
-    </li>
-    <li>
-        <b>IF-ELSE-Abfrage</b> - {IF 'Feld' == ''}{ELSEIF 'Feld' == ''}{ELSE}{ENDIF}<br />
-        Beispiel: <i style="font-size:120%;">{IF 'SpalteVerfuegbar' == 'nein'}0{ELSEIF 'SpalteVerfuegbar' == 'ja'}1{ELSE}{ENDIF}</i><br />
-        Bedeutet: Wenn 'SpalteVerfuegbar' Wert=nein, schreibe 0 - wenn 'SpalteVerfuegbar' Wert=ja, schreibe 1 -
-        wenn Beides nicht zutrifft schreibe nichts in das Feld.<br />
-    </li>
+	<li>
+		<b>IF-Abfrage</b> - {IF 'Feld' == ''}{ENDIF}<br />
+		Beispiel: <i style="font-size:120%;">{IF 'SpalteBestand' > '5'}5{ENDIF}</i><br />
+		Bedeutet:  Wenn 'SpalteBestand' Wert größer 5, schreibe 5 - ansonsten schreibe nichts in das Feld.<br />
+	</li>
+	<li>
+		<b>IF-ELSE-Abfrage</b> - {IF 'Feld' == ''}{ELSE}{ENDIF}<br />
+		Beispiel: <i style="font-size:120%;">{IF 'SpalteVerfuegbar' != 'ja'}0{ELSE}1{ENDIF}</i><br />
+		Bedeutet:  Wenn 'SpalteVerfuegbar' Wert nicht wie 'ja', schreibe 0 - ansonsten schreibe 1.<br />
+	</li>
+	<li>
+		<b>IF-ELSE-Abfrage</b> - {IF 'Feld' == ''}{ELSEIF 'Feld' == ''}{ELSE}{ENDIF}<br />
+		Beispiel: <i style="font-size:120%;">{IF 'SpalteVerfuegbar' == 'nein'}0{ELSEIF 'SpalteVerfuegbar' == 'ja'}1{ELSE}{ENDIF}</i><br />
+		Bedeutet: Wenn 'SpalteVerfuegbar' Wert=nein, schreibe 0 - wenn 'SpalteVerfuegbar' Wert=ja, schreibe 1 -
+		wenn Beides nicht zutrifft schreibe nichts in das Feld.<br />
+	</li>
 </ul>
 Weitere Formatierungen folgen, bzw. richten wir ggf. auf Anfrage ein...

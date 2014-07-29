@@ -6,11 +6,11 @@ zur Verfügung. Bitte achten Sie auf die korrekte Verwendung der Pipe (dem senkr
 Hier einige Beispiele für die erweiterten Feldfunktionen:<br /><br />
 <ul>
 	<li>
-		<b>Ersetzen</b> - replace:'Suchtext':'Ersetzentext'<br />
+		<b>Feldinhalt ersetzen</b> - replace:'Suchtext':'Ersetzentext'<br />
 		Beispiel - Komma im Preis durch Punkt ersetzen: <i style="font-size:120%;">[price|replace:',':'.']</i><br />
 	</li>
 	<li>
-		<b>Feld kürzen</b> - truncate<br />
+		<b>Feldinhalt kürzen</b> - truncate<br />
 		Beispiel 1 - Von Bildname1 nur die ersten 4 Zeichen ausgeben: <i style="font-size:120%;">[pic1|truncate:4]</i><br />
 		Beispiel 2 - Von Art.-Nummer 10 Zeichen ab Position 3 ausgeben: <i style="font-size:120%;">[itemno|truncate:10:3]</i><br />
 	</li>

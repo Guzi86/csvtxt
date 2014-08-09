@@ -1,10 +1,14 @@
 <p></p>
 <p>
-	In the <strong>DATA POOL</strong> are all product specifications, internal categories, import templates etc. captured. 
-	Import your data records from any file format from your PC or via URL of a webserver into the database of csv4you.com. Alternatively, data records can be created individually. <br />
+	In the <strong>DATA POOL</strong> are all product specifications, internal categories, import templates etc.
+	captured. 
+	Import your data records from any file format from your PC or via URL of a webserver into the database of
+	csv4you.com. Alternatively, data records can be created individually. <br />
 	<br />
-	The data pool serves as administration and processing of data records as well as assigning these data records to internal categories.
-	It is possible to administrate several data pools, e.g. for assigning to different suppliers. Via Cronjobs all data imports and updates can be automatized. <br />
+	The data pool serves as administration and processing of data records as well as assigning these data records to
+	internal categories.
+	It is possible to administrate several data pools, e.g. for assigning to different suppliers. Via Cronjobs all
+	data imports and updates can be automatized. <br />
 	<br />
 	The transforming of your data into the desired interface format happens later in the area INTERFACE.
 </p>

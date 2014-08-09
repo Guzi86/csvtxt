@@ -1,9 +1,9 @@
 <p></p>
 <p>
-	Im Bereich <strong>ACCOUNT</strong> sind die notwendigen Angaben zu Ihrer Firma hinterlegt.<br />
-	Zusätzlich können Sie hier verfügbare Schnittstellen aktivieren/deaktivieren und bei Fragen ein Ticket an den Support schreiben.
+	In the area <strong>ACCOUNT</strong> are the necessary data of your company entered. <br />
+	Furthermore, you can here activate/deactivate available interfaces and in case of questions write a ticket to the support.
 </p>
 <p>
-	Falls Sie Ihren <span class="txtRed">Account inkl. der gespeicherten Daten löschen</span> möchten, gehen Sie bitte
-	zur Unterseite <i>Account ->Persönliche Angaben</i>.
+	If you want to <span class="txtRed">delete your account including the stored data </span>, please go to the
+	bottom side <i>Account ->Personal Information</i>.
 </p>

@@ -1,11 +1,11 @@
 <p>
-    Das Hilfecenter erreichen Sie jederzeit über den <strong>grünen Hilfe-Button am rechten Bildschirmrand</strong>.
-    Die Aktivierung von JavaScript ist dafür notwendig.
+    You can always reach the support center via the <strong>green support button on the right side of the screen. </strong>.
+    The activation of JavaScript is necessary.
 </p>
 <p>
-	Sollten Sie Fragen haben, die nicht in den Hilfetexten beantwortet werden, stellen Sie diese bitte zuerst
-	in unserem <a href="http://www.innonetz.de/" title="Hilfe-Forum">Forum</a>. So stehen unsere Antworten
-	auch anderen interessierten Nutzern zur Verfügung.<br />
-	Zusätzlich können Sie als registrierter Nutzer bei Fragen und Problemen unser <strong>kostenfreies
-	Ticketsystem</strong> verwenden (erreichbar über den Menüpunkt ACCOUNT).
+	Should you have questions which are not answered in the support textes, please ask them first in our 
+	<a href="http://www.innonetz.de/" title="Hilfe-Forum">Forum</a>. This way, our answers are available to other
+	interested users.<br />
+	Additionally, you can use our <strong>free ticket system</strong> for questions and problems as a registered user.
+	(accessible via the menu item ACCOUNT).
 </p>

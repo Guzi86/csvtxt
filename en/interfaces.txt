@@ -1,7 +1,6 @@
 <p></p>
 <p>
-	Im Bereich <strong>SCHNITTSTELLEN</strong> werden alle notwendigen Einstellungen definiert,
-	um Ihre Daten aus dem DATENPOOL in das gewünschte CSV- oder XML-Format zu exportieren.
-	Sie können dazu unsere bereits vorformatierten Schnittstellen nutzen oder eigene Datenformate mit
-	individuellen Kopf- und Inhaltsbereichen anlegen.
+	In the area <strong>INTERFACES</strong> are all necessary settings defined to export your data from the DATA POOL
+	into the desired CSV or XML format. 
+	You can use already formatted interface or create your own data formats with individual header and content areas.
 </p>

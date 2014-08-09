@@ -1,15 +1,16 @@
 <p></p>
 <p>
-	Im <strong>DATENPOOL</strong> werden sämtliche Produktdaten, interne Kategorien, Importvorlagen u.a. erfasst.
-	Importieren Sie Ihre Datensätze aus beliebigen Dateiformaten von Ihrem PC oder per URL von einem Webserver
-	in die Datenbank von csv4you.com. Alternativ können Datensätze auch einzeln angelegt werden.<br />
-	Der Datenpool dient zur Verwaltung und Bearbeitung von Datensätzen sowie der Zuordung dieser Datensätze zu internen Kategorien.
-	Es lassen sich mehrere Datenpools verwalten, z.B. als Zuordnung für verschiedene Lieferanten. Über Cronjobs können alle
-	Datenimporte und Aktualisierungen automatisiert werden.<br />
-	Das Umwandeln Ihrer Daten in das gewünschte Schnittstellenformat erfolgt dann später im Bereich SCHNITTSTELLEN.
+	In the <strong>DATA POOL</strong> are all product specifications, internal categories, import templates etc. captured. 
+	Import your data records from any file format from your PC or via URL of a webserver into the database of csv4you.com. Alternatively, data records can be created individually. <br />
+	<br />
+	The data pool serves as administration and processing of data records as well as assigning these data records to internal categories.
+	It is possible to administrate several data pools, e.g. for assigning to different suppliers. Via Cronjobs all data imports and updates can be automatized. <br />
+	<br />
+	The transforming of your data into the desired interface format happens later in the area INTERFACE.
 </p>
 <p>
-	Alle hochgeladenen Datensätze sind NICHT öffentlich, sie stehen also grundsätzlich nur Ihnen zur Verfügung (<strong>privat data</strong>).
-	Auf Anfrage können wir Ihren Datenpool freischalten, so dass Ihre Produktdaten dann auch von anderen Händlern verwendet werden können
+	All uploaded data records are NOT public; they are only available to you. (<strong>private data</strong>).
+	On request we can unlock your data pool for allowing other dealers to use your product specifications 
 	(<strong>public data</strong>).
+
 </p>

@@ -1,3 +1,0 @@
-<p>
-	Eine Übersicht Ihrer letzten Aktivitäten (Import und Export von Dateien, Schnittstellen-Aktivierungen etc.)
-</p>

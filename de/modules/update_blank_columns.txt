@@ -1,7 +1,0 @@
-- Nur zutreffend für UPDATES: Wenn Sie nur bestimmte 'Spalten' Ihres Datenpools aktualisieren möchten,
-sollte die Option aktiviert sein. Es werden dann nur die für den betreffenden Import ausgewählten Spalten
-Ihres Datenpools aktualisiert. Beispiel:<br />
-Ihr Datenpool enthält 20 Spalten mit verschiedenen Werten, Sie möchten aber nur die Spalte TITEL und EAN aktualisieren,
-z.B. weil sich einige Produkttitel Ihres Angebots geändert haben und aktualisiert werden müssten.
-Markieren Sie dann die Option hier und importieren Sie nur die Spalten EAN und TITEL.
-EAN-Nummern sollten sich natürlich nicht geändert haben, damit eine korrekte Zuordnung der neuen Titel erfolgen kann.

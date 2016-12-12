@@ -1,9 +1,0 @@
-<p></p>
-<p>
-	Im Bereich <strong>ACCOUNT</strong> sind die notwendigen Angaben zu Ihrer Firma hinterlegt.<br />
-	Zusätzlich können Sie hier verfügbare Schnittstellen aktivieren/deaktivieren und bei Fragen ein Ticket an den Support schreiben.
-</p>
-<p>
-	Falls Sie Ihren <span class="txtRed">Account inkl. der gespeicherten Daten löschen</span> möchten, gehen Sie bitte
-	zur Unterseite <i>Account ->Persönliche Angaben</i>.
-</p>

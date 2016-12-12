@@ -1,6 +1,0 @@
-<p></p>
-<p>
-	In the area <strong>INTERFACES</strong> are all necessary settings defined to export your data from the DATA POOL
-	into the desired CSV or XML format. 
-	You can use already formatted interface or create your own data formats with individual header and content areas. 
-</p>
